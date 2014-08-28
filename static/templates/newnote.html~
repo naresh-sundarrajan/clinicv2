@@ -1,0 +1,46 @@
+{% extends 'base.html'%}
+{% block content%}
+{% load staticfiles %}
+<html lang="en">
+<head>
+        <script type="text/javascript" src="{% static "ckeditor/ckeditor/ckeditor.js" %}"></script>
+	    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	    <script src="/static/js/jquery.min.js"></script>
+	    <script src="/static/js/jquery.min.js"></script>    
+		<script src="/static/js/typeahead.bundle.js"></script>
+	    <script src="/static/js/handlebars.js"></script>
+	    <script src="/static/js/autofill_input.js"></script>
+
+
+</head>
+<big><big><big>New Note for Patient </big></big></big>{last_name, first_name}<br><big><big><br></big></big>
+<br>
+<br>
+<br>
+
+<body>
+<form method='post' action=''> {%csrf_token%}
+
+{{form.as_p}}
+    {{ NoteForm.media }}
+
+
+    {{form.as_p}}
+    {{ NoteForm.media }}
+
+<!-- ADDING NEW CONTENT FOR AJAX TESTING 
+	<div class="textarea-wrapper">
+                
+                <textarea id="textarea" rows="25" cols="90"></textarea>
+     </div>
+<!-- END NEW CONTENT FOR AJAX TESTING -->
+
+
+    <input type='submit' value='Save Note'> <br>
+</form>
+
+</body>
+</html>
+
+
+{% endblock %}

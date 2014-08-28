@@ -1,0 +1,5031 @@
+[{
+    "id": "9500",
+    "aa": "CRYSTALS",
+    "value": "Crystals",
+    "price": "2.00"
+}, {
+    "id": "10009",
+    "aa": "R SET",
+    "value": "R Set Antibody Screen",
+    "price": "5.00"
+}, {
+    "id": "10010",
+    "aa": "AB SCREEN",
+    "value": "Antibody Detection, RBC (Blood Bank)",
+    "price": "10.00"
+}, {
+    "id": "10014",
+    "aa": "ABORH-PR",
+    "value": "ABORH Prenatal",
+    "price": "6.00"
+}, {
+    "id": "10020",
+    "aa": "ABSC-R",
+    "value": "Antibody Screen RBC, Reflex to Ident",
+    "price": "5.00"
+}, {
+    "id": "10025",
+    "aa": "ABORH-A",
+    "value": "ABORH Type Automated",
+    "price": "3.00"
+}, {
+    "id": "10079",
+    "aa": "HOLD CLOT",
+    "value": "Blood Bank Hold Clot Tube",
+    "price": "5.00"
+}, {
+    "id": "10080",
+    "aa": "TS-R",
+    "value": "Type and Screen Automated",
+    "price": "13.00"
+}, {
+    "id": "10082",
+    "aa": "PAN-LN2/R",
+    "value": "Selected Liq Nitro 2 Red Cell Panel",
+    "price": "5.00"
+}, {
+    "id": "10083",
+    "aa": "PAN-SEL/R",
+    "value": "Selected Liquid Red Cell Panel",
+    "price": "19.00"
+}, {
+    "id": "10121",
+    "aa": "ABORH-P",
+    "value": "ABORH Type Manual",
+    "price": "2.00"
+}, {
+    "id": "10139",
+    "aa": "ABORH-NBP",
+    "value": "ABORH Type Neonatal",
+    "price": "9.00"
+}, {
+    "id": "10179",
+    "aa": "BB-NB",
+    "value": "Newborn Blood Bank",
+    "price": "19.00"
+}, {
+    "id": "10181",
+    "aa": "NBPROTOCOL",
+    "value": "Newborn Protocol",
+    "price": "5.00"
+}, {
+    "id": "10415",
+    "aa": "PAN-COLD",
+    "value": "Cold Panel Antibody Identification",
+    "price": "12.00"
+}, {
+    "id": "10487",
+    "aa": "RBCLR",
+    "value": "RBCLR  Product",
+    "price": "16.00"
+}, {
+    "id": "10672",
+    "aa": "TS",
+    "value": "Type and Screen Manual",
+    "price": "8.00"
+}, {
+    "id": "10775",
+    "aa": "CORD BLOOD",
+    "value": "Cord Blood Package",
+    "price": "7.00"
+}, {
+    "id": "10930",
+    "aa": "PAN",
+    "value": "Antibody Panel Identification",
+    "price": "10.00"
+}, {
+    "id": "11510",
+    "aa": "FS",
+    "value": "Fetal Screen",
+    "price": "2.00"
+}, {
+    "id": "12512",
+    "aa": "PL50",
+    "value": "PLT Filter - Leuko Reduce",
+    "price": "12.00"
+}, {
+    "id": "13003",
+    "aa": "IRL-AB PKG",
+    "value": "Antibody ID Package (IRL)",
+    "price": "10.00"
+}, {
+    "id": "13005",
+    "aa": "IRL-ABID",
+    "value": "Antibody ID, RBC  (Prenatal Only)",
+    "price": "8.00"
+}, {
+    "id": "13006",
+    "aa": "IRL-ABTR1",
+    "value": "Antibody Titer (IRL)",
+    "price": "5.00"
+}, {
+    "id": "13008",
+    "aa": "IRL-DC",
+    "value": "Direct Coombs (Anti-Human Globulin) IRL",
+    "price": "11.00"
+}, {
+    "id": "13010",
+    "aa": "IRL-ELU",
+    "value": "Elution And Antibody Identification, RBC",
+    "price": "10.00"
+}, {
+    "id": "13019",
+    "aa": "IRL-RHPHEN",
+    "value": "Antigen Testing, Rh Phenotype",
+    "price": "6.00"
+}, {
+    "id": "13020",
+    "aa": "IRL-EXPHEN",
+    "value": "Antigen Testing, RBC Phenotype Extended",
+    "price": "2.00"
+}, {
+    "id": "13025",
+    "aa": "AD-TRIPLE",
+    "value": "Warm Triple Adsorption",
+    "price": "10.00"
+}, {
+    "id": "13298",
+    "aa": "IRL-AG/AHG",
+    "value": "Antigen Testing, AHG-RBC",
+    "price": "7.00"
+}, {
+    "id": "13412",
+    "aa": "IRL-DTT",
+    "value": "DTT Inactivation of IgM Antibody",
+    "price": "10.00"
+}, {
+    "id": "13415",
+    "aa": "PAN-PEG/R",
+    "value": "AB Ident Panel-PEG (IRL)",
+    "price": "5.00"
+}, {
+    "id": "14008",
+    "aa": "DAT",
+    "value": "Direct Coombs (Anti-Human Globulin)",
+    "price": "6.00"
+}, {
+    "id": "14010",
+    "aa": "ELUATE",
+    "value": "Eluate",
+    "price": "6.00"
+}, {
+    "id": "14019",
+    "aa": "RH PHEN",
+    "value": "Rh-Hr Phenotype",
+    "price": "9.00"
+}, {
+    "id": "14453",
+    "aa": "DAT-MONO",
+    "value": "Direct Antiglobulin - Mono",
+    "price": "4.00"
+}, {
+    "id": "16150",
+    "aa": "CMV NEG",
+    "value": "CMV Negative Product",
+    "price": "19.00"
+}, {
+    "id": "17451",
+    "aa": "PAN-E/R",
+    "value": "AB Ident Panel-Enzyme (IRL)",
+    "price": "20.00"
+}, {
+    "id": "19990",
+    "aa": "BB NOTIFY",
+    "value": "Blood Bank Notification",
+    "price": "7.00"
+}, {
+    "id": "20001",
+    "aa": "NA",
+    "value": "Sodium",
+    "price": "17.00"
+}, {
+    "id": "20002",
+    "aa": "K",
+    "value": "Potassium, Serum or Plasma",
+    "price": "18.00"
+}, {
+    "id": "20004",
+    "aa": "CO2",
+    "value": "Carbon Dioxide, Serum or Plasma",
+    "price": "8.00"
+}, {
+    "id": "20005",
+    "aa": "ALKP",
+    "value": "Alkaline Phosphatase, Serum or Plasma",
+    "price": "15.00"
+}, {
+    "id": "20006",
+    "aa": "LDH",
+    "value": "Lactate Dehydrogenase, Plasma or Serum",
+    "price": "3.00"
+}, {
+    "id": "20007",
+    "aa": "AST",
+    "value": "Aspartate Aminotransferase, Serum/Plasma",
+    "price": "2.00"
+}, {
+    "id": "20008",
+    "aa": "ALT",
+    "value": "Alanine Aminotransferase, Serum/Plasma",
+    "price": "2.00"
+}, {
+    "id": "20009",
+    "aa": "GT",
+    "value": "Gamma Glutamyl Transferase, Serum/Plasma",
+    "price": "20.00"
+}, {
+    "id": "20010",
+    "aa": "CK",
+    "value": "Creatine Kinase, Total, Serum or Plasma",
+    "price": "19.00"
+}, {
+    "id": "20012",
+    "aa": "ALDOLASE",
+    "value": "Aldolase, Serum",
+    "price": "11.00"
+}, {
+    "id": "20013",
+    "aa": "AMY",
+    "value": "Amylase, Serum or Plasma",
+    "price": "15.00"
+}, {
+    "id": "20014",
+    "aa": "LIP",
+    "value": "Lipase, Serum or Plasma",
+    "price": "12.00"
+}, {
+    "id": "20023",
+    "aa": "BUN",
+    "value": "Urea Nitrogen, Plasma or Serum",
+    "price": "19.00"
+}, {
+    "id": "20024",
+    "aa": "GLU",
+    "value": "Glucose, Serum or Plasma",
+    "price": "2.00"
+}, {
+    "id": "20025",
+    "aa": "CRT",
+    "value": "Creatinine, Serum or Plasma",
+    "price": "1.00"
+}, {
+    "id": "20026",
+    "aa": "URIC",
+    "value": "Uric Acid, Serum or Plasma",
+    "price": "1.00"
+}, {
+    "id": "20027",
+    "aa": "CA",
+    "value": "Calcium, Serum or Plasma",
+    "price": "3.00"
+}, {
+    "id": "20028",
+    "aa": "PHOS",
+    "value": "Phosphorus, Inorganic, Plasma or Serum",
+    "price": "17.00"
+}, {
+    "id": "20029",
+    "aa": "TP",
+    "value": "Protein, Total, Serum or Plasma",
+    "price": "13.00"
+}, {
+    "id": "20030",
+    "aa": "ALB",
+    "value": "Albumin, Serum or Plasma",
+    "price": "1.00"
+}, {
+    "id": "20031",
+    "aa": "CHOL",
+    "value": "Cholesterol, Serum or Plasma",
+    "price": "5.00"
+}, {
+    "id": "20032",
+    "aa": "BILIT",
+    "value": "Bilirubin, Total, Serum or Plasma",
+    "price": "5.00"
+}, {
+    "id": "20033",
+    "aa": "BILID",
+    "value": "Bilirubin, Direct, Serum or Plasma",
+    "price": "18.00"
+}, {
+    "id": "20037",
+    "aa": "FE",
+    "value": "Iron, Plasma or Serum",
+    "price": "14.00"
+}, {
+    "id": "20038",
+    "aa": "LI",
+    "value": "Lithium, Serum or Plasma",
+    "price": "14.00"
+}, {
+    "id": "20039",
+    "aa": "MG",
+    "value": "Magnesium, Plasma or Serum",
+    "price": "16.00"
+}, {
+    "id": "20040",
+    "aa": "TRG",
+    "value": "Triglycerides, Serum or Plasma",
+    "price": "2.00"
+}, {
+    "id": "20043",
+    "aa": "AMMON",
+    "value": "Ammonia, Plasma",
+    "price": "9.00"
+}, {
+    "id": "20045",
+    "aa": "LA",
+    "value": "Lactic Acid, Plasma",
+    "price": "2.00"
+}, {
+    "id": "20046",
+    "aa": "OSMO",
+    "value": "Osmolality, Serum or Plasma",
+    "price": "20.00"
+}, {
+    "id": "20047",
+    "aa": "GSCN",
+    "value": "Glucose Screen, Pregnancy",
+    "price": "15.00"
+}, {
+    "id": "20053",
+    "aa": "CH HDL",
+    "value": "HDL Cholesterol",
+    "price": "10.00"
+}, {
+    "id": "20057",
+    "aa": "HGBS",
+    "value": "Hemoglobin, Serum",
+    "price": "15.00"
+}, {
+    "id": "20058",
+    "aa": "HGBP",
+    "value": "Hemoglobin, Plasma",
+    "price": "14.00"
+}, {
+    "id": "20063",
+    "aa": "BHCG-S",
+    "value": "Beta-hCG, Serum Qualitative",
+    "price": "13.00"
+}, {
+    "id": "20064",
+    "aa": "FAST",
+    "value": "X-Glucose, Fasting",
+    "price": "10.00"
+}, {
+    "id": "20066",
+    "aa": "1 HR",
+    "value": "X-Glucose, 1 Hour",
+    "price": "19.00"
+}, {
+    "id": "20068",
+    "aa": "3 HR",
+    "value": "X-Glucose, 3 Hour",
+    "price": "8.00"
+}, {
+    "id": "20089",
+    "aa": "HBSAG",
+    "value": "Hepatitis B Surface Ag w/ Reflex to Conf",
+    "price": "12.00"
+}, {
+    "id": "20090",
+    "aa": "HBSAB",
+    "value": "Hepatitis B Virus Surface Antibody",
+    "price": "5.00"
+}, {
+    "id": "20091",
+    "aa": "HBCAB",
+    "value": "Hepatitis B Virus Core Antibodies, Total",
+    "price": "9.00"
+}, {
+    "id": "20092",
+    "aa": "HBCABM",
+    "value": "Hepatitis B Virus Core Antibody, IgM",
+    "price": "12.00"
+}, {
+    "id": "20093",
+    "aa": "HAVABM",
+    "value": "Hepatitis A Virus Antibody, IgM",
+    "price": "14.00"
+}, {
+    "id": "20094",
+    "aa": "HBEAG",
+    "value": "Hepatitis Be Virus Antigen",
+    "price": "6.00"
+}, {
+    "id": "20095",
+    "aa": "HBEAB",
+    "value": "Hepatitis Be Virus Antibody",
+    "price": "8.00"
+}, {
+    "id": "20096",
+    "aa": "COPPER",
+    "value": "Copper, Serum or Plasma",
+    "price": "7.00"
+}, {
+    "id": "20097",
+    "aa": "ZINC",
+    "value": "Zinc, Serum or Plasma",
+    "price": "17.00"
+}, {
+    "id": "20098",
+    "aa": "LEAD-WB",
+    "value": "Lead, Blood (Venous)",
+    "price": "13.00"
+}, {
+    "id": "20114",
+    "aa": "BILIT",
+    "value": "Bilirubin, Total, Serum or Plasma",
+    "price": "11.00"
+}, {
+    "id": "20128",
+    "aa": "HBSAG CONF",
+    "value": "Hepatitis B Virus Surface Ag, Confirm",
+    "price": "14.00"
+}, {
+    "id": "20135",
+    "aa": "IONCA-S",
+    "value": "Calcium, Ionized, Serum",
+    "price": "1.00"
+}, {
+    "id": "20140",
+    "aa": "IONCA-WB",
+    "value": "Calcium, Ionized, Whole Blood",
+    "price": "19.00"
+}, {
+    "id": "20144",
+    "aa": "RENAL",
+    "value": "Renal Function Panel",
+    "price": "17.00"
+}, {
+    "id": "20147",
+    "aa": "ULIP",
+    "value": "Lipase, Urine",
+    "price": "9.00"
+}, {
+    "id": "20221",
+    "aa": "HGBU",
+    "value": "Hemoglobin, Urine",
+    "price": "8.00"
+}, {
+    "id": "20228",
+    "aa": "UOSMO",
+    "value": "Osmolality, Urine",
+    "price": "8.00"
+}, {
+    "id": "20229",
+    "aa": "BHCG-U",
+    "value": "Beta-hCG, Urine Qualitative",
+    "price": "17.00"
+}, {
+    "id": "20257",
+    "aa": "LDL D",
+    "value": "LDL Cholesterol, Direct",
+    "price": "8.00"
+}, {
+    "id": "20284",
+    "aa": "HIV WBLOT",
+    "value": "HIV 1 Antibody Confirm, Western Blot",
+    "price": "11.00"
+}, {
+    "id": "20305",
+    "aa": "UA PH",
+    "value": "pH, Urine",
+    "price": "20.00"
+}, {
+    "id": "20306",
+    "aa": "UA PRO",
+    "value": "Urine Protein",
+    "price": "17.00"
+}, {
+    "id": "20350",
+    "aa": "UA",
+    "value": "Urinalysis, Complete",
+    "price": "7.00"
+}, {
+    "id": "20385",
+    "aa": "FECFAT",
+    "value": "Fat, Fecal Qualitative",
+    "price": "6.00"
+}, {
+    "id": "20399",
+    "aa": "BMP",
+    "value": "Basic Metabolic Panel",
+    "price": "11.00"
+}, {
+    "id": "20408",
+    "aa": "CMP",
+    "value": "Comprehensive Metabolic Panel",
+    "price": "19.00"
+}, {
+    "id": "20410",
+    "aa": "LYTES",
+    "value": "Electrolyte Panel",
+    "price": "17.00"
+}, {
+    "id": "20413",
+    "aa": "LDISO",
+    "value": "Lactate Dehydrogenase Isoenzymes",
+    "price": "1.00"
+}, {
+    "id": "20414",
+    "aa": "CKISO",
+    "value": "Creatine Kinase Isoenzymes",
+    "price": "8.00"
+}, {
+    "id": "20416",
+    "aa": "HEPATIC",
+    "value": "Hepatic Function Panel",
+    "price": "14.00"
+}, {
+    "id": "20420",
+    "aa": "FEIBC",
+    "value": "Iron and Iron Binding Capacity",
+    "price": "5.00"
+}, {
+    "id": "20421",
+    "aa": "CRISK",
+    "value": "Lipid Panel",
+    "price": "9.00"
+}, {
+    "id": "20426",
+    "aa": "BILI",
+    "value": "Bilirubin, Direct and Total, Ser/Pla",
+    "price": "5.00"
+}, {
+    "id": "20454",
+    "aa": "HEPCHRONIC",
+    "value": "Hepatitis Panel, Chronic HBV",
+    "price": "17.00"
+}, {
+    "id": "20457",
+    "aa": "HEP ACUTE",
+    "value": "Hepatitis Panel, Acute",
+    "price": "2.00"
+}, {
+    "id": "20468",
+    "aa": "CRISK E",
+    "value": "Lipid Panel, Extended",
+    "price": "19.00"
+}, {
+    "id": "20471",
+    "aa": "UAMY",
+    "value": "Amylase, Urine",
+    "price": "14.00"
+}, {
+    "id": "20472",
+    "aa": "UCA",
+    "value": "Calcium, Urine",
+    "price": "5.00"
+}, {
+    "id": "20473",
+    "aa": "UCRT",
+    "value": "Creatinine, 24-Hour Urine",
+    "price": "7.00"
+}, {
+    "id": "20474",
+    "aa": "CRTCL",
+    "value": "Creatinine Clearance, Urine",
+    "price": "3.00"
+}, {
+    "id": "20478",
+    "aa": "UPHOS",
+    "value": "Phosphorus, Urine",
+    "price": "10.00"
+}, {
+    "id": "20479",
+    "aa": "UTP",
+    "value": "Total Protein, Urine",
+    "price": "2.00"
+}, {
+    "id": "20480",
+    "aa": "UUN",
+    "value": "Urea Nitrogen, Urine",
+    "price": "13.00"
+}, {
+    "id": "20481",
+    "aa": "UURIC",
+    "value": "Uric Acid, Urine",
+    "price": "4.00"
+}, {
+    "id": "20482",
+    "aa": "UOXAL",
+    "value": "Oxalate, Total, Urine",
+    "price": "20.00"
+}, {
+    "id": "20498",
+    "aa": "ULYTE",
+    "value": "Electrolyte Panel Urine",
+    "price": "19.00"
+}, {
+    "id": "20502",
+    "aa": "TP-FL",
+    "value": "Total Protein, Body Fluid",
+    "price": "13.00"
+}, {
+    "id": "20503",
+    "aa": "GLU-FL",
+    "value": "Glucose Body Fluid",
+    "price": "19.00"
+}, {
+    "id": "20505",
+    "aa": "LDH-FL",
+    "value": "Lactate Dehydrogenase Body Fluid",
+    "price": "13.00"
+}, {
+    "id": "20506",
+    "aa": "AMY-FL",
+    "value": "Amylase, Body Fluid",
+    "price": "12.00"
+}, {
+    "id": "20507",
+    "aa": "PH-FL",
+    "value": "pH Body Fluid",
+    "price": "2.00"
+}, {
+    "id": "20509",
+    "aa": "CRT-FL",
+    "value": "Creatinine Body Fluid",
+    "price": "18.00"
+}, {
+    "id": "20510",
+    "aa": "TBILI-FL",
+    "value": "Bilirubin, Total, Body Fluid",
+    "price": "10.00"
+}, {
+    "id": "20514",
+    "aa": "CFP",
+    "value": "Total Protein, CSF",
+    "price": "11.00"
+}, {
+    "id": "20515",
+    "aa": "GLU-CF",
+    "value": "Glucose Cerebrospinal Fluid",
+    "price": "7.00"
+}, {
+    "id": "20518",
+    "aa": "FEC-PH",
+    "value": "Ph, Fecal",
+    "price": "12.00"
+}, {
+    "id": "20542",
+    "aa": "GTT",
+    "value": "Glucose Tolerance Test",
+    "price": "20.00"
+}, {
+    "id": "20543",
+    "aa": "GTT PRG",
+    "value": "Glucose Tolerance, Pregnancy",
+    "price": "13.00"
+}, {
+    "id": "20570",
+    "aa": "UADIPSTICK",
+    "value": "Urinalysis, Dipstick",
+    "price": "17.00"
+}, {
+    "id": "20575",
+    "aa": "UA SCOPE",
+    "value": "Urinalysis, Microscopy",
+    "price": "17.00"
+}, {
+    "id": "20584",
+    "aa": "HY MET B4",
+    "value": "Heavy Metals Panel 4, Blood",
+    "price": "4.00"
+}, {
+    "id": "20585",
+    "aa": "UBTCOLL",
+    "value": "UBT Breath Test Collection",
+    "price": "14.00"
+}, {
+    "id": "20591",
+    "aa": "HAVAB",
+    "value": "Hepatitis A Virus Antibodies, Total",
+    "price": "17.00"
+}, {
+    "id": "20596",
+    "aa": "COPPER F",
+    "value": "Copper, Serum Free (Direct)",
+    "price": "19.00"
+}, {
+    "id": "20597",
+    "aa": "HEP A PAN",
+    "value": "Hepatitis A Virus Antibody Panel",
+    "price": "8.00"
+}, {
+    "id": "20599",
+    "aa": "2HR",
+    "value": "X-Glucose, 2 Hour",
+    "price": "8.00"
+}, {
+    "id": "20605",
+    "aa": "ZPP",
+    "value": "Zinc Protoporphyrins",
+    "price": "2.00"
+}, {
+    "id": "20646",
+    "aa": "UBT",
+    "value": "Helicobacter pylori Breath Test",
+    "price": "2.00"
+}, {
+    "id": "20647",
+    "aa": "GTT CF",
+    "value": "Glucose Tolerance for CF",
+    "price": "8.00"
+}, {
+    "id": "20713",
+    "aa": "TRG FL",
+    "value": "Triglycerides, Fluid",
+    "price": "8.00"
+}, {
+    "id": "20725",
+    "aa": "GFRE",
+    "value": "Glomerular Filtration Rate, Estimated",
+    "price": "9.00"
+}, {
+    "id": "20730",
+    "aa": "BHCG CSF",
+    "value": "Beta-hCG, CSF Quant (Tumor Marker)",
+    "price": "19.00"
+}, {
+    "id": "20734",
+    "aa": "AS UF",
+    "value": "Arsenic, Fractionated, Urine",
+    "price": "7.00"
+}, {
+    "id": "20742",
+    "aa": "CEA FL",
+    "value": "Carcinoembryonic Antigen, Fluid",
+    "price": "19.00"
+}, {
+    "id": "20753",
+    "aa": "THYROG FNA",
+    "value": "Thyroglobulin, Fine Needle Aspiration",
+    "price": "17.00"
+}, {
+    "id": "20763",
+    "aa": "PCT",
+    "value": "Procalcitonin",
+    "price": "5.00"
+}, {
+    "id": "20800",
+    "aa": "WET PREP",
+    "value": "Wet Preparation, Vaginal",
+    "price": "4.00"
+}, {
+    "id": "20843",
+    "aa": "KID",
+    "value": "Kidney Stone Risk Panel, Urine",
+    "price": "20.00"
+}, {
+    "id": "20849",
+    "aa": "U K",
+    "value": "Potassium Urine",
+    "price": "6.00"
+}, {
+    "id": "20850",
+    "aa": "U CL",
+    "value": "Chloride, Urine",
+    "price": "8.00"
+}, {
+    "id": "20851",
+    "aa": "U NA",
+    "value": "Sodium, Urine",
+    "price": "6.00"
+}, {
+    "id": "20852",
+    "aa": "CITRIC U",
+    "value": "Citric Acid, Urine",
+    "price": "4.00"
+}, {
+    "id": "21020",
+    "aa": "ALKP-ISO",
+    "value": "Alkaline Phosphatase Isoenzymes, Serum o",
+    "price": "15.00"
+}, {
+    "id": "23107",
+    "aa": "GENHLTH",
+    "value": "General Health Panel",
+    "price": "19.00"
+}, {
+    "id": "25000",
+    "aa": "ARS U",
+    "value": "Arsenic, Urine w/ Reflex to Fractionated",
+    "price": "11.00"
+}, {
+    "id": "25023",
+    "aa": "SE S",
+    "value": "Selenium, Serum or Plasma",
+    "price": "20.00"
+}, {
+    "id": "25037",
+    "aa": "COBALT S",
+    "value": "Cobalt, Serum or Plasma",
+    "price": "5.00"
+}, {
+    "id": "25050",
+    "aa": "MERCURY U",
+    "value": "Mercury, Urine",
+    "price": "11.00"
+}, {
+    "id": "25090",
+    "aa": "GLU POC",
+    "value": "Glucose (Bedside), Whole Blood",
+    "price": "6.00"
+}, {
+    "id": "25094",
+    "aa": "GLU NEONTL",
+    "value": "Glucose, Neonatal (Bedside), Whole Blood",
+    "price": "15.00"
+}, {
+    "id": "28903",
+    "aa": "STREP SCN",
+    "value": "Strep Group A, Rapid Reflex to Culture",
+    "price": "17.00"
+}, {
+    "id": "30010",
+    "aa": "AT3",
+    "value": "Antithrombin, Enzymatic (Activity)",
+    "price": "9.00"
+}, {
+    "id": "30041",
+    "aa": "PROT CF R",
+    "value": "Protein C Function Rflx to Protein C Tot",
+    "price": "12.00"
+}, {
+    "id": "30057",
+    "aa": "D-DI",
+    "value": "D-Dimer",
+    "price": "16.00"
+}, {
+    "id": "30070",
+    "aa": "VTE",
+    "value": "Venous Thromboembolism, Qualitative",
+    "price": "5.00"
+}, {
+    "id": "30075",
+    "aa": "F5",
+    "value": "Factor V, Activity",
+    "price": "6.00"
+}, {
+    "id": "30077",
+    "aa": "PT INR WC",
+    "value": "PT INR Madsen Clinic",
+    "price": "5.00"
+}, {
+    "id": "30083",
+    "aa": "BILL PTTHR",
+    "value": "PTT-D Heparin Reflex Bill",
+    "price": "14.00"
+}, {
+    "id": "30086",
+    "aa": "BILL REPR",
+    "value": "Reptilase Time Reflex Bill",
+    "price": "14.00"
+}, {
+    "id": "30087",
+    "aa": "BILL TTR",
+    "value": "Thrombin Time Reflex Bill",
+    "price": "6.00"
+}, {
+    "id": "30095",
+    "aa": "F8",
+    "value": "Factor VIII:C, Activity",
+    "price": "8.00"
+}, {
+    "id": "30112",
+    "aa": "PROT S",
+    "value": "Protein S, Total Antigen",
+    "price": "13.00"
+}, {
+    "id": "30113",
+    "aa": "PROT C F",
+    "value": "Protein C, Functional",
+    "price": "12.00"
+}, {
+    "id": "30114",
+    "aa": "PROT S F",
+    "value": "Protein S, Functional",
+    "price": "10.00"
+}, {
+    "id": "30116",
+    "aa": "C/S TOTAL",
+    "value": "Protein C and S Panel, Total, Antigen",
+    "price": "9.00"
+}, {
+    "id": "30125",
+    "aa": "VW PANEL",
+    "value": "Von Willebrand Panel",
+    "price": "8.00"
+}, {
+    "id": "30130",
+    "aa": "FIB",
+    "value": "Fibrinogen",
+    "price": "13.00"
+}, {
+    "id": "30137",
+    "aa": "FIB PAN",
+    "value": "Fibrinogen Panel",
+    "price": "7.00"
+}, {
+    "id": "30140",
+    "aa": "FDP",
+    "value": "Fibrin Degradation Products",
+    "price": "15.00"
+}, {
+    "id": "30143",
+    "aa": "HA UN",
+    "value": "Heparin Anti-Xa, Unfractionated",
+    "price": "3.00"
+}, {
+    "id": "30144",
+    "aa": "HA LMW",
+    "value": "Heparin Anti-Xa, LMWH",
+    "price": "2.00"
+}, {
+    "id": "30160",
+    "aa": "PLTAG",
+    "value": "Platelet Aggregation Studies",
+    "price": "16.00"
+}, {
+    "id": "30181",
+    "aa": "LUPUS R",
+    "value": "Lupus Anticoagulant Reflexive Panel",
+    "price": "7.00"
+}, {
+    "id": "30182",
+    "aa": "C/S PANEL",
+    "value": "Protein C and S Panel, Functional",
+    "price": "10.00"
+}, {
+    "id": "30191",
+    "aa": "BNP",
+    "value": "B-Type Natriuretic Peptide",
+    "price": "12.00"
+}, {
+    "id": "30192",
+    "aa": "APC R",
+    "value": "APC with Reflex to Factor V Leiden",
+    "price": "3.00"
+}, {
+    "id": "30215",
+    "aa": "PT",
+    "value": "Prothrombin Time",
+    "price": "17.00"
+}, {
+    "id": "30224",
+    "aa": "PT INR",
+    "value": "PT, International Normalized Ratio",
+    "price": "16.00"
+}, {
+    "id": "30235",
+    "aa": "PTT",
+    "value": "Partial Thromboplastin Time",
+    "price": "3.00"
+}, {
+    "id": "30325",
+    "aa": "INR WC",
+    "value": "INR Wasatch Clinic",
+    "price": "12.00"
+}, {
+    "id": "30370",
+    "aa": "AT3 PAN",
+    "value": "Antithrombin Panel",
+    "price": "10.00"
+}, {
+    "id": "31546",
+    "aa": "BILL PTTD",
+    "value": "PTT-D 1:1 Mix Bill",
+    "price": "3.00"
+}, {
+    "id": "31548",
+    "aa": "BILL DRV",
+    "value": "DRVVT, 1:1 Mix Bill",
+    "price": "3.00"
+}, {
+    "id": "31549",
+    "aa": "BILL DRVC",
+    "value": "DRVVT Confirmation Bill",
+    "price": "5.00"
+}, {
+    "id": "40002",
+    "aa": "CBC",
+    "value": "CBC with Platelet Count",
+    "price": "17.00"
+}, {
+    "id": "40003",
+    "aa": "CBCAD",
+    "value": "CBC with Plt Count and Auto Diff",
+    "price": "15.00"
+}, {
+    "id": "40004",
+    "aa": "DIFF CONF",
+    "value": "Manual Differential Confirmation",
+    "price": "13.00"
+}, {
+    "id": "40005",
+    "aa": "DIFF",
+    "value": "Manual Differential",
+    "price": "13.00"
+}, {
+    "id": "40007",
+    "aa": "ADIFF",
+    "value": "Automated Differential",
+    "price": "17.00"
+}, {
+    "id": "40011",
+    "aa": "FRAG X PCR",
+    "value": "Fragile X (FMR1) w/Reflex to Methylation",
+    "price": "13.00"
+}, {
+    "id": "40022",
+    "aa": "RETICULOCY",
+    "value": "Reticulocytes, Percent and Absolute",
+    "price": "6.00"
+}, {
+    "id": "40080",
+    "aa": "HCT",
+    "value": "Hematocrit",
+    "price": "4.00"
+}, {
+    "id": "40085",
+    "aa": "HGB",
+    "value": "Hemoglobin",
+    "price": "1.00"
+}, {
+    "id": "40105",
+    "aa": "KB",
+    "value": "Kleihauer-Betke",
+    "price": "18.00"
+}, {
+    "id": "40191",
+    "aa": "EOS URINE",
+    "value": "Eosinophil Urine",
+    "price": "2.00"
+}, {
+    "id": "40235",
+    "aa": "PLT",
+    "value": "Platelets",
+    "price": "15.00"
+}, {
+    "id": "40280",
+    "aa": "RETIC",
+    "value": "Reticulocytes Percent",
+    "price": "5.00"
+}, {
+    "id": "40320",
+    "aa": "WBC",
+    "value": "White Blood Cell Count",
+    "price": "5.00"
+}, {
+    "id": "40325",
+    "aa": "WEST",
+    "value": "Sedimentation Rate, Westergren (ESR)",
+    "price": "6.00"
+}, {
+    "id": "49003",
+    "aa": "SMR INTERP",
+    "value": "Smear Interpretation",
+    "price": "11.00"
+}, {
+    "id": "49040",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "15.00"
+}, {
+    "id": "49045",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "17.00"
+}, {
+    "id": "49055",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "9.00"
+}, {
+    "id": "49176",
+    "aa": "WRIGHTS",
+    "value": "Wrights Stain",
+    "price": "5.00"
+}, {
+    "id": "49257",
+    "aa": "BLOCK MOLO",
+    "value": "Block, Molecular Oncology TT",
+    "price": "6.00"
+}, {
+    "id": "50001",
+    "aa": "A1A",
+    "value": "Alpha-1-Antitrypsin",
+    "price": "12.00"
+}, {
+    "id": "50011",
+    "aa": "RPR FTA",
+    "value": "RPR with Reflex to Titer, FTA and TP-PA",
+    "price": "18.00"
+}, {
+    "id": "50024",
+    "aa": "ALB-BF",
+    "value": "Albumin, Body Fluid",
+    "price": "4.00"
+}, {
+    "id": "50065",
+    "aa": "AMA",
+    "value": "Mitochondrial M2 Ab, IgG",
+    "price": "18.00"
+}, {
+    "id": "50070",
+    "aa": "AMB",
+    "value": "E. histolytica (amebiasis), Ab, IgG",
+    "price": "15.00"
+}, {
+    "id": "50075",
+    "aa": "AMICR",
+    "value": "Thyroid Peroxidase (TPO) Ab",
+    "price": "9.00"
+}, {
+    "id": "50080",
+    "aa": "ANA",
+    "value": "ANA, IgG ELISA w/ Reflex to ANA, IgG IFA",
+    "price": "8.00"
+}, {
+    "id": "50085",
+    "aa": "SMITH",
+    "value": "Smith (ENA) Ab, IgG",
+    "price": "5.00"
+}, {
+    "id": "50093",
+    "aa": "QUINT M",
+    "value": "Bartonella quintana Ab, IgM",
+    "price": "11.00"
+}, {
+    "id": "50094",
+    "aa": "QUINT G",
+    "value": "Bartonella quintana Ab, IgG",
+    "price": "18.00"
+}, {
+    "id": "50095",
+    "aa": "ASO",
+    "value": "Antistreptolysin O Screen",
+    "price": "5.00"
+}, {
+    "id": "50101",
+    "aa": "ASPER PRO",
+    "value": "Aspergillus Antibodies by CF and ID",
+    "price": "12.00"
+}, {
+    "id": "50105",
+    "aa": "ATHYG",
+    "value": "Thyroglobulin Antibody",
+    "price": "2.00"
+}, {
+    "id": "50106",
+    "aa": "BART PAN",
+    "value": "Bartonella quintana Ab, IgG and IgM",
+    "price": "3.00"
+}, {
+    "id": "50108",
+    "aa": "CATSCRATCH",
+    "value": "Bartonella henselae Abs IgG and IgM",
+    "price": "5.00"
+}, {
+    "id": "50119",
+    "aa": "LUPUS COMP",
+    "value": "Lupus Comprehensive Reflexive Panel",
+    "price": "17.00"
+}, {
+    "id": "50135",
+    "aa": "BRUC",
+    "value": "Brucella Ab (Total) by Agglutination",
+    "price": "5.00"
+}, {
+    "id": "50137",
+    "aa": "COCCI G/M",
+    "value": "Coccidioides Abs, IgG/IgM by ELISA",
+    "price": "13.00"
+}, {
+    "id": "50149",
+    "aa": "C3C4",
+    "value": "Complement Components 3 and 4",
+    "price": "7.00"
+}, {
+    "id": "50150",
+    "aa": "C3",
+    "value": "Complement Component 3",
+    "price": "9.00"
+}, {
+    "id": "50155",
+    "aa": "C4",
+    "value": "Complement Component 4",
+    "price": "7.00"
+}, {
+    "id": "50157",
+    "aa": "HYPER EXT",
+    "value": "Hypersensitivity Pneumo Extended Panel",
+    "price": "10.00"
+}, {
+    "id": "50160",
+    "aa": "CERU",
+    "value": "Ceruloplasmin",
+    "price": "1.00"
+}, {
+    "id": "50161",
+    "aa": "BJQUAL",
+    "value": "Kappa/Lambda Free Light Chains Qual, Urn",
+    "price": "9.00"
+}, {
+    "id": "50162",
+    "aa": "VZV PAN",
+    "value": "Varicella Zoster Virus Abs, IgG and IgM",
+    "price": "9.00"
+}, {
+    "id": "50165",
+    "aa": "CMV IGG",
+    "value": "Cytomegalovirus Antibody, IgG",
+    "price": "7.00"
+}, {
+    "id": "50166",
+    "aa": "CMV PAN",
+    "value": "Cytomegalovirus Antibodies, IgG/ IgM",
+    "price": "10.00"
+}, {
+    "id": "50167",
+    "aa": "VZE",
+    "value": "Varicella-Zoster Virus Ab, IgG",
+    "price": "2.00"
+}, {
+    "id": "50170",
+    "aa": "COCCI",
+    "value": "Coccidioides Antibody by CF",
+    "price": "15.00"
+}, {
+    "id": "50178",
+    "aa": "COCCI M",
+    "value": "Coccidioides Ab, IgM by ELISA",
+    "price": "16.00"
+}, {
+    "id": "50179",
+    "aa": "COCCI G",
+    "value": "Coccidioides Ab, IgG by ELISA",
+    "price": "5.00"
+}, {
+    "id": "50180",
+    "aa": "CRP",
+    "value": "C-Reactive Protein",
+    "price": "2.00"
+}, {
+    "id": "50181",
+    "aa": "CRPN",
+    "value": "C-Reactive Protein, Neonatal",
+    "price": "18.00"
+}, {
+    "id": "50182",
+    "aa": "HSCRP",
+    "value": "CRP, High Sensitivity",
+    "price": "11.00"
+}, {
+    "id": "50183",
+    "aa": "COCCI-PPT",
+    "value": "Coccidioides immitis Abs Immunodiffusion",
+    "price": "10.00"
+}, {
+    "id": "50184",
+    "aa": "META PF",
+    "value": "Metanephrines, Plasma (Free)",
+    "price": "5.00"
+}, {
+    "id": "50185",
+    "aa": "CRYGB",
+    "value": "Cryoglobulin, Qualitative",
+    "price": "14.00"
+}, {
+    "id": "50196",
+    "aa": "CRY BLD",
+    "value": "Cryptococcus Antigen by EIA, Serum",
+    "price": "12.00"
+}, {
+    "id": "50198",
+    "aa": "CH50",
+    "value": "Complement Activity, Total EIA",
+    "price": "6.00"
+}, {
+    "id": "50200",
+    "aa": "ALB CSF",
+    "value": "Albumin, CSF",
+    "price": "1.00"
+}, {
+    "id": "50202",
+    "aa": "IA-2",
+    "value": "IA-2 Antibody",
+    "price": "20.00"
+}, {
+    "id": "50203",
+    "aa": "ALB/CRT",
+    "value": "Microalbumin, Urine",
+    "price": "6.00"
+}, {
+    "id": "50206",
+    "aa": "VDRL CSF",
+    "value": "VDRL with Reflex to Titer, CSF",
+    "price": "9.00"
+}, {
+    "id": "50215",
+    "aa": "DNA",
+    "value": "dsDNA Ab, IgG w/ Reflex to IFA Titer",
+    "price": "2.00"
+}, {
+    "id": "50216",
+    "aa": "LYME EIA",
+    "value": "Borrelia burgdorferi Abs, Total by ELISA",
+    "price": "19.00"
+}, {
+    "id": "50220",
+    "aa": "DNSB",
+    "value": "DNase-B Ab",
+    "price": "13.00"
+}, {
+    "id": "50227",
+    "aa": "ERYTH",
+    "value": "Erythropoietin",
+    "price": "11.00"
+}, {
+    "id": "50229",
+    "aa": "WNILE PCR",
+    "value": "West Nile Virus RNA by RT-PCR",
+    "price": "18.00"
+}, {
+    "id": "50238",
+    "aa": "WNIL IGG",
+    "value": "West Nile Virus Ab IgG, CSF",
+    "price": "20.00"
+}, {
+    "id": "50239",
+    "aa": "WNIL IGM",
+    "value": "West Nile Virus Ab IgM, CSF",
+    "price": "14.00"
+}, {
+    "id": "50240",
+    "aa": "EBV M",
+    "value": "EBV Ab to Viral Capsid Ag, IgM",
+    "price": "2.00"
+}, {
+    "id": "50243",
+    "aa": "BILL ANCAT",
+    "value": "ANCA Titer Bill",
+    "price": "14.00"
+}, {
+    "id": "50245",
+    "aa": "EBV NA",
+    "value": "Epstein-Barr Virus Ab Nuclear Antigen",
+    "price": "10.00"
+}, {
+    "id": "50246",
+    "aa": "EBVPCR",
+    "value": "Epstein-Barr Virus by PCR",
+    "price": "19.00"
+}, {
+    "id": "50249",
+    "aa": "EV PCR",
+    "value": "Enterovirus Detection by PCR",
+    "price": "7.00"
+}, {
+    "id": "50250",
+    "aa": "ECHINO IGG",
+    "value": "Echinococcus Ab, IgG",
+    "price": "16.00"
+}, {
+    "id": "50254",
+    "aa": "LYME WB",
+    "value": "Lyme Abs, IgG and IgM by Western Blot",
+    "price": "15.00"
+}, {
+    "id": "50267",
+    "aa": "LYME ACUTE",
+    "value": "Lyme Disease Acute Reflexive Panel",
+    "price": "7.00"
+}, {
+    "id": "50280",
+    "aa": "HAPTO",
+    "value": "Haptoglobin",
+    "price": "7.00"
+}, {
+    "id": "50291",
+    "aa": "HERP PAN",
+    "value": "HSV 1,2 Abs, IgG, IgM",
+    "price": "11.00"
+}, {
+    "id": "50292",
+    "aa": "HERP I",
+    "value": "HSV 1 Glycoprotein G Ab, IgG",
+    "price": "4.00"
+}, {
+    "id": "50293",
+    "aa": "HERPES",
+    "value": "HSV Type 1,2 Combined Ab, IgG",
+    "price": "1.00"
+}, {
+    "id": "50294",
+    "aa": "HERP II",
+    "value": "HSV 2 Glycoprotein G Ab, IgG",
+    "price": "12.00"
+}, {
+    "id": "50301",
+    "aa": "C1Q",
+    "value": "C1Q Binding Assay",
+    "price": "2.00"
+}, {
+    "id": "50317",
+    "aa": "ANA REF",
+    "value": "ANA Reflexive Profile",
+    "price": "1.00"
+}, {
+    "id": "50321",
+    "aa": "B2GPI PAN",
+    "value": "B2glycoprotein I Abs, IgG and IgM",
+    "price": "2.00"
+}, {
+    "id": "50331",
+    "aa": "BILL IMMR",
+    "value": "Immunofix Electrophoresis Bill",
+    "price": "15.00"
+}, {
+    "id": "50338",
+    "aa": "BILL PSAFR",
+    "value": "PSA Free Bill",
+    "price": "17.00"
+}, {
+    "id": "50340",
+    "aa": "IGA",
+    "value": "Immunoglobulin A",
+    "price": "19.00"
+}, {
+    "id": "50345",
+    "aa": "IGE",
+    "value": "Immunoglobulin E",
+    "price": "18.00"
+}, {
+    "id": "50350",
+    "aa": "IGG",
+    "value": "Immunoglobulin G",
+    "price": "7.00"
+}, {
+    "id": "50355",
+    "aa": "IGM",
+    "value": "Immunoglobulin M",
+    "price": "1.00"
+}, {
+    "id": "50364",
+    "aa": "HERPRCSF",
+    "value": "HSV 1/2 Ab, IgG, IgM Reflex, CSF",
+    "price": "4.00"
+}, {
+    "id": "50367",
+    "aa": "LYSO",
+    "value": "Lysozyme, Serum or Body Fluid",
+    "price": "17.00"
+}, {
+    "id": "50375",
+    "aa": "MEASLE PAN",
+    "value": "Measles (Rubeola) Abs, IgG and IgM",
+    "price": "13.00"
+}, {
+    "id": "50380",
+    "aa": "MEASLES G",
+    "value": "Measles (Rubeola) Antibody, IgG",
+    "price": "5.00"
+}, {
+    "id": "50385",
+    "aa": "INF MONO",
+    "value": "Heterophile Ab (Inf. Mono) LA, Qual",
+    "price": "12.00"
+}, {
+    "id": "50390",
+    "aa": "MUMPS",
+    "value": "Mumps Virus Ab, IgG",
+    "price": "7.00"
+}, {
+    "id": "50399",
+    "aa": "MYCO PAN",
+    "value": "Mycoplasma pneumoniae Abs, G/M",
+    "price": "5.00"
+}, {
+    "id": "50408",
+    "aa": "HSVMCCSF",
+    "value": "HSV 1,2 Ab IgM, CSF",
+    "price": "17.00"
+}, {
+    "id": "50435",
+    "aa": "PREALB",
+    "value": "Prealbumin, Serum",
+    "price": "12.00"
+}, {
+    "id": "50441",
+    "aa": "REG11 PAN",
+    "value": "Allergen, Region 11 Respiratory Panel",
+    "price": "12.00"
+}, {
+    "id": "50462",
+    "aa": "Q-F 1,2",
+    "value": "Q-Fever Ab IgG, Phase I & II",
+    "price": "2.00"
+}, {
+    "id": "50465",
+    "aa": "RA",
+    "value": "Rheumatoid Factor",
+    "price": "1.00"
+}, {
+    "id": "50467",
+    "aa": "RBP",
+    "value": "Retinol Binding Protein",
+    "price": "15.00"
+}, {
+    "id": "50470",
+    "aa": "RNP",
+    "value": "Ribonucleic Protein (ENA) Antibody, IgG",
+    "price": "15.00"
+}, {
+    "id": "50471",
+    "aa": "RPRT",
+    "value": "RPR with Reflex to Titer",
+    "price": "12.00"
+}, {
+    "id": "50475",
+    "aa": "RPRT",
+    "value": "RPR with Reflex to Titer",
+    "price": "14.00"
+}, {
+    "id": "50477",
+    "aa": "FTA",
+    "value": "T. pallidum Ab (FTA-ABS), Serum, IgG",
+    "price": "1.00"
+}, {
+    "id": "50478",
+    "aa": "RPR PAN",
+    "value": "RPR with Reflex to Titer and TP-PA Conf",
+    "price": "7.00"
+}, {
+    "id": "50520",
+    "aa": "SCKL",
+    "value": "Hemoglobin S, Evaluation",
+    "price": "15.00"
+}, {
+    "id": "50521",
+    "aa": "TOXO PAN",
+    "value": "Toxoplasma Antibodies, IgG and IgM",
+    "price": "6.00"
+}, {
+    "id": "50526",
+    "aa": "MPO-AB",
+    "value": "Myeloperox Abs, IgG",
+    "price": "1.00"
+}, {
+    "id": "50527",
+    "aa": "PR3",
+    "value": "Serine Protease3, IgG",
+    "price": "7.00"
+}, {
+    "id": "50528",
+    "aa": "HB CASCADE",
+    "value": "Hemoglobin Evaluation Reflexive Cascade",
+    "price": "1.00"
+}, {
+    "id": "50564",
+    "aa": "SC PAN",
+    "value": "Saccharomyces cerevisiae Abs, IgG, IgA",
+    "price": "16.00"
+}, {
+    "id": "50570",
+    "aa": "TRNSF",
+    "value": "Transferrin, Serum",
+    "price": "3.00"
+}, {
+    "id": "50571",
+    "aa": "IGG1",
+    "value": "Immunoglobulin G Subclass 1",
+    "price": "13.00"
+}, {
+    "id": "50572",
+    "aa": "IGG2",
+    "value": "Immunoglobulin G Subclass 2",
+    "price": "9.00"
+}, {
+    "id": "50573",
+    "aa": "IGG3",
+    "value": "Immunoglobulin G Subclass 3",
+    "price": "17.00"
+}, {
+    "id": "50576",
+    "aa": "IGG4",
+    "value": "Immunoglobulin G Subclass 4",
+    "price": "14.00"
+}, {
+    "id": "50577",
+    "aa": "IGG SUB",
+    "value": "Immunoglobulin G Subclasses (1, 2, 3, 4)",
+    "price": "9.00"
+}, {
+    "id": "50588",
+    "aa": "COCCI PAN",
+    "value": "Coccidioides Abs Panel, Serum, By ELISA",
+    "price": "2.00"
+}, {
+    "id": "50599",
+    "aa": "SCLER",
+    "value": "Scleroderma (Scl-70) (ENA) Antibody, IgG",
+    "price": "16.00"
+}, {
+    "id": "50600",
+    "aa": "EBV PAN",
+    "value": "Epstein-Barr Virus Antibody Panel 1",
+    "price": "2.00"
+}, {
+    "id": "50602",
+    "aa": "EBV PAN 2",
+    "value": "Epstein-Barr Virus Antibody Panel 2",
+    "price": "18.00"
+}, {
+    "id": "50610",
+    "aa": "HGBEL",
+    "value": "Hemoglobin Evaluation",
+    "price": "11.00"
+}, {
+    "id": "50615",
+    "aa": "IFE",
+    "value": "Monoclonal Protein Detection Quant, Ser",
+    "price": "7.00"
+}, {
+    "id": "50618",
+    "aa": "BJ QUANT",
+    "value": "Kappa/Lambda Free Light Chains Quant Urn",
+    "price": "8.00"
+}, {
+    "id": "50622",
+    "aa": "CMV PAN",
+    "value": "Cytomegalovirus Antibodies, IgG/ IgM",
+    "price": "3.00"
+}, {
+    "id": "50625",
+    "aa": "HISTO",
+    "value": "Histoplasma Antibodies by CF",
+    "price": "19.00"
+}, {
+    "id": "50627",
+    "aa": "HISTO PAN",
+    "value": "Histoplasma Abs by CF and ID",
+    "price": "4.00"
+}, {
+    "id": "50630",
+    "aa": "QNTIG",
+    "value": "Immunoglobulins (IgG, IgA, IgM), Quantit",
+    "price": "8.00"
+}, {
+    "id": "50631",
+    "aa": "QNTIG CSF",
+    "value": "Immunoglobulins, CSF Quantitative",
+    "price": "10.00"
+}, {
+    "id": "50639",
+    "aa": "ANA-IFA",
+    "value": "ANA by IFA, IgG",
+    "price": "2.00"
+}, {
+    "id": "50640",
+    "aa": "SPEP",
+    "value": "Protein Electrophoresis, Serum",
+    "price": "1.00"
+}, {
+    "id": "50641",
+    "aa": "HSV MC",
+    "value": "HSV 1 and/or 2 Abs, IgM by ELISA",
+    "price": "20.00"
+}, {
+    "id": "50645",
+    "aa": "THYRO",
+    "value": "Thyroid Antibodies",
+    "price": "2.00"
+}, {
+    "id": "50653",
+    "aa": "ENA ABS5",
+    "value": "Extractable Nuclear Ag Abs 5",
+    "price": "2.00"
+}, {
+    "id": "50670",
+    "aa": "IGG CSF",
+    "value": "Immunoglobulin G, CSF",
+    "price": "17.00"
+}, {
+    "id": "50676",
+    "aa": "IGG SYN",
+    "value": "Immunoglobulin G, CSF Index",
+    "price": "9.00"
+}, {
+    "id": "50680",
+    "aa": "IGG/ALB",
+    "value": "Immunoglobulin G/Albumin Ratio, CSF",
+    "price": "16.00"
+}, {
+    "id": "50691",
+    "aa": "SSA",
+    "value": "SSA (Ro) (ENA) Ab, IgG",
+    "price": "20.00"
+}, {
+    "id": "50692",
+    "aa": "SSB",
+    "value": "SSB (La) (ENA) Ab, IgG",
+    "price": "15.00"
+}, {
+    "id": "50697",
+    "aa": "MYCO PAN",
+    "value": "Mycoplasma pneumoniae Abs, G/M",
+    "price": "20.00"
+}, {
+    "id": "50707",
+    "aa": "MPO/PR3",
+    "value": "MPO/PR-3 (ANCA) Antibodies",
+    "price": "5.00"
+}, {
+    "id": "50710",
+    "aa": "COCCI CSF",
+    "value": "Coccidioides Abs Panel, CSF, By ELISA",
+    "price": "4.00"
+}, {
+    "id": "50714",
+    "aa": "ANTICENT",
+    "value": "Centromere Ab, IgG",
+    "price": "14.00"
+}, {
+    "id": "50725",
+    "aa": "PNEUMO AB",
+    "value": "Pneumococcal Abs, IgG",
+    "price": "16.00"
+}, {
+    "id": "50734",
+    "aa": "EMA R",
+    "value": "Tissue Trans. Ab, IgA with Reflex",
+    "price": "18.00"
+}, {
+    "id": "50736",
+    "aa": "EMAR TITER",
+    "value": "Endomysial Antibody, IgA by IFA",
+    "price": "5.00"
+}, {
+    "id": "50750",
+    "aa": "FUNG CSF",
+    "value": "Fungal Abs by CF, CSF",
+    "price": "19.00"
+}, {
+    "id": "50757",
+    "aa": "DNA EXT",
+    "value": "DNA Extraction and Storage",
+    "price": "19.00"
+}, {
+    "id": "50771",
+    "aa": "RUBEIGG",
+    "value": "Rubella Antibody, IgG",
+    "price": "4.00"
+}, {
+    "id": "50777",
+    "aa": "MHA",
+    "value": "Treponema pallidum Ab by TP-PA",
+    "price": "12.00"
+}, {
+    "id": "50787",
+    "aa": "TRICH",
+    "value": "Trichinella Antibody by ELISA",
+    "price": "18.00"
+}, {
+    "id": "50791",
+    "aa": "SSA/SSB",
+    "value": "SSA and SSB Abs, IgG",
+    "price": "12.00"
+}, {
+    "id": "50811",
+    "aa": "ANCA IFA",
+    "value": "Anti-Neutrophil Cyto Ab, IgG",
+    "price": "12.00"
+}, {
+    "id": "50916",
+    "aa": "HERPR PAN",
+    "value": "HSV 1/2 Ab, IgG, IgM Reflex",
+    "price": "5.00"
+}, {
+    "id": "50994",
+    "aa": "PYLORI PAN",
+    "value": "Helicobacter pylori Abs, IgG and IgA",
+    "price": "7.00"
+}, {
+    "id": "50995",
+    "aa": "A PYLORI",
+    "value": "Helicobacter Pylori Ab, IgA",
+    "price": "11.00"
+}, {
+    "id": "51000",
+    "aa": "GBM-G ELIS",
+    "value": "GBM Ab, IgG by Multiplex Bead Assay",
+    "price": "10.00"
+}, {
+    "id": "51033",
+    "aa": "GM1 COMBI",
+    "value": "Ganglioside Antibodies, Combined IgG/IgM",
+    "price": "11.00"
+}, {
+    "id": "51065",
+    "aa": "CELIAC REF",
+    "value": "Celiac Disease Reflexive Cascade",
+    "price": "8.00"
+}, {
+    "id": "51076",
+    "aa": "CHAGAS G",
+    "value": "Trypanosoma cruzi Ab, IgG",
+    "price": "2.00"
+}, {
+    "id": "51154",
+    "aa": "HIV 1 SCRN",
+    "value": "HIV-1 Antibody by CIA w/ Reflex",
+    "price": "13.00"
+}, {
+    "id": "51160",
+    "aa": "HIV1,2 SCR",
+    "value": "HIV-1,2 Antibodies by CIA w/ Reflex",
+    "price": "4.00"
+}, {
+    "id": "51162",
+    "aa": "CARD PAN",
+    "value": "Cardiolipin Antibodies, IgA, IgG, IgM",
+    "price": "18.00"
+}, {
+    "id": "51174",
+    "aa": "SMA R",
+    "value": "F-Actin Ab, IgG EIA with Rflx to ASM IFA",
+    "price": "11.00"
+}, {
+    "id": "51249",
+    "aa": "PLT HAT R",
+    "value": "Hep-Ind Thrombocytopenia Abs PF4 Reflex",
+    "price": "17.00"
+}, {
+    "id": "51256",
+    "aa": "A1A GENO",
+    "value": "A1A Genotype with Reflex to Phenotype",
+    "price": "8.00"
+}, {
+    "id": "51281",
+    "aa": "NORO PCR",
+    "value": "Norovirus Group 1 and 2 Detection by RT-",
+    "price": "16.00"
+}, {
+    "id": "51286",
+    "aa": "MTHFR PCR",
+    "value": "MTHFR 2 Mutations",
+    "price": "8.00"
+}, {
+    "id": "51298",
+    "aa": "RF PAN",
+    "value": "Rheumatoid Factors, IgA, IgG, IgM ELISA",
+    "price": "3.00"
+}, {
+    "id": "51352",
+    "aa": "EBV QNT",
+    "value": "Epstein-Barr Virus by Quantitative PCR",
+    "price": "6.00"
+}, {
+    "id": "51353",
+    "aa": "EBV QNT WB",
+    "value": "Epstein-Barr Virus by Quant PCR, WB",
+    "price": "1.00"
+}, {
+    "id": "51357",
+    "aa": "GLIADPEP A",
+    "value": "Gliadin Peptide Antibody, IgA",
+    "price": "20.00"
+}, {
+    "id": "51358",
+    "aa": "GLIAD PAN",
+    "value": "Gliadin Peptide Antibodies, IgA and IgG",
+    "price": "13.00"
+}, {
+    "id": "51359",
+    "aa": "GLIADPEP G",
+    "value": "Gliadin Peptide Antibody, IgG",
+    "price": "8.00"
+}, {
+    "id": "51531",
+    "aa": "IFNG DO",
+    "value": "Interferon gamma",
+    "price": "10.00"
+}, {
+    "id": "51555",
+    "aa": "FRAG X PCR",
+    "value": "Fragile X (FMR1) w/Reflex to Methylation",
+    "price": "20.00"
+}, {
+    "id": "51600",
+    "aa": "PHOS PAN",
+    "value": "Cardiolipin/Non-Criteria APS Abs Panel",
+    "price": "19.00"
+}, {
+    "id": "51668",
+    "aa": "CONN",
+    "value": "Connective Tissue Diseases Profile",
+    "price": "7.00"
+}, {
+    "id": "51724",
+    "aa": "ACTIN IGA",
+    "value": "F-Actin (Smooth Muscle) Antibody, IgA",
+    "price": "14.00"
+}, {
+    "id": "51729",
+    "aa": "QFTG-TB IT",
+    "value": "Quantiferon TB Gold In-Tube",
+    "price": "10.00"
+}, {
+    "id": "51811",
+    "aa": "HCVRNA BC",
+    "value": "Hepatitis C Virus RNA Quantitative bDNA",
+    "price": "7.00"
+}, {
+    "id": "51813",
+    "aa": "CMV QNT",
+    "value": "Cytomegalovirus DNA Quantitation by PCR",
+    "price": "3.00"
+}, {
+    "id": "51831",
+    "aa": "MIXEDNUTS",
+    "value": "Allergen, Food, Mixed Nuts",
+    "price": "15.00"
+}, {
+    "id": "51835",
+    "aa": "SHELLFISH",
+    "value": "Allergen, Food, Shell Fish Profile",
+    "price": "12.00"
+}, {
+    "id": "54444",
+    "aa": "VZECSF",
+    "value": "VZV Antibody IgG CSF",
+    "price": "14.00"
+}, {
+    "id": "54445",
+    "aa": "VZMCSF",
+    "value": "Varicella Zoster Virus Ab, IgM, CSF",
+    "price": "2.00"
+}, {
+    "id": "55002",
+    "aa": "BELL",
+    "value": "Allergen, Food, Pepper C. annuum IgE",
+    "price": "18.00"
+}, {
+    "id": "55013",
+    "aa": "EGG",
+    "value": "Allergen, Food, Egg White",
+    "price": "3.00"
+}, {
+    "id": "55020",
+    "aa": "MILK",
+    "value": "Allergen, Food, Milk (Cow's)",
+    "price": "7.00"
+}, {
+    "id": "55024",
+    "aa": "PEANUT",
+    "value": "Allergen, Food, Peanut",
+    "price": "16.00"
+}, {
+    "id": "55031",
+    "aa": "SOY",
+    "value": "Allergen, Food, Soybean",
+    "price": "8.00"
+}, {
+    "id": "55041",
+    "aa": "RAST",
+    "value": "RAST, Immunocap Score",
+    "price": "6.00"
+}, {
+    "id": "55096",
+    "aa": "BEEF",
+    "value": "Allergen, Food, Beef",
+    "price": "5.00"
+}, {
+    "id": "55100",
+    "aa": "FOOD PAN",
+    "value": "Allergen, Food, Comprehensive Profile 1",
+    "price": "1.00"
+}, {
+    "id": "55105",
+    "aa": "BEE PAN",
+    "value": "Allergen, Hymenoptera, Bee Venom Profile",
+    "price": "13.00"
+}, {
+    "id": "55167",
+    "aa": "KAP/LAM F",
+    "value": "Kappa-Lambda Quant FLC with Ratio",
+    "price": "10.00"
+}, {
+    "id": "55213",
+    "aa": "ASCARIS",
+    "value": "Allergen, Parasite, Ascaris",
+    "price": "1.00"
+}, {
+    "id": "55235",
+    "aa": "SLA",
+    "value": "Soluble Liver Antigen Antibody, IgG",
+    "price": "17.00"
+}, {
+    "id": "55241",
+    "aa": "LKM1 IGG",
+    "value": "Liver-Kidney Microsome-1 Ab, IgG",
+    "price": "13.00"
+}, {
+    "id": "55248",
+    "aa": "ACTIN IGG",
+    "value": "F-Actin (Smooth Muscle) Antibody, IgG",
+    "price": "7.00"
+}, {
+    "id": "55256",
+    "aa": "CCP IGG",
+    "value": "Cyclic Citrullinated Peptide Ab, IgG",
+    "price": "18.00"
+}, {
+    "id": "55301",
+    "aa": "FOOD 13",
+    "value": "Allergen, Food, Profile 13",
+    "price": "11.00"
+}, {
+    "id": "55428",
+    "aa": "CHILI PEP",
+    "value": "Allergen, Food, Pepper C. frutescens IgE",
+    "price": "7.00"
+}, {
+    "id": "55567",
+    "aa": "T CELL-F",
+    "value": "T-Cell Clonality Screening by PCR",
+    "price": "10.00"
+}, {
+    "id": "55568",
+    "aa": "T CELL-F",
+    "value": "T-Cell Clonality Screening by PCR",
+    "price": "10.00"
+}, {
+    "id": "55592",
+    "aa": "BCELL SCRN",
+    "value": "B-Cell Clonality Screening (IgH and IgK)",
+    "price": "3.00"
+}, {
+    "id": "55593",
+    "aa": "HEPCGENO",
+    "value": "HCV Genotype by PCR and Sequencing",
+    "price": "13.00"
+}, {
+    "id": "55598",
+    "aa": "HIVPCRQ",
+    "value": "HIV-1 RNA Qnt By Real-Time PCR",
+    "price": "2.00"
+}, {
+    "id": "55631",
+    "aa": "T CELL-F",
+    "value": "T-Cell Clonality Screening by PCR",
+    "price": "4.00"
+}, {
+    "id": "55655",
+    "aa": "MTHFR PCR",
+    "value": "MTHFR 2 Mutations",
+    "price": "19.00"
+}, {
+    "id": "55662",
+    "aa": "B12 MMA",
+    "value": "Vit B12/Rflx MMA - Vit B12 Status",
+    "price": "18.00"
+}, {
+    "id": "55665",
+    "aa": "BILL MMAR",
+    "value": "MMA Quant Bill",
+    "price": "6.00"
+}, {
+    "id": "56005",
+    "aa": "CF PAN",
+    "value": "Cystic Fibrosis (CFTR) 32 Mutations",
+    "price": "8.00"
+}, {
+    "id": "56009",
+    "aa": "TTG G",
+    "value": "Tissue Transglutaminase Antibody, IgG",
+    "price": "13.00"
+}, {
+    "id": "56025",
+    "aa": "HBVUPCR",
+    "value": "Hepatitis B Virus DNA Quant RT- PCR",
+    "price": "15.00"
+}, {
+    "id": "56060",
+    "aa": "PT PCR",
+    "value": "Prothrombin (F2) G20210A Mutation",
+    "price": "5.00"
+}, {
+    "id": "56105",
+    "aa": "LEGIONPCR",
+    "value": "Legionella Species by Qualitative PCR",
+    "price": "20.00"
+}, {
+    "id": "58002",
+    "aa": "CAMPY",
+    "value": "Campylobacter Antigen",
+    "price": "17.00"
+}, {
+    "id": "58902",
+    "aa": "C2CYA",
+    "value": "Cyclosporine A, 2-Hr Post(C2) HPLC-MS/MS",
+    "price": "13.00"
+}, {
+    "id": "60031",
+    "aa": "CMVPCR B",
+    "value": "Cytomegalovirus by PCR, Whole Bld/Bn Mrw",
+    "price": "4.00"
+}, {
+    "id": "60040",
+    "aa": "CMVPCR",
+    "value": "Cytomegalovirus by Qualitative PCR",
+    "price": "12.00"
+}, {
+    "id": "60041",
+    "aa": "HSVPCR",
+    "value": "Herpes Simplex Virus By PCR",
+    "price": "8.00"
+}, {
+    "id": "60042",
+    "aa": "VZVPCR",
+    "value": "Varicella-Zoster Virus by PCR",
+    "price": "17.00"
+}, {
+    "id": "60043",
+    "aa": "PARVPCR",
+    "value": "Parvovirus B19, by PCR",
+    "price": "16.00"
+}, {
+    "id": "60045",
+    "aa": "CRYSPOR",
+    "value": "Cryptosporidium Antigen by EIA",
+    "price": "2.00"
+}, {
+    "id": "60047",
+    "aa": "ECSLT AG",
+    "value": "E Coli Shiga-Like Toxin by EIA",
+    "price": "15.00"
+}, {
+    "id": "60048",
+    "aa": "GLAM",
+    "value": "Giardia Antigen by EIA",
+    "price": "17.00"
+}, {
+    "id": "60052",
+    "aa": "PNEUMST",
+    "value": "Pneumocystis Jirovecii by DFA",
+    "price": "1.00"
+}, {
+    "id": "60054",
+    "aa": "POLIO",
+    "value": "Poliovirus Antibodies",
+    "price": "16.00"
+}, {
+    "id": "60068",
+    "aa": "ASPERAG",
+    "value": "Aspergillus Galactomannan Antigen",
+    "price": "9.00"
+}, {
+    "id": "60071",
+    "aa": "HHV6PCR",
+    "value": "Herpesvirus 6 (HHV6) (A&B), Quant by PCR",
+    "price": "3.00"
+}, {
+    "id": "60091",
+    "aa": "STAT GRAM",
+    "value": "Stat Gram Stain",
+    "price": "19.00"
+}, {
+    "id": "60224",
+    "aa": "CGAMD",
+    "value": "C. trachomatis & N. gonorrhoeae by TMA",
+    "price": "5.00"
+}, {
+    "id": "60228",
+    "aa": "SPN AG",
+    "value": "Streptococcus pneumoniae Ag, Urine",
+    "price": "17.00"
+}, {
+    "id": "60241",
+    "aa": "CGAMD",
+    "value": "C. trachomatis & N. gonorrhoeae by TMA",
+    "price": "2.00"
+}, {
+    "id": "60243",
+    "aa": "CTAMD",
+    "value": "Chlamydia trachomatis by TMA",
+    "price": "16.00"
+}, {
+    "id": "60256",
+    "aa": "MPNEUMOPCR",
+    "value": "Mycoplasma pneumoniae by PCR",
+    "price": "17.00"
+}, {
+    "id": "60280",
+    "aa": "HSVFAC",
+    "value": "HSV by DFA w/Reflex to HSV Culture",
+    "price": "20.00"
+}, {
+    "id": "60281",
+    "aa": "RSPFAC",
+    "value": "Resp Viruses DFA w/Rflx to Viral Culture",
+    "price": "1.00"
+}, {
+    "id": "60283",
+    "aa": "VZV HSVFAC",
+    "value": "VZV/HSV DFA w/Reflex to VZV/HSV Culture",
+    "price": "15.00"
+}, {
+    "id": "60288",
+    "aa": "RSV",
+    "value": "Respiratory Syncytial Virus DFA",
+    "price": "7.00"
+}, {
+    "id": "60289",
+    "aa": "RSPFA",
+    "value": "Respiratory Viruses DFA",
+    "price": "14.00"
+}, {
+    "id": "60291",
+    "aa": "CSFGRAM",
+    "value": "Gram Stain, CSF",
+    "price": "13.00"
+}, {
+    "id": "60705",
+    "aa": "GBS PCR",
+    "value": "Streptococcus Group B by PCR",
+    "price": "19.00"
+}, {
+    "id": "60715",
+    "aa": "CPNEUMOPCR",
+    "value": "Chlamydia pneumoniae by PCR",
+    "price": "9.00"
+}, {
+    "id": "60744",
+    "aa": "SP HPV-HI",
+    "value": "HPV High Risk, Hybrid Capture, SurePath",
+    "price": "5.00"
+}, {
+    "id": "60750",
+    "aa": "TP HPVHI",
+    "value": "HPV High Risk, Hybrid Capture, ThinPrep",
+    "price": "1.00"
+}, {
+    "id": "60764",
+    "aa": "RESPMINI",
+    "value": "Respiratory Virus Mini Panel by PCR",
+    "price": "18.00"
+}, {
+    "id": "60774",
+    "aa": "CTNG M4",
+    "value": "CT/NG by TMA, M4/UTM",
+    "price": "9.00"
+}, {
+    "id": "60841",
+    "aa": "ML TICAR",
+    "value": "Antibiotic Level, Ticarcillin",
+    "price": "2.00"
+}, {
+    "id": "60844",
+    "aa": "ML MERO",
+    "value": "Antibiotic Level, Meropenem",
+    "price": "1.00"
+}, {
+    "id": "60845",
+    "aa": "ML AZTREO",
+    "value": "Antibiotic Level, Aztreonam",
+    "price": "9.00"
+}, {
+    "id": "60847",
+    "aa": "HSVT",
+    "value": "Herpes Simplex Virus Typing",
+    "price": "14.00"
+}, {
+    "id": "60851",
+    "aa": "CDIFTX",
+    "value": "C. difficile cytotoxin assay",
+    "price": "5.00"
+}, {
+    "id": "61164",
+    "aa": "FECLACTO",
+    "value": "Lactoferrin, Fecal by ELISA",
+    "price": "11.00"
+}, {
+    "id": "65059",
+    "aa": "CTAMD",
+    "value": "Chlamydia trachomatis by TMA",
+    "price": "17.00"
+}, {
+    "id": "65067",
+    "aa": "ROTAD",
+    "value": "Rotavirus and Adenovirus 40-41 Ags, EIA",
+    "price": "4.00"
+}, {
+    "id": "65078",
+    "aa": "BPERT",
+    "value": "Bordetella Pertussis, PCR",
+    "price": "12.00"
+}, {
+    "id": "65080",
+    "aa": "BORD PCR",
+    "value": "Bordetella pertussis/parapertussis, PCR",
+    "price": "16.00"
+}, {
+    "id": "65100",
+    "aa": "V CHLM PAN",
+    "value": "Chlamydia Ab Panel, IgG/IgM by IFA",
+    "price": "13.00"
+}, {
+    "id": "65109",
+    "aa": "PARVO",
+    "value": "Parvovirus B19 Abs, IgG and IgM",
+    "price": "8.00"
+}, {
+    "id": "65120",
+    "aa": "PARVO",
+    "value": "Parvovirus B19 Abs, IgG and IgM",
+    "price": "15.00"
+}, {
+    "id": "65146",
+    "aa": "CDIFF",
+    "value": "Clostridium difficile Toxins (A/B) EIA",
+    "price": "11.00"
+}, {
+    "id": "65147",
+    "aa": "PYLORI AG",
+    "value": "Helicobacter pylori Ag, Fecal by EIA",
+    "price": "1.00"
+}, {
+    "id": "65153",
+    "aa": "VAGP",
+    "value": "Vaginal Pathogen Panel by DNA Probe",
+    "price": "8.00"
+}, {
+    "id": "70005",
+    "aa": "OHPRGSTON",
+    "value": "17-Hydroxyprogesterone Qnt, HPLC-MS/MS",
+    "price": "17.00"
+}, {
+    "id": "70010",
+    "aa": "ACTH",
+    "value": "Adrenocorticotropic Hormone",
+    "price": "6.00"
+}, {
+    "id": "70025",
+    "aa": "BHCG QNT",
+    "value": "Beta-hCG, Serum Quantitative",
+    "price": "1.00"
+}, {
+    "id": "70029",
+    "aa": "BHCG TM",
+    "value": "Beta-hCG, Serum Quant Tumor Marker",
+    "price": "5.00"
+}, {
+    "id": "70030",
+    "aa": "CORTISOL",
+    "value": "Cortisol, Serum or Plasma",
+    "price": "18.00"
+}, {
+    "id": "70035",
+    "aa": "CYA",
+    "value": "Cyclosporine A by HPLC-MS/MS",
+    "price": "10.00"
+}, {
+    "id": "70037",
+    "aa": "HIST-WB",
+    "value": "Histamine, Whole Blood",
+    "price": "4.00"
+}, {
+    "id": "70040",
+    "aa": "DHEAS",
+    "value": "DHEA Sulfate, Serum",
+    "price": "5.00"
+}, {
+    "id": "70045",
+    "aa": "ESTRA",
+    "value": "Estradiol, Adult Premenopausal Female",
+    "price": "4.00"
+}, {
+    "id": "70053",
+    "aa": "BSAP",
+    "value": "Bone Specific Alkaline Phosphatase",
+    "price": "7.00"
+}, {
+    "id": "70055",
+    "aa": "FSH",
+    "value": "Follicle Stimulating Hormone",
+    "price": "4.00"
+}, {
+    "id": "70063",
+    "aa": "INSULIN FT",
+    "value": "Insulin, Fasting",
+    "price": "13.00"
+}, {
+    "id": "70065",
+    "aa": "FERITN",
+    "value": "Ferritin",
+    "price": "18.00"
+}, {
+    "id": "70070",
+    "aa": "FOL",
+    "value": "Folate, Serum",
+    "price": "16.00"
+}, {
+    "id": "70073",
+    "aa": "A/RA",
+    "value": "Aldosterone Renin ACT Ratio",
+    "price": "15.00"
+}, {
+    "id": "70075",
+    "aa": "GAST",
+    "value": "Gastrin Level",
+    "price": "1.00"
+}, {
+    "id": "70080",
+    "aa": "HGH",
+    "value": "Growth Hormone",
+    "price": "14.00"
+}, {
+    "id": "70093",
+    "aa": "LH",
+    "value": "Luteinizing Hormone, Serum",
+    "price": "4.00"
+}, {
+    "id": "70102",
+    "aa": "BIO T",
+    "value": "Testosterone, Bio and SHBG, Adult Male",
+    "price": "20.00"
+}, {
+    "id": "70103",
+    "aa": "C PEP",
+    "value": "C-Peptide, Serum or Plasma",
+    "price": "8.00"
+}, {
+    "id": "70105",
+    "aa": "RENIN",
+    "value": "Renin Activity",
+    "price": "8.00"
+}, {
+    "id": "70107",
+    "aa": "INSULIN R",
+    "value": "Insulin, Random",
+    "price": "4.00"
+}, {
+    "id": "70109",
+    "aa": "FREE T",
+    "value": "Testosterone Free and Total, Adult Male",
+    "price": "8.00"
+}, {
+    "id": "70111",
+    "aa": "FREE T2",
+    "value": "Testosterone Free, Adult Male",
+    "price": "11.00"
+}, {
+    "id": "70112",
+    "aa": "PROINS",
+    "value": "Proinsulin, Intact",
+    "price": "5.00"
+}, {
+    "id": "70115",
+    "aa": "PROLAC",
+    "value": "Prolactin",
+    "price": "18.00"
+}, {
+    "id": "70120",
+    "aa": "PAP",
+    "value": "Prostatic Acid Phosphatase",
+    "price": "12.00"
+}, {
+    "id": "70121",
+    "aa": "PSA",
+    "value": "Prostate Specific Antigen",
+    "price": "19.00"
+}, {
+    "id": "70125",
+    "aa": "IGF-1",
+    "value": "IGF-1 (Insulin-Like Growth Factor I)",
+    "price": "2.00"
+}, {
+    "id": "70130",
+    "aa": "TESTOS",
+    "value": "Testosterone, Adult Male",
+    "price": "13.00"
+}, {
+    "id": "70133",
+    "aa": "FT3",
+    "value": "Triiodothyronine, Free (Free T3)",
+    "price": "11.00"
+}, {
+    "id": "70138",
+    "aa": "FT4",
+    "value": "Thyroxine Free",
+    "price": "6.00"
+}, {
+    "id": "70140",
+    "aa": "T4",
+    "value": "Thyroxine",
+    "price": "1.00"
+}, {
+    "id": "70141",
+    "aa": "T7",
+    "value": "Thyroid Panel",
+    "price": "3.00"
+}, {
+    "id": "70145",
+    "aa": "TSH",
+    "value": "Thyroid Stimulating Hormone",
+    "price": "6.00"
+}, {
+    "id": "70150",
+    "aa": "B12",
+    "value": "Vitamin B12",
+    "price": "7.00"
+}, {
+    "id": "70155",
+    "aa": "INS F&T",
+    "value": "Insulin, Free And Total",
+    "price": "11.00"
+}, {
+    "id": "70160",
+    "aa": "B12/FOL",
+    "value": "Vitamin B12 & Folate",
+    "price": "2.00"
+}, {
+    "id": "70172",
+    "aa": "PTHI",
+    "value": "Parathyroid Hormone, Intact with Calcium",
+    "price": "11.00"
+}, {
+    "id": "70189",
+    "aa": "BILE AC",
+    "value": "Bile Acids, Total",
+    "price": "19.00"
+}, {
+    "id": "70193",
+    "aa": "LH/FSH",
+    "value": "Luteinizing Hormone/Follicle Stim Horm",
+    "price": "16.00"
+}, {
+    "id": "70225",
+    "aa": "TSH 3",
+    "value": "TSH 3rd Generation",
+    "price": "7.00"
+}, {
+    "id": "70236",
+    "aa": "PINP",
+    "value": "Procollagen I Intact N-Terminal Propep",
+    "price": "1.00"
+}, {
+    "id": "70322",
+    "aa": "LEGAG-U",
+    "value": "Legionella Pneumophila Antigen, Urine",
+    "price": "1.00"
+}, {
+    "id": "70346",
+    "aa": "PTH-INT",
+    "value": "Parathyroid Hormone Intact",
+    "price": "5.00"
+}, {
+    "id": "70385",
+    "aa": "RBCFOLATE",
+    "value": "Folate, RBC",
+    "price": "3.00"
+}, {
+    "id": "70390",
+    "aa": "TOPIR",
+    "value": "Topiramate",
+    "price": "13.00"
+}, {
+    "id": "70413",
+    "aa": "INHIBINB",
+    "value": "Inhibin B",
+    "price": "13.00"
+}, {
+    "id": "70416",
+    "aa": "CTX",
+    "value": "C-Telopeptide, Beta-Cross-Linked, Serum",
+    "price": "5.00"
+}, {
+    "id": "70421",
+    "aa": "THYROGRFX",
+    "value": "Thyroglobulin, Serum or Plasma Reflex",
+    "price": "16.00"
+}, {
+    "id": "70426",
+    "aa": "HBA1C",
+    "value": "Hemoglobin A1C",
+    "price": "12.00"
+}, {
+    "id": "70474",
+    "aa": "T3 TOTAL",
+    "value": "Triiodothyronine, Total (Total T3)",
+    "price": "17.00"
+}, {
+    "id": "70480",
+    "aa": "ALDO U",
+    "value": "Aldosterone, Urine",
+    "price": "2.00"
+}, {
+    "id": "70500",
+    "aa": "NTX SERUM",
+    "value": "N-Telopeptide, Cross-Linked, Serum",
+    "price": "2.00"
+}, {
+    "id": "80001",
+    "aa": "ACE",
+    "value": "Angiotensin Converting Enzyme, Serum",
+    "price": "16.00"
+}, {
+    "id": "80009",
+    "aa": "ACHRBIN",
+    "value": "Acetylcholine Binding Ab",
+    "price": "6.00"
+}, {
+    "id": "80045",
+    "aa": "B-OH",
+    "value": "Beta-Hydroxybutyric Acid",
+    "price": "10.00"
+}, {
+    "id": "80053",
+    "aa": "B2M S",
+    "value": "Beta-2-Microglobulin, Serum or Plasma",
+    "price": "3.00"
+}, {
+    "id": "80065",
+    "aa": "CARN",
+    "value": "Carnitine, Free",
+    "price": "13.00"
+}, {
+    "id": "80068",
+    "aa": "CARN F&T",
+    "value": "Carnitine Free and Total",
+    "price": "18.00"
+}, {
+    "id": "80080",
+    "aa": "CEA",
+    "value": "Carcinoembryonic Antigen",
+    "price": "17.00"
+}, {
+    "id": "80103",
+    "aa": "ALA U",
+    "value": "Aminolevulinic Acid (ALA), Urine",
+    "price": "4.00"
+}, {
+    "id": "80108",
+    "aa": "AFP MS3",
+    "value": "Maternal Serum Screen AFP, hCG, Estriol",
+    "price": "13.00"
+}, {
+    "id": "80111",
+    "aa": "VIT B6",
+    "value": "Vitamin B6 (Pyridoxal 5-Phosphate)",
+    "price": "6.00"
+}, {
+    "id": "80135",
+    "aa": "G6PD",
+    "value": "Glucose-6-Phosphate Dehydrogenase",
+    "price": "8.00"
+}, {
+    "id": "80206",
+    "aa": "PSA FP",
+    "value": "PSA Total with Free PSA",
+    "price": "17.00"
+}, {
+    "id": "80235",
+    "aa": "5NUCL",
+    "value": "5' Nucleotidase",
+    "price": "3.00"
+}, {
+    "id": "80260",
+    "aa": "PBGQT",
+    "value": "Porphobilinogen Quantitative Urine",
+    "price": "20.00"
+}, {
+    "id": "80264",
+    "aa": "TPSAR",
+    "value": "Total PSA With Free PSA Reflex",
+    "price": "14.00"
+}, {
+    "id": "80269",
+    "aa": "AFP MS4",
+    "value": "Maternal Serum Screen AFP, hCG, EST, INH",
+    "price": "18.00"
+}, {
+    "id": "80342",
+    "aa": "PYD & DPD",
+    "value": "Pyridinoline and Deoxypyridin",
+    "price": "10.00"
+}, {
+    "id": "80379",
+    "aa": "VIT D 25",
+    "value": "Vitamin D, 25-Hydroxy",
+    "price": "8.00"
+}, {
+    "id": "80385",
+    "aa": "VIT D 1,25",
+    "value": "Vitamin D, 1,25-Dihydroxy",
+    "price": "13.00"
+}, {
+    "id": "80388",
+    "aa": "VIT B1 WB",
+    "value": "Vitamin B1 (Thiamine), Whole Blood",
+    "price": "13.00"
+}, {
+    "id": "80389",
+    "aa": "VIT B1 P",
+    "value": "Vitamin B1 (Thiamine), Plasma",
+    "price": "8.00"
+}, {
+    "id": "80392",
+    "aa": "CA27.29",
+    "value": "Cancer Antigen 27.29",
+    "price": "1.00"
+}, {
+    "id": "80395",
+    "aa": "SEROT-WB",
+    "value": "Serotonin, Whole Blood",
+    "price": "4.00"
+}, {
+    "id": "80407",
+    "aa": "CATE UF",
+    "value": "Catecholamines Fractionated, Urine Free",
+    "price": "17.00"
+}, {
+    "id": "80413",
+    "aa": "HOMOCYS-U",
+    "value": "Homocystine Quantitative, Urine",
+    "price": "1.00"
+}, {
+    "id": "80420",
+    "aa": "HIAA",
+    "value": "5-Hydroxyindoleacetic Acid (HIAA), Urine",
+    "price": "13.00"
+}, {
+    "id": "80428",
+    "aa": "AFP TM",
+    "value": "Alpha Fetoprotein Tumor Marker",
+    "price": "16.00"
+}, {
+    "id": "80434",
+    "aa": "MS ONLY",
+    "value": "Maternal Serum Screen, AFP, Only",
+    "price": "15.00"
+}, {
+    "id": "80436",
+    "aa": "META URINE",
+    "value": "Metanephrines Fractionated, Urine",
+    "price": "19.00"
+}, {
+    "id": "80440",
+    "aa": "OLIGO",
+    "value": "Oligoclonal Band Profile",
+    "price": "14.00"
+}, {
+    "id": "80461",
+    "aa": "CA-GI",
+    "value": "Cancer Antigen-GI (CA 19-9)",
+    "price": "6.00"
+}, {
+    "id": "80462",
+    "aa": "CA125",
+    "value": "Cancer Antigen 125",
+    "price": "18.00"
+}, {
+    "id": "80464",
+    "aa": "CA-BREAST",
+    "value": "CA 15-3, Cancer Antigen - Breast",
+    "price": "17.00"
+}, {
+    "id": "80469",
+    "aa": "CGA SERUM",
+    "value": "Chromogranin A",
+    "price": "5.00"
+}, {
+    "id": "80480",
+    "aa": "CK MB",
+    "value": "Creatine Kinase, MB",
+    "price": "3.00"
+}, {
+    "id": "80500",
+    "aa": "A1A PHENO",
+    "value": "Alpha-1-Antitrypsin Phenotype",
+    "price": "7.00"
+}, {
+    "id": "80515",
+    "aa": "MBP",
+    "value": "Myelin Basic Protein, CSF",
+    "price": "18.00"
+}, {
+    "id": "80521",
+    "aa": "VIT E",
+    "value": "Vitamin E, Serum or Plasma",
+    "price": "7.00"
+}, {
+    "id": "80525",
+    "aa": "VIT A",
+    "value": "Vitamin A (Retinol), Serum or Plasma",
+    "price": "3.00"
+}, {
+    "id": "80526",
+    "aa": "PAN-ELAST",
+    "value": "Pancreatic Elastase , Fecal",
+    "price": "14.00"
+}, {
+    "id": "81055",
+    "aa": "PLAC",
+    "value": "Lipoprotein-Associated Phospholipase A(2",
+    "price": "1.00"
+}, {
+    "id": "81056",
+    "aa": "TESTOS F&T",
+    "value": "Testosterone Free/Total, Female/Child",
+    "price": "2.00"
+}, {
+    "id": "81057",
+    "aa": "BIO T MASS",
+    "value": "Testosterone, Bio w/SHBG, Female/Child",
+    "price": "2.00"
+}, {
+    "id": "81058",
+    "aa": "TESTOS MAS",
+    "value": "Testosterone, LC-MS/MS",
+    "price": "9.00"
+}, {
+    "id": "81059",
+    "aa": "TESTOS FR",
+    "value": "Testosterone Free by LC-MS/MS",
+    "price": "15.00"
+}, {
+    "id": "81062",
+    "aa": "MS INT-1",
+    "value": "Maternal Screening, INT-1",
+    "price": "1.00"
+}, {
+    "id": "81064",
+    "aa": "MS INT-2",
+    "value": "Maternal Screening, INT-2",
+    "price": "10.00"
+}, {
+    "id": "81117",
+    "aa": "CORT SAL",
+    "value": "Cortisol, Saliva",
+    "price": "13.00"
+}, {
+    "id": "81135",
+    "aa": "OLIGOB",
+    "value": "Oligoclonal Bands in CSF and Serum",
+    "price": "15.00"
+}, {
+    "id": "81150",
+    "aa": "MS FT",
+    "value": "Maternal Serum, First Trimester",
+    "price": "9.00"
+}, {
+    "id": "81208",
+    "aa": "AFP L3",
+    "value": "Alpha Fetoprotein, Total & L3 Percent",
+    "price": "4.00"
+}, {
+    "id": "81293",
+    "aa": "MS SEQ-1",
+    "value": "Maternal Screening, Sequential, Spec 1",
+    "price": "15.00"
+}, {
+    "id": "81294",
+    "aa": "MS SEQ-2",
+    "value": "Maternal Screening, Sequential, Spec 2",
+    "price": "18.00"
+}, {
+    "id": "81301",
+    "aa": "FAX CONF",
+    "value": "Fax Confirmation Tracking Test",
+    "price": "1.00"
+}, {
+    "id": "81332",
+    "aa": "HB CASCADE",
+    "value": "Hemoglobin Evaluation Reflexive Cascade",
+    "price": "3.00"
+}, {
+    "id": "82024",
+    "aa": "FFN",
+    "value": "Fetal Fibronectin",
+    "price": "1.00"
+}, {
+    "id": "85034",
+    "aa": "ADD TT",
+    "value": "Add Tracking Test",
+    "price": "18.00"
+}, {
+    "id": "85042",
+    "aa": "ADD TT2",
+    "value": "Add Tracking Test 2",
+    "price": "15.00"
+}, {
+    "id": "90001",
+    "aa": "ACET",
+    "value": "Acetaminophen Level",
+    "price": "2.00"
+}, {
+    "id": "90080",
+    "aa": "DIG",
+    "value": "Digoxin",
+    "price": "18.00"
+}, {
+    "id": "90090",
+    "aa": "DIL",
+    "value": "Phenytoin",
+    "price": "1.00"
+}, {
+    "id": "90110",
+    "aa": "ETG",
+    "value": "Ethylene Glycol",
+    "price": "6.00"
+}, {
+    "id": "90120",
+    "aa": "ETOH",
+    "value": "Ethanol, Serum or Plasma - Medical",
+    "price": "11.00"
+}, {
+    "id": "90130",
+    "aa": "GENT",
+    "value": "Gentamicin, Random Level",
+    "price": "20.00"
+}, {
+    "id": "90141",
+    "aa": "FDIL",
+    "value": "Phenytoin, Free And Total",
+    "price": "18.00"
+}, {
+    "id": "90144",
+    "aa": "ISOP",
+    "value": "Isopropanol (Includes Acetone)",
+    "price": "18.00"
+}, {
+    "id": "90155",
+    "aa": "LIDO",
+    "value": "Lidocaine",
+    "price": "11.00"
+}, {
+    "id": "90165",
+    "aa": "METHANOL",
+    "value": "Methanol",
+    "price": "6.00"
+}, {
+    "id": "90177",
+    "aa": "LAMOT",
+    "value": "Lamotrigine",
+    "price": "7.00"
+}, {
+    "id": "90213",
+    "aa": "MPA MET",
+    "value": "Mycophenolic Acid and Metabolites",
+    "price": "19.00"
+}, {
+    "id": "90230",
+    "aa": "PHNO",
+    "value": "Phenobarbital",
+    "price": "4.00"
+}, {
+    "id": "90251",
+    "aa": "SALIC",
+    "value": "Salicylate Assay",
+    "price": "20.00"
+}, {
+    "id": "90260",
+    "aa": "TEG",
+    "value": "Carbamazepine, Total",
+    "price": "19.00"
+}, {
+    "id": "90265",
+    "aa": "THEO",
+    "value": "Theophylline",
+    "price": "1.00"
+}, {
+    "id": "90285",
+    "aa": "VAN",
+    "value": "Vancomycin, Random Level",
+    "price": "7.00"
+}, {
+    "id": "90290",
+    "aa": "VPA",
+    "value": "Valproic Acid",
+    "price": "14.00"
+}, {
+    "id": "90302",
+    "aa": "U AMP",
+    "value": "Stimulant Amines Detection",
+    "price": "5.00"
+}, {
+    "id": "90305",
+    "aa": "GENTP",
+    "value": "Gentamicin, Peak Level",
+    "price": "7.00"
+}, {
+    "id": "90306",
+    "aa": "U COC",
+    "value": "Cocaine and Metabolites Detection",
+    "price": "12.00"
+}, {
+    "id": "90307",
+    "aa": "S TAD",
+    "value": "Tricyclic Antidepressant Detection",
+    "price": "7.00"
+}, {
+    "id": "90310",
+    "aa": "GENTT",
+    "value": "Gentamicin, Trough Level",
+    "price": "3.00"
+}, {
+    "id": "90311",
+    "aa": "METREXSN",
+    "value": "Methotrexate, Sensitive",
+    "price": "5.00"
+}, {
+    "id": "90312",
+    "aa": "U OPI",
+    "value": "Opiates, Detection",
+    "price": "11.00"
+}, {
+    "id": "90315",
+    "aa": "TOBRAP",
+    "value": "Tobramycin, Peak Level",
+    "price": "1.00"
+}, {
+    "id": "90316",
+    "aa": "TRAZO",
+    "value": "Trazodone",
+    "price": "1.00"
+}, {
+    "id": "90325",
+    "aa": "VANP",
+    "value": "Vancomycin, Peak Level",
+    "price": "16.00"
+}, {
+    "id": "90330",
+    "aa": "VANT",
+    "value": "Vancomycin, Trough Level",
+    "price": "20.00"
+}, {
+    "id": "90357",
+    "aa": "CDCO BARB",
+    "value": "Drug Confirmation, Barbiturates, Urine",
+    "price": "16.00"
+}, {
+    "id": "90358",
+    "aa": "CDCO BENZO",
+    "value": "Benzodiazepines-Confirmation/Quantitatio",
+    "price": "19.00"
+}, {
+    "id": "90359",
+    "aa": "CDCO COCA",
+    "value": "Drug Confirmation, Cocaine, Urine",
+    "price": "3.00"
+}, {
+    "id": "90362",
+    "aa": "CDCO METH",
+    "value": "Methadone and Metabolite, Urine",
+    "price": "9.00"
+}, {
+    "id": "90364",
+    "aa": "CDCO OPI",
+    "value": "Opiates, Urine",
+    "price": "20.00"
+}, {
+    "id": "90367",
+    "aa": "S BNZ",
+    "value": "Benzodiazepines Detection",
+    "price": "14.00"
+}, {
+    "id": "90369",
+    "aa": "CDCO THC",
+    "value": "Drug Confirmation, Cannabinoids, Urine",
+    "price": "6.00"
+}, {
+    "id": "90439",
+    "aa": "CDCO AMPS",
+    "value": "Drug Confirmation, Amphetamines, Urine",
+    "price": "20.00"
+}, {
+    "id": "90448",
+    "aa": "CDTI7",
+    "value": "Drug Panel 7, Screen Only, Urine",
+    "price": "2.00"
+}, {
+    "id": "90453",
+    "aa": "CDTI9",
+    "value": "Drug Panel 9, Screen Only, Urine",
+    "price": "9.00"
+}, {
+    "id": "90454",
+    "aa": "CDTI9A",
+    "value": "Drug Panel 9A, Screen Only, Urine",
+    "price": "13.00"
+}, {
+    "id": "90491",
+    "aa": "CDTI9",
+    "value": "Drug Panel 9, Screen Only, Urine",
+    "price": "7.00"
+}, {
+    "id": "90492",
+    "aa": "CDTI9A",
+    "value": "Drug Panel 9A, Screen Only, Urine",
+    "price": "15.00"
+}, {
+    "id": "90499",
+    "aa": "BLD SCREEN",
+    "value": "Drug Screen (Nonforensic), Serum",
+    "price": "20.00"
+}, {
+    "id": "90500",
+    "aa": "URN SCREEN",
+    "value": "Drug Screen (Nonforensic), Urine",
+    "price": "14.00"
+}, {
+    "id": "90601",
+    "aa": "ANTIDEP",
+    "value": "Antidepressant Panel Quant, Ser or Plas",
+    "price": "17.00"
+}, {
+    "id": "90612",
+    "aa": "TACRO",
+    "value": "Tacrolimus by HPLC-MS/MS",
+    "price": "16.00"
+}, {
+    "id": "90613",
+    "aa": "TNI",
+    "value": "Troponin I",
+    "price": "15.00"
+}, {
+    "id": "90676",
+    "aa": "CANNAB SP",
+    "value": "Drug Confirmation, Cannabinoids, Ser/Pla",
+    "price": "19.00"
+}, {
+    "id": "90699",
+    "aa": "METHADO SP",
+    "value": "Methadone & Metabolite, Serum or Plasma",
+    "price": "6.00"
+}, {
+    "id": "91007",
+    "aa": "NOTEST F",
+    "value": "Reason for testing not done F",
+    "price": "19.00"
+}, {
+    "id": "91008",
+    "aa": "NOTEST R",
+    "value": "Reason for testing not done R",
+    "price": "19.00"
+}, {
+    "id": "91100",
+    "aa": "SULFON UR",
+    "value": "Sulfonylurea Hypoglycemics Panel, Urine",
+    "price": "15.00"
+}, {
+    "id": "91161",
+    "aa": "GHB U",
+    "value": "Gamma-Hydroxybutyric Acid, Urine",
+    "price": "17.00"
+}, {
+    "id": "91197",
+    "aa": "LIDOCAIN",
+    "value": "Lidocaine and Metabolite, Ser/Pla",
+    "price": "20.00"
+}, {
+    "id": "91265",
+    "aa": "GOLD SP",
+    "value": "Gold Quantitative, Serum or Plasma",
+    "price": "16.00"
+}, {
+    "id": "91434",
+    "aa": "TITANIU SP",
+    "value": "Titanium Quantitative, Serum or Plasma",
+    "price": "16.00"
+}, {
+    "id": "92066",
+    "aa": "TPMT RBC",
+    "value": "Thiopurine Methyltransferase, RBC",
+    "price": "14.00"
+}, {
+    "id": "92100",
+    "aa": "CORTURATIO",
+    "value": "Cortisol and Cortisone, Urine Free",
+    "price": "11.00"
+}, {
+    "id": "92101",
+    "aa": "HIV NAT",
+    "value": "HIV-1, HCV, HBV (Procleix Ultrio) NAT",
+    "price": "15.00"
+}, {
+    "id": "92118",
+    "aa": "EVEROLIMUS",
+    "value": "Everolimus by HPLC-MS/MS",
+    "price": "16.00"
+}, {
+    "id": "92168",
+    "aa": "NIACIN B3",
+    "value": "Niacin (Vitamin B3)",
+    "price": "12.00"
+}, {
+    "id": "92182",
+    "aa": "CDASU 9",
+    "value": "Drug Panel 9, Urn, Scrn w/Rflx to Conf",
+    "price": "8.00"
+}, {
+    "id": "92184",
+    "aa": "CDASU 7",
+    "value": "Drug Panel 7, Urn, Scrn w/Rflx to Conf",
+    "price": "2.00"
+}, {
+    "id": "92186",
+    "aa": "CDASU 9",
+    "value": "Drug Panel 9, Urn, Scrn w/Rflx to Conf",
+    "price": "18.00"
+}, {
+    "id": "92280",
+    "aa": "CDASUALC",
+    "value": "Drug Screen and Conf, Alcohol, Urine",
+    "price": "17.00"
+}, {
+    "id": "92303",
+    "aa": "CALPRO",
+    "value": "Calprotectin, Fecal",
+    "price": "3.00"
+}, {
+    "id": "92332",
+    "aa": "OHPRGSTON",
+    "value": "17-Hydroxyprogesterone Qnt, HPLC-MS/MS",
+    "price": "10.00"
+}, {
+    "id": "92354",
+    "aa": "OPIS SP",
+    "value": "Opiates, Confirm/Quant, Serum/Plasma",
+    "price": "10.00"
+}, {
+    "id": "92361",
+    "aa": "NICOTINESP",
+    "value": "Nicotine and Metabolites, Ser/Pla",
+    "price": "16.00"
+}, {
+    "id": "92420",
+    "aa": "DRUG SCRSP",
+    "value": "Drug Pan 9, Ser/Pla, Scrn w/Rflx to Conf",
+    "price": "2.00"
+}, {
+    "id": "92516",
+    "aa": "MEC 9",
+    "value": "Drug Panel, Mec, Screen w/Rflx to Conf",
+    "price": "15.00"
+}, {
+    "id": "92522",
+    "aa": "HISTOAG S",
+    "value": "Histoplasma Antigen, Serum",
+    "price": "5.00"
+}, {
+    "id": "92534",
+    "aa": "TGONDI IGG",
+    "value": "Toxoplasma gondii Ab, IgG, CSF",
+    "price": "15.00"
+}, {
+    "id": "92580",
+    "aa": "LATEX RIA",
+    "value": "Allergen, Latex Specific IgE Panel RIA",
+    "price": "9.00"
+}, {
+    "id": "92628",
+    "aa": "VGCC AB",
+    "value": "Voltage-Gated Calcium Channel (VGCC) Ab",
+    "price": "14.00"
+}, {
+    "id": "92660",
+    "aa": "VEG FACTOR",
+    "value": "Vascular Endothelial Growth Factor",
+    "price": "8.00"
+}, {
+    "id": "93000",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "14.00"
+}, {
+    "id": "93030",
+    "aa": "XCG PRELIM",
+    "value": "Cytogenetics Preliminary Report",
+    "price": "7.00"
+}, {
+    "id": "93057",
+    "aa": "BART DNA",
+    "value": "Bartonella species by PCR",
+    "price": "3.00"
+}, {
+    "id": "93067",
+    "aa": "FTA G/M",
+    "value": "Treponema pallidum Ab Pan(FTA-ABS) IgG/M",
+    "price": "16.00"
+}, {
+    "id": "93093",
+    "aa": "VDRL SERU",
+    "value": "VDRL with Reflex to Titer, Serum",
+    "price": "13.00"
+}, {
+    "id": "93194",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "15.00"
+}, {
+    "id": "93243",
+    "aa": "FT3 ED-TMS",
+    "value": "Free T3 by Equil Dialysis-TMS",
+    "price": "6.00"
+}, {
+    "id": "93247",
+    "aa": "ESDIOL TMS",
+    "value": "Estradiol by TMS",
+    "price": "17.00"
+}, {
+    "id": "93248",
+    "aa": "EST FR TMS",
+    "value": "Estrogens, Fractionated by TMS",
+    "price": "3.00"
+}, {
+    "id": "93300",
+    "aa": "BENZ SP",
+    "value": "Drug Conf, Benzodiazepines, Ser/Pla",
+    "price": "16.00"
+}, {
+    "id": "93310",
+    "aa": "NMDP PRO",
+    "value": "NMDP Comprehensive Profile",
+    "price": "20.00"
+}, {
+    "id": "93357",
+    "aa": "PC FLOW",
+    "value": "Plasma Cell Phenotyping",
+    "price": "16.00"
+}, {
+    "id": "93399",
+    "aa": "CTC COUNT",
+    "value": "Circulating Tumor Cell Count",
+    "price": "1.00"
+}, {
+    "id": "93451",
+    "aa": "ADD UH",
+    "value": "Additional Lab Test Request",
+    "price": "20.00"
+}, {
+    "id": "93452",
+    "aa": "RO TT",
+    "value": "Recurring Order Tracking",
+    "price": "10.00"
+}, {
+    "id": "93456",
+    "aa": "BJP-U REFLEX",
+    "value": "Bence Jones Protein Assay, Reflx to uFLC",
+    "price": "17.00"
+}, {
+    "id": "93482",
+    "aa": "SEQ FSM",
+    "value": "Familial Mutation, Targeted Sequencing",
+    "price": "20.00"
+}, {
+    "id": "93900",
+    "aa": "HH TT",
+    "value": "Histology/Hemepath Tracking Test",
+    "price": "17.00"
+}, {
+    "id": "94030",
+    "aa": "FELBAMA",
+    "value": "Felbamate",
+    "price": "2.00"
+}, {
+    "id": "95018",
+    "aa": "CSF",
+    "value": "Cell Count Cerebrospinal Fluid",
+    "price": "9.00"
+}, {
+    "id": "95019",
+    "aa": "FLD",
+    "value": "Cell Count, Body Fluid",
+    "price": "3.00"
+}, {
+    "id": "95044",
+    "aa": "PRENATAL A",
+    "value": "Prenatal Reflexive Panel",
+    "price": "7.00"
+}, {
+    "id": "95229",
+    "aa": "CYSTAT C",
+    "value": "Cystatin C",
+    "price": "7.00"
+}, {
+    "id": "95243",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "3.00"
+}, {
+    "id": "95244",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "17.00"
+}, {
+    "id": "95263",
+    "aa": "VAP CHOL",
+    "value": "VAP Cholesterol, Serum",
+    "price": "11.00"
+}, {
+    "id": "95798",
+    "aa": "LYMPHPRO",
+    "value": "Lymphocyte Transplantation Profile",
+    "price": "16.00"
+}, {
+    "id": "95840",
+    "aa": "HLAB27",
+    "value": "HLA-B27",
+    "price": "2.00"
+}, {
+    "id": "95853",
+    "aa": "ABS",
+    "value": "Lymphocyte Subset 3, CD4 and CD8",
+    "price": "9.00"
+}, {
+    "id": "95854",
+    "aa": "ABS4",
+    "value": "Lymphocyte Subset 1, CD4 Absolute Count",
+    "price": "6.00"
+}, {
+    "id": "95885",
+    "aa": "CD4",
+    "value": "Lymphocyte Subset 2, CD4 Pct. and Absl",
+    "price": "17.00"
+}, {
+    "id": "95892",
+    "aa": "TIMMUNPAN",
+    "value": "Lymphocyte Subset 5, Total Enumeration",
+    "price": "3.00"
+}, {
+    "id": "95899",
+    "aa": "PIP",
+    "value": "Lymphocyte Subset 7, Congenital Immun.",
+    "price": "18.00"
+}, {
+    "id": "96299",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "7.00"
+}, {
+    "id": "97030",
+    "aa": "IRL",
+    "value": "Immunohematology Tracking Test",
+    "price": "18.00"
+}, {
+    "id": "97040",
+    "aa": "SPEC TT",
+    "value": "UUHSC Specimen Tracking",
+    "price": "15.00"
+}, {
+    "id": "97050",
+    "aa": "CYTOGEN TT",
+    "value": "Cytogenetics (Tracking Test)",
+    "price": "9.00"
+}, {
+    "id": "97065",
+    "aa": "HLA TT",
+    "value": "HLA Tracking Test",
+    "price": "6.00"
+}, {
+    "id": "97066",
+    "aa": "UHSC TT",
+    "value": "UHSC Tracking Test",
+    "price": "6.00"
+}, {
+    "id": "97070",
+    "aa": "AP TT",
+    "value": "Anatomic Pathology Tracking Test",
+    "price": "5.00"
+}, {
+    "id": "97078",
+    "aa": "ASP TT",
+    "value": "Aspirate Smear Tracking Test",
+    "price": "6.00"
+}, {
+    "id": "97083",
+    "aa": "F EXCEPT",
+    "value": "Frozen Except Storage",
+    "price": "7.00"
+}, {
+    "id": "97084",
+    "aa": "R EXCEPT",
+    "value": "Refrigerated Except Storage",
+    "price": "20.00"
+}, {
+    "id": "97085",
+    "aa": "EXCEPT",
+    "value": "Exception Handling Procedure",
+    "price": "17.00"
+}, {
+    "id": "97138",
+    "aa": "CHANGE",
+    "value": "Change Test",
+    "price": "8.00"
+}, {
+    "id": "97169",
+    "aa": "RELEASE",
+    "value": "Released Specimens",
+    "price": "17.00"
+}, {
+    "id": "97170",
+    "aa": "EXTRA SPEC",
+    "value": "Extra Sample",
+    "price": "6.00"
+}, {
+    "id": "97180",
+    "aa": "TURNBACK",
+    "value": "Turnback",
+    "price": "19.00"
+}, {
+    "id": "97222",
+    "aa": "CORT UF",
+    "value": "Cortisol, Urine Free by LC-MS/MS",
+    "price": "17.00"
+}, {
+    "id": "97505",
+    "aa": "EXCEPT2",
+    "value": "Exception Handling Procedure 2",
+    "price": "12.00"
+}, {
+    "id": "97709",
+    "aa": "TTG",
+    "value": "Tissue Transglutaminase Antibody, IgA",
+    "price": "4.00"
+}, {
+    "id": "97720",
+    "aa": "FACV",
+    "value": "Factor V Leiden (F5) R506Q Mutation",
+    "price": "5.00"
+}, {
+    "id": "97738",
+    "aa": "REDRAW",
+    "value": "UEH Specimen Redraw",
+    "price": "8.00"
+}, {
+    "id": "97908",
+    "aa": "ZONI",
+    "value": "Zonisamide Quantitative",
+    "price": "9.00"
+}, {
+    "id": "97909",
+    "aa": "R RT",
+    "value": "Refrigerated Referral Testing",
+    "price": "17.00"
+}, {
+    "id": "98264",
+    "aa": "HEPCQNT",
+    "value": "Hepatitis C Virus RNA Quant RT-PCR",
+    "price": "14.00"
+}, {
+    "id": "98268",
+    "aa": "HEPCQNT",
+    "value": "Hepatitis C Virus RNA Quant RT-PCR",
+    "price": "16.00"
+}, {
+    "id": "98389",
+    "aa": "ORG AC",
+    "value": "Organic Acids, Urine",
+    "price": "6.00"
+}, {
+    "id": "98391",
+    "aa": "FCORTS",
+    "value": "Cortisol, Free",
+    "price": "15.00"
+}, {
+    "id": "98392",
+    "aa": "M PYLORI",
+    "value": "Helicobacter Pylori Ab, IgM",
+    "price": "10.00"
+}, {
+    "id": "98457",
+    "aa": "CHYLO FL",
+    "value": "Chylomicron Screen, Body Fluid",
+    "price": "14.00"
+}, {
+    "id": "98467",
+    "aa": "RAPAMUNE",
+    "value": "Sirolimus by HPLC-MS/MS",
+    "price": "20.00"
+}, {
+    "id": "98581",
+    "aa": "PSA ULTRA",
+    "value": "PSA Ultra Sensitive",
+    "price": "7.00"
+}, {
+    "id": "98627",
+    "aa": "KEPPRA",
+    "value": "Keppra  (Levetiracetam)",
+    "price": "12.00"
+}, {
+    "id": "98655",
+    "aa": "HEV IGG",
+    "value": "Hepatitis E Virus Ab, IgG by ELISA",
+    "price": "11.00"
+}, {
+    "id": "98656",
+    "aa": "HEV IGM",
+    "value": "Hepatitis E Virus Ab, IgM by ELISA",
+    "price": "20.00"
+}, {
+    "id": "98793",
+    "aa": "NBP",
+    "value": "Newborn Screen (PKU T4 Glyco)",
+    "price": "6.00"
+}, {
+    "id": "98796",
+    "aa": "NBP2",
+    "value": "Newborn Screen #2 (Bill Only)",
+    "price": "12.00"
+}, {
+    "id": "98830",
+    "aa": "CR S",
+    "value": "Chromium, Serum",
+    "price": "5.00"
+}, {
+    "id": "98834",
+    "aa": "OXCARB",
+    "value": "Oxcarbazepine Metabolite",
+    "price": "6.00"
+}, {
+    "id": "98879",
+    "aa": "ENT PANEL",
+    "value": "Enterovirus Panel",
+    "price": "16.00"
+}, {
+    "id": "98894",
+    "aa": "PRO S FREE",
+    "value": "Protein S Ag, Free",
+    "price": "6.00"
+}, {
+    "id": "98930",
+    "aa": "CLOZAPINE",
+    "value": "Clozapine",
+    "price": "11.00"
+}, {
+    "id": "98974",
+    "aa": "ACE CSF",
+    "value": "Angiotensin Converting Enzyme, CSF",
+    "price": "4.00"
+}, {
+    "id": "99012",
+    "aa": "FRUCTOSAM",
+    "value": "Fructosamine",
+    "price": "6.00"
+}, {
+    "id": "99045",
+    "aa": "ARS B",
+    "value": "Arsenic, Blood",
+    "price": "5.00"
+}, {
+    "id": "99090",
+    "aa": "TOXOCARA",
+    "value": "Toxocara Antibody IgG by ELISA",
+    "price": "11.00"
+}, {
+    "id": "99169",
+    "aa": "JC VIRUS",
+    "value": "JC Virus by PCR",
+    "price": "18.00"
+}, {
+    "id": "99173",
+    "aa": "TRYPT",
+    "value": "Tryptase",
+    "price": "7.00"
+}, {
+    "id": "99174",
+    "aa": "LIPO A",
+    "value": "Lipoprotein (a)",
+    "price": "17.00"
+}, {
+    "id": "99184",
+    "aa": "BUPRO",
+    "value": "Bupropion, Serum or Plasma",
+    "price": "7.00"
+}, {
+    "id": "99228",
+    "aa": "ANTI-INS",
+    "value": "Insulin Antibody",
+    "price": "7.00"
+}, {
+    "id": "99265",
+    "aa": "MANG",
+    "value": "Manganese, Serum",
+    "price": "18.00"
+}, {
+    "id": "99270",
+    "aa": "LIVER-KID",
+    "value": "Liver-Kidney Microsome Abs, IgG",
+    "price": "4.00"
+}, {
+    "id": "99305",
+    "aa": "HG B",
+    "value": "Mercury, Blood",
+    "price": "20.00"
+}, {
+    "id": "99310",
+    "aa": "VPA-F",
+    "value": "Valproic Acid, Free",
+    "price": "2.00"
+}, {
+    "id": "99344",
+    "aa": "ANTI-CARD",
+    "value": "Cardiolipin Antibodies, IgG/IgM",
+    "price": "13.00"
+}, {
+    "id": "99359",
+    "aa": "G PYLORI",
+    "value": "Helicobacter pylori Antibody, IgG",
+    "price": "2.00"
+}, {
+    "id": "99375",
+    "aa": "SHBG",
+    "value": "Sex Hormone Binding Globulin",
+    "price": "16.00"
+}, {
+    "id": "99411",
+    "aa": "SCHIS",
+    "value": "Schistosoma Antibody, IgG",
+    "price": "19.00"
+}, {
+    "id": "99430",
+    "aa": "TSI",
+    "value": "Thyroid Stimulating Immunoglobulins",
+    "price": "20.00"
+}, {
+    "id": "99431",
+    "aa": "MMA QNT-P",
+    "value": "MMA Serum/Plasma, Vitamin B12 Status",
+    "price": "20.00"
+}, {
+    "id": "99436",
+    "aa": "PAN POLY",
+    "value": "Pancreatic Polypeptide",
+    "price": "12.00"
+}, {
+    "id": "99440",
+    "aa": "CALCULI",
+    "value": "Calculi (STONE) Analysis",
+    "price": "3.00"
+}, {
+    "id": "99460",
+    "aa": "CALCULI",
+    "value": "Calculi (STONE) Analysis",
+    "price": "1.00"
+}, {
+    "id": "99474",
+    "aa": "ONION",
+    "value": "Allergen, Food, Onion",
+    "price": "7.00"
+}, {
+    "id": "99479",
+    "aa": "GARLIC",
+    "value": "Allergen, Food, Garlic",
+    "price": "7.00"
+}, {
+    "id": "99483",
+    "aa": "LYME CSF",
+    "value": "B. burgdorferi Abs, by ELISA, CSF",
+    "price": "10.00"
+}, {
+    "id": "99521",
+    "aa": "ACHRMOD",
+    "value": "Acetylcholine Receptor Modulating Ab",
+    "price": "5.00"
+}, {
+    "id": "99529",
+    "aa": "LISTERIA",
+    "value": "Listeria Antibody, Serum by CF",
+    "price": "12.00"
+}, {
+    "id": "99564",
+    "aa": "STRONGY",
+    "value": "Strongyloides Ab, IgG by ELISA",
+    "price": "2.00"
+}, {
+    "id": "99580",
+    "aa": "ACHRBLO",
+    "value": "Acetylcholine Blocking Ab",
+    "price": "17.00"
+}, {
+    "id": "99598",
+    "aa": "FILARIASIS",
+    "value": "Filaria IgG4 Antibody",
+    "price": "11.00"
+}, {
+    "id": "99614",
+    "aa": "LATEX",
+    "value": "Allergen, Occupational, Latex IgE Enhanc",
+    "price": "1.00"
+}, {
+    "id": "99728",
+    "aa": "ANTI-T4",
+    "value": "Thyroxine Antibody",
+    "price": "8.00"
+}, {
+    "id": "99869",
+    "aa": "HOMOCY-QNT",
+    "value": "Homocysteine, Total",
+    "price": "6.00"
+}, {
+    "id": "2000046",
+    "aa": "P-FYA",
+    "value": "Fy (a)  Pt Antigen Typing",
+    "price": "14.00"
+}, {
+    "id": "2000047",
+    "aa": "P-FYB",
+    "value": "Fy (b) Pt Antigen Typing",
+    "price": "11.00"
+}, {
+    "id": "2000048",
+    "aa": "P-JKA",
+    "value": "Jk (a)  Pt Antigen Typing",
+    "price": "19.00"
+}, {
+    "id": "2000049",
+    "aa": "P-JKB",
+    "value": "Jk (b) Pt Antigen Typing",
+    "price": "18.00"
+}, {
+    "id": "2000050",
+    "aa": "P-K",
+    "value": "K Pt Antigen Typing",
+    "price": "7.00"
+}, {
+    "id": "2000057",
+    "aa": "P-S",
+    "value": "S Pt Antigen Typing",
+    "price": "5.00"
+}, {
+    "id": "2000058",
+    "aa": "P-LIT S",
+    "value": "S Pt Antigen Typing",
+    "price": "19.00"
+}, {
+    "id": "2000071",
+    "aa": "ABORHWD",
+    "value": "ABORH Resolution",
+    "price": "1.00"
+}, {
+    "id": "2000203",
+    "aa": "RBC REQ",
+    "value": "RBC Product  Request",
+    "price": "12.00"
+}, {
+    "id": "2000206",
+    "aa": "CRYO REQ",
+    "value": "Cryoprecipitate Product  Request",
+    "price": "4.00"
+}, {
+    "id": "2000207",
+    "aa": "FFP REQ",
+    "value": "Fresh Frozen Plasma Product Request",
+    "price": "12.00"
+}, {
+    "id": "2000208",
+    "aa": "PLT REQ",
+    "value": "Platelet  Product Request",
+    "price": "9.00"
+}, {
+    "id": "2000218",
+    "aa": "RBC DV REQ",
+    "value": "RBC Div Product Request",
+    "price": "19.00"
+}, {
+    "id": "2000220",
+    "aa": "PLT DV REQ",
+    "value": "Platelet  Div Product Request",
+    "price": "6.00"
+}, {
+    "id": "2001577",
+    "aa": "FLT3 MUTAT",
+    "value": "FLT3 Mutation Detection by PCR",
+    "price": "13.00"
+}, {
+    "id": "2001627",
+    "aa": "QFTG-TB IT",
+    "value": "Quantiferon TB Gold In-Tube",
+    "price": "3.00"
+}, {
+    "id": "2001638",
+    "aa": "ANDRO TMS",
+    "value": "Androstenedione by TMS",
+    "price": "15.00"
+}, {
+    "id": "2001640",
+    "aa": "DHEA TMS",
+    "value": "Dehydroepiandrosterone by TMS",
+    "price": "15.00"
+}, {
+    "id": "2001737",
+    "aa": "VORICON AF",
+    "value": "Voriconazole, Quantitation by LC-MS/MS",
+    "price": "15.00"
+}, {
+    "id": "2001739",
+    "aa": "POSACON AF",
+    "value": "Posaconazole, Quantitative by LC-MS/MS",
+    "price": "5.00"
+}, {
+    "id": "2001771",
+    "aa": "GAD-AB",
+    "value": "Glutamic Acid Decarboxylase Antibody",
+    "price": "5.00"
+}, {
+    "id": "2001774",
+    "aa": "BORDPAN2",
+    "value": "B. pertussis Abs, IgG, IgA w/Reflex",
+    "price": "6.00"
+}, {
+    "id": "2001930",
+    "aa": "AQP4",
+    "value": "Aquaporin-4 Receptor Antibody",
+    "price": "15.00"
+}, {
+    "id": "2001932",
+    "aa": "KRAS RFLX",
+    "value": "KRAS Mutation Detection with BRAF Reflex",
+    "price": "3.00"
+}, {
+    "id": "2001933",
+    "aa": "CF PAN",
+    "value": "Cystic Fibrosis (CFTR) 32 Mutations",
+    "price": "1.00"
+}, {
+    "id": "2001946",
+    "aa": "FRAG X PCR",
+    "value": "Fragile X (FMR1) w/Reflex to Methylation",
+    "price": "20.00"
+}, {
+    "id": "2001961",
+    "aa": "SEQ FSM",
+    "value": "Familial Mutation, Targeted Sequencing",
+    "price": "7.00"
+}, {
+    "id": "2001999",
+    "aa": "PCA3 TMA",
+    "value": "PCA3 by TMA",
+    "price": "1.00"
+}, {
+    "id": "2002022",
+    "aa": "UIAT",
+    "value": "Urticaria-Inducing Activity with Thyroid",
+    "price": "12.00"
+}, {
+    "id": "2002026",
+    "aa": "CELIAC SCRN",
+    "value": "Celiac Disease Screen",
+    "price": "2.00"
+}, {
+    "id": "2002063",
+    "aa": "CRYGB QNT",
+    "value": "Cryoglobulin Qualitative with Rflx",
+    "price": "12.00"
+}, {
+    "id": "2002068",
+    "aa": "ANCA PN",
+    "value": "Anti-Neutrophil Cytoplasmic Ab",
+    "price": "8.00"
+}, {
+    "id": "2002088",
+    "aa": "ADENOPCR",
+    "value": "Adenovirus by Qualitative PCR",
+    "price": "16.00"
+}, {
+    "id": "2002093",
+    "aa": "T WHIPPLEI",
+    "value": "Tropheryma whipplei DNA",
+    "price": "1.00"
+}, {
+    "id": "2002109",
+    "aa": "SPEP REFLEX",
+    "value": "Serum Protein Electrophoresis Reflex",
+    "price": "12.00"
+}, {
+    "id": "2002125",
+    "aa": "QNTIG CRYO",
+    "value": "Immunoglobulins, Serum Cryoprecipitins",
+    "price": "19.00"
+}, {
+    "id": "2002173",
+    "aa": "MPA MET",
+    "value": "Mycophenolic Acid and Metabolites",
+    "price": "5.00"
+}, {
+    "id": "2002181",
+    "aa": "PORUFPBGU",
+    "value": "Porphyrins and Porphobilinogen",
+    "price": "2.00"
+}, {
+    "id": "2002257",
+    "aa": "OSM FRG",
+    "value": "Osmotic Fragility Erythrocyte",
+    "price": "15.00"
+}, {
+    "id": "2002272",
+    "aa": "OPFEC",
+    "value": "Ova and Parasite Exam, Fecal.",
+    "price": "19.00"
+}, {
+    "id": "2002277",
+    "aa": "OPBF",
+    "value": "Ova and Parasite Exam, Body Fluids or Ur",
+    "price": "11.00"
+}, {
+    "id": "2002310",
+    "aa": "BK QNT URN",
+    "value": "BK Virus Detection by PCR, Urine",
+    "price": "7.00"
+}, {
+    "id": "2002343",
+    "aa": "CRTN URINE",
+    "value": "Creatine Urine",
+    "price": "18.00"
+}, {
+    "id": "2002350",
+    "aa": "FECQ FAT",
+    "value": "Fecal Fat, Quantitative",
+    "price": "14.00"
+}, {
+    "id": "2002434",
+    "aa": "BDGLUCAN",
+    "value": "(1,3)-Beta-D-Glucan (Fungitell)",
+    "price": "1.00"
+}, {
+    "id": "2002437",
+    "aa": "KIT AML",
+    "value": "KIT Mutations in AML",
+    "price": "19.00"
+}, {
+    "id": "2002440",
+    "aa": "EGFR PCR",
+    "value": "EGFR by Pyrosequencing",
+    "price": "12.00"
+}, {
+    "id": "2002464",
+    "aa": "BJP-U REFLEX",
+    "value": "Bence Jones Protein Assay, Reflx to uFLC",
+    "price": "4.00"
+}, {
+    "id": "2002483",
+    "aa": "HCV AB",
+    "value": "Hepatitis C Virus Antibody by CIA",
+    "price": "1.00"
+}, {
+    "id": "2002488",
+    "aa": "P2Y12",
+    "value": "P2Y12 Platelet Function Assay",
+    "price": "17.00"
+}, {
+    "id": "2002529",
+    "aa": "EXTRA LAV",
+    "value": "Extra Specimen Lavender",
+    "price": "8.00"
+}, {
+    "id": "2002531",
+    "aa": "EXTRA FLD",
+    "value": "Extra Specimen Fluid",
+    "price": "16.00"
+}, {
+    "id": "2002533",
+    "aa": "EXTRA CSF",
+    "value": "Extra Specimen CSF",
+    "price": "1.00"
+}, {
+    "id": "2002535",
+    "aa": "EXTRA BLUE",
+    "value": "Extra Specimen Blue",
+    "price": "7.00"
+}, {
+    "id": "2002537",
+    "aa": "EXTRA URN",
+    "value": "Extra Specimen Urine",
+    "price": "19.00"
+}, {
+    "id": "2002539",
+    "aa": "EXTRA UGRY",
+    "value": "Extra Specimen Urine Gray",
+    "price": "11.00"
+}, {
+    "id": "2002541",
+    "aa": "EXTRA SST",
+    "value": "Extra Specimen SST",
+    "price": "5.00"
+}, {
+    "id": "2002543",
+    "aa": "EXTRA RED",
+    "value": "Extra Specimen Red",
+    "price": "14.00"
+}, {
+    "id": "2002545",
+    "aa": "EXTRA PST",
+    "value": "Extra Specimen PST",
+    "price": "15.00"
+}, {
+    "id": "2002550",
+    "aa": "INHIBINB",
+    "value": "Inhibin B",
+    "price": "14.00"
+}, {
+    "id": "2002552",
+    "aa": "CDIFF AB",
+    "value": "C. difficile Cytotoxin Antibody",
+    "price": "2.00"
+}, {
+    "id": "2002569",
+    "aa": "B2GPI PAN3",
+    "value": "B2glycoprotein 1 Abs, IgG, IgM, IgA",
+    "price": "10.00"
+}, {
+    "id": "2002575",
+    "aa": "THIOP MET",
+    "value": "Thiopurine Metabolites",
+    "price": "11.00"
+}, {
+    "id": "2002582",
+    "aa": "A/DR",
+    "value": "Aldosterone & Renin, Direct with Ratio",
+    "price": "13.00"
+}, {
+    "id": "2002656",
+    "aa": "AMH",
+    "value": "Anti-Mullerian Hormone",
+    "price": "6.00"
+}, {
+    "id": "2002693",
+    "aa": "DNA IFA",
+    "value": "dsDNA (Crithidia luciliae) Ab IgG by IFA",
+    "price": "12.00"
+}, {
+    "id": "2002734",
+    "aa": "TR AB",
+    "value": "Thyroid Stimulating Hormone Receptor Ab",
+    "price": "11.00"
+}, {
+    "id": "2002749",
+    "aa": "BUPREN UR",
+    "value": "Buprenorphine and Metabolites, Urine",
+    "price": "3.00"
+}, {
+    "id": "2002764",
+    "aa": "TRAMAD SP",
+    "value": "Tramadol and Metabolites, Serum/Plasma",
+    "price": "4.00"
+}, {
+    "id": "2002793",
+    "aa": "EXCEPT SP",
+    "value": "Except SP",
+    "price": "3.00"
+}, {
+    "id": "2002838",
+    "aa": "CDIFF PCR",
+    "value": "C. difficile toxin B gene (tcdB), RT-PCR",
+    "price": "20.00"
+}, {
+    "id": "2002841",
+    "aa": "EXCEPT TT",
+    "value": "Exception Tracking Test",
+    "price": "9.00"
+}, {
+    "id": "2002860",
+    "aa": "BB ADD SAM",
+    "value": "BB Add Sample",
+    "price": "15.00"
+}, {
+    "id": "2002862",
+    "aa": "GADINS ABS",
+    "value": "Gad65 and Anti-Ins Ab w/ Rflx to IA-2 Ab",
+    "price": "18.00"
+}, {
+    "id": "2002939",
+    "aa": "NATAL ABS",
+    "value": "Natalizumab Antibodies",
+    "price": "6.00"
+}, {
+    "id": "2002958",
+    "aa": "TOBRAED",
+    "value": "Tobramycin, Random Level, EID",
+    "price": "20.00"
+}, {
+    "id": "2002960",
+    "aa": "TOBRPED",
+    "value": "Tobramycin, Peak Level, EID",
+    "price": "6.00"
+}, {
+    "id": "2003012",
+    "aa": "IRL-ABIDO",
+    "value": "Antibody ID, RBC (Obstetric Panel Only)",
+    "price": "17.00"
+}, {
+    "id": "2003036",
+    "aa": "AQP4",
+    "value": "Aquaporin-4 Receptor Antibody",
+    "price": "2.00"
+}, {
+    "id": "2003123",
+    "aa": "NRAS",
+    "value": "NRAS Mutation Detection, Pyrosequencing",
+    "price": "15.00"
+}, {
+    "id": "2003150",
+    "aa": "ASPERAGB",
+    "value": "Aspergillus Galactomannan EIA, Broncho",
+    "price": "7.00"
+}, {
+    "id": "2003180",
+    "aa": "COMP 4A",
+    "value": "Complement Component 4A",
+    "price": "13.00"
+}, {
+    "id": "2003182",
+    "aa": "LACOSA SP",
+    "value": "Lacosamide, Serum or Plasma",
+    "price": "14.00"
+}, {
+    "id": "2003189",
+    "aa": "ETG SCR",
+    "value": "Ethyl Gluc Scrn w/Rflx to Conf, Urine",
+    "price": "8.00"
+}, {
+    "id": "2003191",
+    "aa": "CDCO ETG/S",
+    "value": "Ethyl Glucuronide/Sulfate Confrm, Urn",
+    "price": "18.00"
+}, {
+    "id": "2003222",
+    "aa": "PHOS SYN",
+    "value": "Antiphospholipid Syndrome Panel",
+    "price": "4.00"
+}, {
+    "id": "2003234",
+    "aa": "GENOSURE",
+    "value": "HIV GenoSure MG",
+    "price": "13.00"
+}, {
+    "id": "2003246",
+    "aa": "FREE T TMS",
+    "value": "Testos Free Adult Male ED/LC-MS/MS",
+    "price": "10.00"
+}, {
+    "id": "2003254",
+    "aa": "TOF SCR SP",
+    "value": "Drug Screen, Targeted, Serum or Plasma",
+    "price": "6.00"
+}, {
+    "id": "2003259",
+    "aa": "ENT PANEL",
+    "value": "Enterovirus Panel",
+    "price": "5.00"
+}, {
+    "id": "2003277",
+    "aa": "RA PAN",
+    "value": "Rheumatoid Arthritis Panel",
+    "price": "5.00"
+}, {
+    "id": "2003302",
+    "aa": "CITALO",
+    "value": "Citalopram, Serum or Plasma",
+    "price": "6.00"
+}, {
+    "id": "2003332",
+    "aa": "DA POC RFX",
+    "value": "Drug Screen POC with Reflex Confirmation",
+    "price": "3.00"
+}, {
+    "id": "2003345",
+    "aa": "DA POC SR",
+    "value": "Drug of Abuse Screen only Point of Care",
+    "price": "14.00"
+}, {
+    "id": "2003386",
+    "aa": "PROT C/S R",
+    "value": "Protein C, Reflex and Protein S, Reflex",
+    "price": "1.00"
+}, {
+    "id": "2003387",
+    "aa": "VW PANEL R",
+    "value": "von Willebrand Panel, Multimeric Reflex",
+    "price": "9.00"
+}, {
+    "id": "2003439",
+    "aa": "ALK1 IHC",
+    "value": "ALK1 by IHC",
+    "price": "4.00"
+}, {
+    "id": "2003475",
+    "aa": "C4D IHC",
+    "value": "C4D by IHC",
+    "price": "6.00"
+}, {
+    "id": "2003508",
+    "aa": "CD3 IHC",
+    "value": "CD3 by IHC",
+    "price": "3.00"
+}, {
+    "id": "2003511",
+    "aa": "CD4 IHC",
+    "value": "CD4 by IHC",
+    "price": "19.00"
+}, {
+    "id": "2003520",
+    "aa": "CD8 IHC",
+    "value": "CD8 by IHC",
+    "price": "11.00"
+}, {
+    "id": "2003532",
+    "aa": "CD20 IHC",
+    "value": "CD20, L26 by IHC",
+    "price": "6.00"
+}, {
+    "id": "2003547",
+    "aa": "CD30 IHC",
+    "value": "CD30 (Ki-1) by IHC",
+    "price": "7.00"
+}, {
+    "id": "2003917",
+    "aa": "HBSAG IHC",
+    "value": "Hepatitis B Surface Antigen by IHC",
+    "price": "7.00"
+}, {
+    "id": "2003996",
+    "aa": "MELANA IHC",
+    "value": "Melan A by IHC",
+    "price": "1.00"
+}, {
+    "id": "2004175",
+    "aa": "VEGFC IHC",
+    "value": "VEGF-C by IHC",
+    "price": "6.00"
+}, {
+    "id": "2004221",
+    "aa": "NMDA IGG",
+    "value": "N-methyl-D-Aspartate Rcptr Ab, IgG, Ser",
+    "price": "10.00"
+}, {
+    "id": "2004246",
+    "aa": "TE F&T ED",
+    "value": "Testosterone F and T by ED/LC-MS/MS, Mal",
+    "price": "13.00"
+}, {
+    "id": "2004247",
+    "aa": "CEBPA MUT",
+    "value": "CEBPA Mutation Detection",
+    "price": "12.00"
+}, {
+    "id": "2004250",
+    "aa": "VLCFA",
+    "value": "Very Long/Branched-Chain Fatty Acids",
+    "price": "11.00"
+}, {
+    "id": "2004331",
+    "aa": "GENOSURE",
+    "value": "HIV GenoSure MG",
+    "price": "15.00"
+}, {
+    "id": "2004403",
+    "aa": "HIVRAPID",
+    "value": "HIV 1/2 Antibody Test, Rapid",
+    "price": "5.00"
+}, {
+    "id": "2004519",
+    "aa": "MIB1 IHC",
+    "value": "Ki-67, MIB-1 by IHC",
+    "price": "11.00"
+}, {
+    "id": "2004589",
+    "aa": "CWP-KOH",
+    "value": "Stain, Fungal KOH with Calcofluor White",
+    "price": "8.00"
+}, {
+    "id": "2004745",
+    "aa": "FIBRO V",
+    "value": "FibroMeter Virus",
+    "price": "12.00"
+}, {
+    "id": "2004857",
+    "aa": "EGFR PCR",
+    "value": "EGFR by Pyrosequencing",
+    "price": "2.00"
+}, {
+    "id": "2004886",
+    "aa": "ML CEFTAZ",
+    "value": "Antibiotic Level, Ceftazadime",
+    "price": "9.00"
+}, {
+    "id": "2004890",
+    "aa": "VGKC AB",
+    "value": "Voltage-Gated Potassium Channel (VGKC)Ab",
+    "price": "4.00"
+}, {
+    "id": "2004959",
+    "aa": "BILLPATH15",
+    "value": "HemFlow 9 to 15 Markers Bill",
+    "price": "18.00"
+}, {
+    "id": "2005006",
+    "aa": "PNH PAN",
+    "value": "PNH Panel (RBC, WBC)",
+    "price": "11.00"
+}, {
+    "id": "2005081",
+    "aa": "PPLRIC",
+    "value": "PPLR IRR Product, CMV Neg",
+    "price": "12.00"
+}, {
+    "id": "2005083",
+    "aa": "RBCLRC",
+    "value": "Red Cell Product, Leukoreduced, CMV Neg",
+    "price": "4.00"
+}, {
+    "id": "2005085",
+    "aa": "RBCLRIC",
+    "value": "RBC LR IRR Product, CMV Neg",
+    "price": "8.00"
+}, {
+    "id": "2005091",
+    "aa": "CDCO OPI",
+    "value": "Opiates, Urine",
+    "price": "16.00"
+}, {
+    "id": "2005097",
+    "aa": "CDCO OPI",
+    "value": "Opiates, Urine",
+    "price": "5.00"
+}, {
+    "id": "2005103",
+    "aa": "OXY SCR UR",
+    "value": "Oxycodone/Oxymorphone Screen Only, Urine",
+    "price": "7.00"
+}, {
+    "id": "2005129",
+    "aa": "BBHOLD ADD",
+    "value": "Additional BB Test Request to Hold Clot",
+    "price": "3.00"
+}, {
+    "id": "2005164",
+    "aa": "NMDA G CSF",
+    "value": "N-methyl-D-Aspartate Receptor Ab, CSF",
+    "price": "5.00"
+}, {
+    "id": "2005169",
+    "aa": "EXTRA STOOL",
+    "value": "Extra Specimen Stool",
+    "price": "11.00"
+}, {
+    "id": "2005176",
+    "aa": "MYOSIT PAN",
+    "value": "Myositis-Specific Panel (15 Antibodies)",
+    "price": "9.00"
+}, {
+    "id": "2005255",
+    "aa": "MMA METD",
+    "value": "MMA Serum/Plasma, Metabolic Disorder",
+    "price": "9.00"
+}, {
+    "id": "2005287",
+    "aa": "CHROMATIN",
+    "value": "Chromatin Antibody, IgG",
+    "price": "14.00"
+}, {
+    "id": "2005375",
+    "aa": "HIV 1 SCRN",
+    "value": "HIV-1 Antibody by CIA w/ Reflex",
+    "price": "16.00"
+}, {
+    "id": "2005377",
+    "aa": "HIV1,2 SCR",
+    "value": "HIV-1,2 Antibodies by CIA w/ Reflex",
+    "price": "5.00"
+}, {
+    "id": "2005383",
+    "aa": "FLT3 MUTAT",
+    "value": "FLT3 Mutation Detection by PCR",
+    "price": "6.00"
+}, {
+    "id": "2005386",
+    "aa": "APS PAN",
+    "value": "Non-Criteria APS Antibody Panel",
+    "price": "7.00"
+}, {
+    "id": "2005400",
+    "aa": "FLT3 MUTAT",
+    "value": "FLT3 Mutation Detection by PCR",
+    "price": "2.00"
+}, {
+    "id": "2005405",
+    "aa": "METREXSN",
+    "value": "Methotrexate, Sensitive",
+    "price": "8.00"
+}, {
+    "id": "2005415",
+    "aa": "UIAT",
+    "value": "Urticaria-Inducing Activity with Thyroid",
+    "price": "11.00"
+}, {
+    "id": "2005416",
+    "aa": "UIBA",
+    "value": "Urticaria-Induced Basophil Activation",
+    "price": "9.00"
+}, {
+    "id": "2005506",
+    "aa": "TVAG AMD",
+    "value": "Trichomonas vaginalis by TMA",
+    "price": "6.00"
+}, {
+    "id": "2005545",
+    "aa": "MPL",
+    "value": "MPL codon 515 Mutation Detection, Quant",
+    "price": "19.00"
+}, {
+    "id": "2005593",
+    "aa": "NATAL ABS",
+    "value": "Natalizumab Antibodies",
+    "price": "4.00"
+}, {
+    "id": "2005631",
+    "aa": "SRA UFH",
+    "value": "SRA, Unfractionated Heparin",
+    "price": "8.00"
+}, {
+    "id": "2005661",
+    "aa": "FIBRO V",
+    "value": "FibroMeter Virus",
+    "price": "6.00"
+}, {
+    "id": "2005713",
+    "aa": "RSV RAPID",
+    "value": "Respiratory Syncytial Virus Rapid Test",
+    "price": "19.00"
+}, {
+    "id": "2005715",
+    "aa": "CBCDIFF3",
+    "value": "CBC with Differential - Three part",
+    "price": "16.00"
+}, {
+    "id": "2005762",
+    "aa": "POC REFLEX",
+    "value": "Chromosome Analysis POC w/Rflx to Array",
+    "price": "6.00"
+}, {
+    "id": "2005792",
+    "aa": "HB CASCADE",
+    "value": "Hemoglobin Evaluation Reflexive Cascade",
+    "price": "19.00"
+}, {
+    "id": "2005972",
+    "aa": "MUCI SS",
+    "value": "Stain, Mucicarmine",
+    "price": "7.00"
+}, {
+    "id": "2006030",
+    "aa": "EGFR PCR",
+    "value": "EGFR by Pyrosequencing",
+    "price": "19.00"
+}, {
+    "id": "2006035",
+    "aa": "ESR",
+    "value": "Sedimentation Rate, Westergren Modified",
+    "price": "11.00"
+}, {
+    "id": "2006039",
+    "aa": "REG11 PAN",
+    "value": "Allergen, Region 11 Respiratory Panel",
+    "price": "11.00"
+}, {
+    "id": "2006096",
+    "aa": "ADA PLEURA",
+    "value": "Adenosine Deaminase, Pleural Fluid",
+    "price": "5.00"
+}, {
+    "id": "2006102",
+    "aa": "ALK GENE",
+    "value": "ALK Gene Rearrangements in NSCL by FISH",
+    "price": "10.00"
+}, {
+    "id": "2006108",
+    "aa": "TSHREFLEX",
+    "value": "Thyroid Stim. Hormone w/Rflx to Free T4",
+    "price": "1.00"
+}, {
+    "id": "2006110",
+    "aa": "HISTOGM U",
+    "value": "Histoplasma Galactomannan Ag Quant, Urn",
+    "price": "3.00"
+}, {
+    "id": "2006143",
+    "aa": "A1C POC",
+    "value": "Hemoglobin A1c Point of Care",
+    "price": "7.00"
+}, {
+    "id": "2006193",
+    "aa": "BCELL SCRN",
+    "value": "B-Cell Clonality Screening (IgH and IgK)",
+    "price": "14.00"
+}, {
+    "id": "2006196",
+    "aa": "ZNT8 AB",
+    "value": "Zinc Transporter 8 Antibody",
+    "price": "18.00"
+}, {
+    "id": "2006254",
+    "aa": "PCP PCR",
+    "value": "Pnuemocystis jirovecii detection by PCR",
+    "price": "2.00"
+}, {
+    "id": "2006283",
+    "aa": "BCELL SCRN",
+    "value": "B-Cell Clonality Screening (IgH and IgK)",
+    "price": "8.00"
+}, {
+    "id": "2006284",
+    "aa": "T CELL-F",
+    "value": "T-Cell Clonality Screening by PCR",
+    "price": "13.00"
+}, {
+    "id": "2006289",
+    "aa": "ALPHA-SUB",
+    "value": "Alpha Subunit, Pit. Glycoprotein Horm.",
+    "price": "13.00"
+}, {
+    "id": "2006332",
+    "aa": "EXOME SEQ",
+    "value": "Exome Sequencing Symptom-Guided Analysis",
+    "price": "20.00"
+}, {
+    "id": "2006340",
+    "aa": "TRACKEXADD",
+    "value": "Exome Sequencing, Familial Control",
+    "price": "8.00"
+}, {
+    "id": "2006410",
+    "aa": "APBLOCKSEL",
+    "value": "Selection of Retrieved Archived Tissue",
+    "price": "18.00"
+}, {
+    "id": "2006462",
+    "aa": "SCLER PAN",
+    "value": "Scleroderma Antibodies Panel",
+    "price": "20.00"
+}, {
+    "id": "2006480",
+    "aa": "ANCA PRO",
+    "value": "ANCA Vasculitis Profile w/Rflx to Titer",
+    "price": "7.00"
+}, {
+    "id": "2006526",
+    "aa": "HIV AGAB",
+    "value": "HIV-1,2 Combo Ag/Ab EIA w/Reflex",
+    "price": "3.00"
+}, {
+    "id": "2006550",
+    "aa": "THYROG MS",
+    "value": "Thyroglobulin by LC-MS/MS, Serum/Plasma",
+    "price": "13.00"
+}, {
+    "id": "2006685",
+    "aa": "THYROGRFX",
+    "value": "Thyroglobulin, Serum or Plasma Reflex",
+    "price": "12.00"
+}, {
+    "id": "2006885",
+    "aa": "U BAR",
+    "value": "Barbiturates Detection, Urine",
+    "price": "16.00"
+}, {
+    "id": "2006898",
+    "aa": "HCV CORE",
+    "value": "Hepatitis C High Resolution Genotyping",
+    "price": "10.00"
+}, {
+    "id": "2007127",
+    "aa": "REG11U PAN",
+    "value": "Allergens, Respiratory Panel IgE, Utah",
+    "price": "3.00"
+}, {
+    "id": "2007140",
+    "aa": "HIT AB",
+    "value": "HIT Antibody, PF4 IgG",
+    "price": "13.00"
+}, {
+    "id": "2007145",
+    "aa": "HIT ABS AM",
+    "value": "HIT Antibodies, PF4 IgA/IgM",
+    "price": "9.00"
+}, {
+    "id": "2007163",
+    "aa": "G6PD FGS",
+    "value": "G6PD Deficiency (G6PD) Sequencing",
+    "price": "12.00"
+}, {
+    "id": "2007190",
+    "aa": "FOB IA",
+    "value": "Fecal Occult Blood by Immunoassay",
+    "price": "17.00"
+}, {
+    "id": "2007192",
+    "aa": "ADENO QNT",
+    "value": "Adenovirus, Quantitative PCR",
+    "price": "13.00"
+}, {
+    "id": "2007209",
+    "aa": "ACTIN/M2 R",
+    "value": "F-Actin & M2 Abs, IgG w/ Reflex to SMA",
+    "price": "9.00"
+}, {
+    "id": "2007211",
+    "aa": "PEANUT COM",
+    "value": "Allergen, Peanut Cmpnts (uKnow) IgE",
+    "price": "15.00"
+}, {
+    "id": "2007220",
+    "aa": "ECHINO IGG",
+    "value": "Echinococcus Ab, IgG",
+    "price": "14.00"
+}, {
+    "id": "2007324",
+    "aa": "ALKD5F3 IP",
+    "value": "ALK (D5F3) with Interpretation by IHC",
+    "price": "4.00"
+}, {
+    "id": "2007335",
+    "aa": "LYMECSFR",
+    "value": "Lyme Disease Reflexive Panel (CSF)",
+    "price": "1.00"
+}, {
+    "id": "2007443",
+    "aa": "RPR REV",
+    "value": "RPR Reverse w/Rflx to Titer or TP-PA",
+    "price": "5.00"
+}, {
+    "id": "2007473",
+    "aa": "ADENOPCR",
+    "value": "Adenovirus by Qualitative PCR",
+    "price": "8.00"
+}, {
+    "id": "2007479",
+    "aa": "PAIN HYB U",
+    "value": "Pain Mgt Drug Panel, High Res/EMIT, UR",
+    "price": "20.00"
+}, {
+    "id": "2007486",
+    "aa": "SEND CULT",
+    "value": "SEND CULTURE",
+    "price": "18.00"
+}, {
+    "id": "2007508",
+    "aa": "UA REFLEX",
+    "value": "Urinalysis with Reflex to Culture",
+    "price": "11.00"
+}, {
+    "id": "2007573",
+    "aa": "HBSAG PN",
+    "value": "Hepatitis B Surface Ag w/Rflx, Prenatal",
+    "price": "17.00"
+}, {
+    "id": "2007609",
+    "aa": "PHOS EXT",
+    "value": "Antiphospholipid Abs Extended Panel",
+    "price": "1.00"
+}, {
+    "id": "2007805",
+    "aa": "RVP PCR",
+    "value": "Respiratory Virus Panel by PCR",
+    "price": "15.00"
+}, {
+    "id": "2007820",
+    "aa": "OMECONTROL",
+    "value": "Genomics Patient Control",
+    "price": "8.00"
+}, {
+    "id": "2007880",
+    "aa": "ALPHA-SUB",
+    "value": "Alpha Subunit, Pit. Glycoprotein Horm.",
+    "price": "18.00"
+}, {
+    "id": "2007893",
+    "aa": "HPV TMA",
+    "value": "HPV High Risk by TMA, ThinPrep",
+    "price": "16.00"
+}, {
+    "id": "2007909",
+    "aa": "CDCO ETG/S",
+    "value": "Ethyl Glucuronide/Sulfate Confrm, Urn",
+    "price": "6.00"
+}, {
+    "id": "2007912",
+    "aa": "ETG SCR",
+    "value": "Ethyl Gluc Scrn w/Rflx to Conf, Urine",
+    "price": "20.00"
+}, {
+    "id": "2007935",
+    "aa": "LP RATIO",
+    "value": "Lactate/Pyruvate Ratio",
+    "price": "3.00"
+}, {
+    "id": "2007961",
+    "aa": "PCCA/ANNA",
+    "value": "Paraneoplastic Abs (PCCA/ANNA) Rflx Scrn",
+    "price": "12.00"
+}, {
+    "id": "2007980",
+    "aa": "HIVAGABMS",
+    "value": "HIV-1,2 Combo Ag/Ab EIA w/Reflx",
+    "price": "8.00"
+}, {
+    "id": "2007991",
+    "aa": "SOLID NGS",
+    "value": "Solid Tumor Mutation Panel by NGS",
+    "price": "20.00"
+}, {
+    "id": "2007996",
+    "aa": "META URINE",
+    "value": "Metanephrines Fractionated, Urine",
+    "price": "6.00"
+}, {
+    "id": "2008003",
+    "aa": "L/L PANEL",
+    "value": "Leuk/Lymph Phenotyping, Flow Cytometry",
+    "price": "10.00"
+}, {
+    "id": "2008114",
+    "aa": "CELIAC REF",
+    "value": "Celiac Disease Reflexive Cascade",
+    "price": "7.00"
+}, {
+    "id": "2008291",
+    "aa": "CDCO BENZO",
+    "value": "Benzodiazepines-Confirmation/Quantitatio",
+    "price": "6.00"
+}, {
+    "id": "2008320",
+    "aa": "IFX NAB",
+    "value": "Infliximab Activity and Neutralizing Ab",
+    "price": "4.00"
+}, {
+    "id": "2008342",
+    "aa": "NMDP PRO",
+    "value": "NMDP Comprehensive Profile",
+    "price": "20.00"
+}, {
+    "id": "2008356",
+    "aa": "EMPL S TT",
+    "value": "Infectious Disease Baseline Sera Storage",
+    "price": "9.00"
+}, {
+    "id": "2008404",
+    "aa": "TP HPVHI",
+    "value": "HPV High Risk, Hybrid Capture, ThinPrep",
+    "price": "6.00"
+}, {
+    "id": "2008438",
+    "aa": "GS PRIME",
+    "value": "HIV-1 Drug Resistance (GenoSURE PRIme)",
+    "price": "5.00"
+}, {
+    "id": "2008509",
+    "aa": "PGSN",
+    "value": "Progesterone Quant, Serum/Plasma",
+    "price": "8.00"
+}, {
+    "id": "2008650",
+    "aa": "BATH SALTS",
+    "value": "Bath Salts Panel, Urine",
+    "price": "6.00"
+}, {
+    "id": "2008708",
+    "aa": "CRA",
+    "value": "Calculi Risk Assessment Panel, Urine",
+    "price": "19.00"
+}, {
+    "id": "2008771",
+    "aa": "SUPERSAT",
+    "value": "Supersaturation Profile, Urine",
+    "price": "6.00"
+}, {
+    "id": "2008868",
+    "aa": "NASH FS",
+    "value": "NASH FibroSURE",
+    "price": "8.00"
+}, {
+    "id": "2009033",
+    "aa": "FRAG X PCR",
+    "value": "Fragile X (FMR1) w/Reflex to Methylation",
+    "price": "9.00"
+}, {
+    "id": "2009035",
+    "aa": "TOX SCN ST",
+    "value": "Urine Toxicology Screen",
+    "price": "20.00"
+}, {
+    "id": "2009127",
+    "aa": "GUAIAC GI",
+    "value": "Guaiac, Acute GI Bleed",
+    "price": "16.00"
+}, {
+    "id": "2009255",
+    "aa": "HCV REFLEX",
+    "value": "HCV Genotype w/Rflx to HCV HighRes, Seq",
+    "price": "9.00"
+}, {
+    "id": "2009288",
+    "aa": "PAIN HYB 2",
+    "value": "Pain Mgt Pan, High Res/EMIT, Ur, Interp",
+    "price": "10.00"
+}, {
+    "id": "2009310",
+    "aa": "MGMT",
+    "value": "MGMT Methylation Detection by PCR",
+    "price": "8.00"
+}, {
+    "id": "2009337",
+    "aa": "HHT PANEL",
+    "value": "HHT Panel, Seq and Del/Dup, 5 Genes",
+    "price": "18.00"
+}, {
+    "id": "2009380",
+    "aa": "C3 NEP",
+    "value": "Complement C3 Nephritic Factor",
+    "price": "16.00"
+}, {
+    "id": "2009389",
+    "aa": "AA QNT P",
+    "value": "Amino Acids Quant by LC-MS/MS, Plasma",
+    "price": "1.00"
+}, {
+    "id": "2009416",
+    "aa": "FACT H",
+    "value": "Complement Factor H (B1H)",
+    "price": "4.00"
+}, {
+    "id": "2009418",
+    "aa": "HISTOGM U",
+    "value": "Histoplasma Galactomannan Ag Quant, Urn",
+    "price": "19.00"
+}, {
+    "id": "2009600",
+    "aa": "TISSUE P",
+    "value": "Permanent/Fixed Tissue Diagnosis",
+    "price": "17.00"
+}, {
+    "id": "2009601",
+    "aa": "TISSUE F",
+    "value": "Frozen Tissue Diagnosis",
+    "price": "15.00"
+}, {
+    "id": "2009965",
+    "aa": "PSA HCH",
+    "value": "Total Serum PSA - for HCH Only",
+    "price": "13.00"
+}, {
+    "id": "2010095",
+    "aa": "HSVTYPEPCR",
+    "value": "HSV-1 and HSV-2 Subtype by PCR",
+    "price": "2.00"
+}, {
+    "id": "2010102",
+    "aa": "PCA3 TMA",
+    "value": "PCA3 by TMA",
+    "price": "13.00"
+}, {
+    "id": "2010125",
+    "aa": "LEGIONPCR",
+    "value": "Legionella Species by Qualitative PCR",
+    "price": "20.00"
+}, {
+    "id": "2010151",
+    "aa": "HEV IGG",
+    "value": "Hepatitis E Virus Ab, IgG by ELISA",
+    "price": "1.00"
+}, {
+    "id": "2010156",
+    "aa": "HEV IGM",
+    "value": "Hepatitis E Virus Ab, IgM by ELISA",
+    "price": "9.00"
+}, {
+    "id": "2010357",
+    "aa": "BUPRO",
+    "value": "Bupropion, Serum or Plasma",
+    "price": "14.00"
+}, {
+    "id": "2010359",
+    "aa": "MPA MET",
+    "value": "Mycophenolic Acid and Metabolites",
+    "price": "3.00"
+}, {
+    "id": "2010673",
+    "aa": "CALR",
+    "value": "CALR (Calreticulin) Exon 9 Mut. Analys.",
+    "price": "4.00"
+}, {
+    "id": "8200060",
+    "aa": "CYTOL TT",
+    "value": "Cytology Tracking Test",
+    "price": "19.00"
+}]

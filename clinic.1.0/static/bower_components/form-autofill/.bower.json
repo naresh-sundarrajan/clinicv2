@@ -1,0 +1,28 @@
+{
+  "name": "form-autofill",
+  "version": "0.1.1",
+  "main": "jquery.formautofill.js",
+  "ignore": [
+    "**/.*",
+    "doc",
+    "demo",
+    "README.md",
+    "form-autofill.jquery.json",
+    "index.html",
+    "*.sublime-project"
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "homepage": "https://github.com/creative-area/jQuery-form-autofill",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.1",
+    "commit": "7716e5c6afd78fae2a7b3e3735ceed2354d59570"
+  },
+  "_source": "git://github.com/creative-area/jQuery-form-autofill.git",
+  "_target": "~0.1.1",
+  "_originalSource": "form-autofill",
+  "_direct": true
+}

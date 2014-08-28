@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>MedAutoFill</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <script src="js/typeahead.bundle.js"></script>
+    <script src="js/handlebars.js"></script>
+    <script src="js/autofill.js"></script>
+</head>
+
+<body>
+    <div id="custom-templates" style="align:left; display:inline-block;">
+        <div class="demo"  contenteditable="true">
+            <input id="priminput" class="typeahead" type="text">
+        </div>
+    </div>
+</body>
+
+</html>

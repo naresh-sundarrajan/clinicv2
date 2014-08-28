@@ -1,0 +1,16 @@
+Django==1.6.5
+argparse==1.2.1
+distribute==0.6.24
+django-ckeditor==4.0.2
+django-ckeditor-updated==4.4.0
+django-filter==0.7
+django-otp==0.2.7
+django-registration==1.0
+django-tables2==0.15.0
+django-two-factor-auth==1.0.0-beta3
+django-user-sessions==1.0.0-beta1
+httplib2==0.9
+qrcode==4.0.4
+six==1.7.3
+twilio==3.6.6
+wsgiref==0.1.2

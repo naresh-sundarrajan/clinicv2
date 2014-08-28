@@ -1,0 +1,1007 @@
+id,aa,value,price
+9500,CRYSTALS,Crystals,2.00
+10009,R SET,R Set Antibody Screen,5.00
+10010,AB SCREEN,"Antibody Detection, RBC (Blood Bank)",10.00
+10014,ABORH-PR,ABORH Prenatal,6.00
+10020,ABSC-R,"Antibody Screen RBC, Reflex to Ident",5.00
+10025,ABORH-A,ABORH Type Automated,3.00
+10079,HOLD CLOT,Blood Bank Hold Clot Tube,5.00
+10080,TS-R,Type and Screen Automated,13.00
+10082,PAN-LN2/R,Selected Liq Nitro 2 Red Cell Panel,5.00
+10083,PAN-SEL/R,Selected Liquid Red Cell Panel,19.00
+10121,ABORH-P,ABORH Type Manual,2.00
+10139,ABORH-NBP,ABORH Type Neonatal,9.00
+10179,BB-NB,Newborn Blood Bank,19.00
+10181,NBPROTOCOL,Newborn Protocol,5.00
+10415,PAN-COLD,Cold Panel Antibody Identification,12.00
+10487,RBCLR,RBCLR  Product,16.00
+10672,TS,Type and Screen Manual,8.00
+10775,CORD BLOOD,Cord Blood Package,7.00
+10930,PAN,Antibody Panel Identification,10.00
+11510,FS,Fetal Screen,2.00
+12512,PL50,PLT Filter - Leuko Reduce,12.00
+13003,IRL-AB PKG,Antibody ID Package (IRL),10.00
+13005,IRL-ABID,"Antibody ID, RBC  (Prenatal Only)",8.00
+13006,IRL-ABTR1,Antibody Titer (IRL),5.00
+13008,IRL-DC,Direct Coombs (Anti-Human Globulin) IRL,11.00
+13010,IRL-ELU,"Elution And Antibody Identification, RBC",10.00
+13019,IRL-RHPHEN,"Antigen Testing, Rh Phenotype",6.00
+13020,IRL-EXPHEN,"Antigen Testing, RBC Phenotype Extended",2.00
+13025,AD-TRIPLE,Warm Triple Adsorption,10.00
+13298,IRL-AG/AHG,"Antigen Testing, AHG-RBC",7.00
+13412,IRL-DTT,DTT Inactivation of IgM Antibody,10.00
+13415,PAN-PEG/R,AB Ident Panel-PEG (IRL),5.00
+14008,DAT,Direct Coombs (Anti-Human Globulin),6.00
+14010,ELUATE,Eluate,6.00
+14019,RH PHEN,Rh-Hr Phenotype,9.00
+14453,DAT-MONO,Direct Antiglobulin - Mono,4.00
+16150,CMV NEG,CMV Negative Product,19.00
+17451,PAN-E/R,AB Ident Panel-Enzyme (IRL),20.00
+19990,BB NOTIFY,Blood Bank Notification,7.00
+20001,NA,Sodium,17.00
+20002,K,"Potassium, Serum or Plasma",18.00
+20004,CO2,"Carbon Dioxide, Serum or Plasma",8.00
+20005,ALKP,"Alkaline Phosphatase, Serum or Plasma",15.00
+20006,LDH,"Lactate Dehydrogenase, Plasma or Serum",3.00
+20007,AST,"Aspartate Aminotransferase, Serum/Plasma",2.00
+20008,ALT,"Alanine Aminotransferase, Serum/Plasma",2.00
+20009,GT,"Gamma Glutamyl Transferase, Serum/Plasma",20.00
+20010,CK,"Creatine Kinase, Total, Serum or Plasma",19.00
+20012,ALDOLASE,"Aldolase, Serum",11.00
+20013,AMY,"Amylase, Serum or Plasma",15.00
+20014,LIP,"Lipase, Serum or Plasma",12.00
+20023,BUN,"Urea Nitrogen, Plasma or Serum",19.00
+20024,GLU,"Glucose, Serum or Plasma",2.00
+20025,CRT,"Creatinine, Serum or Plasma",1.00
+20026,URIC,"Uric Acid, Serum or Plasma",1.00
+20027,CA,"Calcium, Serum or Plasma",3.00
+20028,PHOS,"Phosphorus, Inorganic, Plasma or Serum",17.00
+20029,TP,"Protein, Total, Serum or Plasma",13.00
+20030,ALB,"Albumin, Serum or Plasma",1.00
+20031,CHOL,"Cholesterol, Serum or Plasma",5.00
+20032,BILIT,"Bilirubin, Total, Serum or Plasma",5.00
+20033,BILID,"Bilirubin, Direct, Serum or Plasma",18.00
+20037,FE,"Iron, Plasma or Serum",14.00
+20038,LI,"Lithium, Serum or Plasma",14.00
+20039,MG,"Magnesium, Plasma or Serum",16.00
+20040,TRG,"Triglycerides, Serum or Plasma",2.00
+20043,AMMON,"Ammonia, Plasma",9.00
+20045,LA,"Lactic Acid, Plasma",2.00
+20046,OSMO,"Osmolality, Serum or Plasma",20.00
+20047,GSCN,"Glucose Screen, Pregnancy",15.00
+20053,CH HDL,HDL Cholesterol,10.00
+20057,HGBS,"Hemoglobin, Serum",15.00
+20058,HGBP,"Hemoglobin, Plasma",14.00
+20063,BHCG-S,"Beta-hCG, Serum Qualitative",13.00
+20064,FAST,"X-Glucose, Fasting",10.00
+20066,1 HR,"X-Glucose, 1 Hour",19.00
+20068,3 HR,"X-Glucose, 3 Hour",8.00
+20089,HBSAG,Hepatitis B Surface Ag w/ Reflex to Conf,12.00
+20090,HBSAB,Hepatitis B Virus Surface Antibody,5.00
+20091,HBCAB,"Hepatitis B Virus Core Antibodies, Total",9.00
+20092,HBCABM,"Hepatitis B Virus Core Antibody, IgM",12.00
+20093,HAVABM,"Hepatitis A Virus Antibody, IgM",14.00
+20094,HBEAG,Hepatitis Be Virus Antigen,6.00
+20095,HBEAB,Hepatitis Be Virus Antibody,8.00
+20096,COPPER,"Copper, Serum or Plasma",7.00
+20097,ZINC,"Zinc, Serum or Plasma",17.00
+20098,LEAD-WB,"Lead, Blood (Venous)",13.00
+20114,BILIT,"Bilirubin, Total, Serum or Plasma",11.00
+20128,HBSAG CONF,"Hepatitis B Virus Surface Ag, Confirm",14.00
+20135,IONCA-S,"Calcium, Ionized, Serum",1.00
+20140,IONCA-WB,"Calcium, Ionized, Whole Blood",19.00
+20144,RENAL,Renal Function Panel,17.00
+20147,ULIP,"Lipase, Urine",9.00
+20221,HGBU,"Hemoglobin, Urine",8.00
+20228,UOSMO,"Osmolality, Urine",8.00
+20229,BHCG-U,"Beta-hCG, Urine Qualitative",17.00
+20257,LDL D,"LDL Cholesterol, Direct",8.00
+20284,HIV WBLOT,"HIV 1 Antibody Confirm, Western Blot",11.00
+20305,UA PH,"pH, Urine",20.00
+20306,UA PRO,Urine Protein,17.00
+20350,UA,"Urinalysis, Complete",7.00
+20385,FECFAT,"Fat, Fecal Qualitative",6.00
+20399,BMP,Basic Metabolic Panel,11.00
+20408,CMP,Comprehensive Metabolic Panel,19.00
+20410,LYTES,Electrolyte Panel,17.00
+20413,LDISO,Lactate Dehydrogenase Isoenzymes,1.00
+20414,CKISO,Creatine Kinase Isoenzymes,8.00
+20416,HEPATIC,Hepatic Function Panel,14.00
+20420,FEIBC,Iron and Iron Binding Capacity,5.00
+20421,CRISK,Lipid Panel,9.00
+20426,BILI,"Bilirubin, Direct and Total, Ser/Pla",5.00
+20454,HEPCHRONIC,"Hepatitis Panel, Chronic HBV",17.00
+20457,HEP ACUTE,"Hepatitis Panel, Acute",2.00
+20468,CRISK E,"Lipid Panel, Extended",19.00
+20471,UAMY,"Amylase, Urine",14.00
+20472,UCA,"Calcium, Urine",5.00
+20473,UCRT,"Creatinine, 24-Hour Urine",7.00
+20474,CRTCL,"Creatinine Clearance, Urine",3.00
+20478,UPHOS,"Phosphorus, Urine",10.00
+20479,UTP,"Total Protein, Urine",2.00
+20480,UUN,"Urea Nitrogen, Urine",13.00
+20481,UURIC,"Uric Acid, Urine",4.00
+20482,UOXAL,"Oxalate, Total, Urine",20.00
+20498,ULYTE,Electrolyte Panel Urine,19.00
+20502,TP-FL,"Total Protein, Body Fluid",13.00
+20503,GLU-FL,Glucose Body Fluid,19.00
+20505,LDH-FL,Lactate Dehydrogenase Body Fluid,13.00
+20506,AMY-FL,"Amylase, Body Fluid",12.00
+20507,PH-FL,pH Body Fluid,2.00
+20509,CRT-FL,Creatinine Body Fluid,18.00
+20510,TBILI-FL,"Bilirubin, Total, Body Fluid",10.00
+20514,CFP,"Total Protein, CSF",11.00
+20515,GLU-CF,Glucose Cerebrospinal Fluid,7.00
+20518,FEC-PH,"Ph, Fecal",12.00
+20542,GTT,Glucose Tolerance Test,20.00
+20543,GTT PRG,"Glucose Tolerance, Pregnancy",13.00
+20570,UADIPSTICK,"Urinalysis, Dipstick",17.00
+20575,UA SCOPE,"Urinalysis, Microscopy",17.00
+20584,HY MET B4,"Heavy Metals Panel 4, Blood",4.00
+20585,UBTCOLL,UBT Breath Test Collection,14.00
+20591,HAVAB,"Hepatitis A Virus Antibodies, Total",17.00
+20596,COPPER F,"Copper, Serum Free (Direct)",19.00
+20597,HEP A PAN,Hepatitis A Virus Antibody Panel,8.00
+20599,2HR,"X-Glucose, 2 Hour",8.00
+20605,ZPP,Zinc Protoporphyrins,2.00
+20646,UBT,Helicobacter pylori Breath Test,2.00
+20647,GTT CF,Glucose Tolerance for CF,8.00
+20713,TRG FL,"Triglycerides, Fluid",8.00
+20725,GFRE,"Glomerular Filtration Rate, Estimated",9.00
+20730,BHCG CSF,"Beta-hCG, CSF Quant (Tumor Marker)",19.00
+20734,AS UF,"Arsenic, Fractionated, Urine",7.00
+20742,CEA FL,"Carcinoembryonic Antigen, Fluid",19.00
+20753,THYROG FNA,"Thyroglobulin, Fine Needle Aspiration",17.00
+20763,PCT,Procalcitonin,5.00
+20800,WET PREP,"Wet Preparation, Vaginal",4.00
+20843,KID,"Kidney Stone Risk Panel, Urine",20.00
+20849,U K,Potassium Urine,6.00
+20850,U CL,"Chloride, Urine",8.00
+20851,U NA,"Sodium, Urine",6.00
+20852,CITRIC U,"Citric Acid, Urine",4.00
+21020,ALKP-ISO,"Alkaline Phosphatase Isoenzymes, Serum o",15.00
+23107,GENHLTH,General Health Panel,19.00
+25000,ARS U,"Arsenic, Urine w/ Reflex to Fractionated",11.00
+25023,SE S,"Selenium, Serum or Plasma",20.00
+25037,COBALT S,"Cobalt, Serum or Plasma",5.00
+25050,MERCURY U,"Mercury, Urine",11.00
+25090,GLU POC,"Glucose (Bedside), Whole Blood",6.00
+25094,GLU NEONTL,"Glucose, Neonatal (Bedside), Whole Blood",15.00
+28903,STREP SCN,"Strep Group A, Rapid Reflex to Culture",17.00
+30010,AT3,"Antithrombin, Enzymatic (Activity)",9.00
+30041,PROT CF R,Protein C Function Rflx to Protein C Tot,12.00
+30057,D-DI,D-Dimer,16.00
+30070,VTE,"Venous Thromboembolism, Qualitative",5.00
+30075,F5,"Factor V, Activity",6.00
+30077,PT INR WC,PT INR Madsen Clinic,5.00
+30083,BILL PTTHR,PTT-D Heparin Reflex Bill,14.00
+30086,BILL REPR,Reptilase Time Reflex Bill,14.00
+30087,BILL TTR,Thrombin Time Reflex Bill,6.00
+30095,F8,"Factor VIII:C, Activity",8.00
+30112,PROT S,"Protein S, Total Antigen",13.00
+30113,PROT C F,"Protein C, Functional",12.00
+30114,PROT S F,"Protein S, Functional",10.00
+30116,C/S TOTAL,"Protein C and S Panel, Total, Antigen",9.00
+30125,VW PANEL,Von Willebrand Panel,8.00
+30130,FIB,Fibrinogen,13.00
+30137,FIB PAN,Fibrinogen Panel,7.00
+30140,FDP,Fibrin Degradation Products,15.00
+30143,HA UN,"Heparin Anti-Xa, Unfractionated",3.00
+30144,HA LMW,"Heparin Anti-Xa, LMWH",2.00
+30160,PLTAG,Platelet Aggregation Studies,16.00
+30181,LUPUS R,Lupus Anticoagulant Reflexive Panel,7.00
+30182,C/S PANEL,"Protein C and S Panel, Functional",10.00
+30191,BNP,B-Type Natriuretic Peptide,12.00
+30192,APC R,APC with Reflex to Factor V Leiden,3.00
+30215,PT,Prothrombin Time,17.00
+30224,PT INR,"PT, International Normalized Ratio",16.00
+30235,PTT,Partial Thromboplastin Time,3.00
+30325,INR WC,INR Wasatch Clinic,12.00
+30370,AT3 PAN,Antithrombin Panel,10.00
+31546,BILL PTTD,PTT-D 1:1 Mix Bill,3.00
+31548,BILL DRV,"DRVVT, 1:1 Mix Bill",3.00
+31549,BILL DRVC,DRVVT Confirmation Bill,5.00
+40002,CBC,CBC with Platelet Count,17.00
+40003,CBCAD,CBC with Plt Count and Auto Diff,15.00
+40004,DIFF CONF,Manual Differential Confirmation,13.00
+40005,DIFF,Manual Differential,13.00
+40007,ADIFF,Automated Differential,17.00
+40011,FRAG X PCR,Fragile X (FMR1) w/Reflex to Methylation,13.00
+40022,RETICULOCY,"Reticulocytes, Percent and Absolute",6.00
+40080,HCT,Hematocrit,4.00
+40085,HGB,Hemoglobin,1.00
+40105,KB,Kleihauer-Betke,18.00
+40191,EOS URINE,Eosinophil Urine,2.00
+40235,PLT,Platelets,15.00
+40280,RETIC,Reticulocytes Percent,5.00
+40320,WBC,White Blood Cell Count,5.00
+40325,WEST,"Sedimentation Rate, Westergren (ESR)",6.00
+49003,SMR INTERP,Smear Interpretation,11.00
+49040,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",15.00
+49045,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",17.00
+49055,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",9.00
+49176,WRIGHTS,Wrights Stain,5.00
+49257,BLOCK MOLO,"Block, Molecular Oncology TT",6.00
+50001,A1A,Alpha-1-Antitrypsin,12.00
+50011,RPR FTA,"RPR with Reflex to Titer, FTA and TP-PA",18.00
+50024,ALB-BF,"Albumin, Body Fluid",4.00
+50065,AMA,"Mitochondrial M2 Ab, IgG",18.00
+50070,AMB,"E. histolytica (amebiasis), Ab, IgG",15.00
+50075,AMICR,Thyroid Peroxidase (TPO) Ab,9.00
+50080,ANA,"ANA, IgG ELISA w/ Reflex to ANA, IgG IFA",8.00
+50085,SMITH,"Smith (ENA) Ab, IgG",5.00
+50093,QUINT M,"Bartonella quintana Ab, IgM",11.00
+50094,QUINT G,"Bartonella quintana Ab, IgG",18.00
+50095,ASO,Antistreptolysin O Screen,5.00
+50101,ASPER PRO,Aspergillus Antibodies by CF and ID,12.00
+50105,ATHYG,Thyroglobulin Antibody,2.00
+50106,BART PAN,"Bartonella quintana Ab, IgG and IgM",3.00
+50108,CATSCRATCH,Bartonella henselae Abs IgG and IgM,5.00
+50119,LUPUS COMP,Lupus Comprehensive Reflexive Panel,17.00
+50135,BRUC,Brucella Ab (Total) by Agglutination,5.00
+50137,COCCI G/M,"Coccidioides Abs, IgG/IgM by ELISA",13.00
+50149,C3C4,Complement Components 3 and 4,7.00
+50150,C3,Complement Component 3,9.00
+50155,C4,Complement Component 4,7.00
+50157,HYPER EXT,Hypersensitivity Pneumo Extended Panel,10.00
+50160,CERU,Ceruloplasmin,1.00
+50161,BJQUAL,"Kappa/Lambda Free Light Chains Qual, Urn",9.00
+50162,VZV PAN,"Varicella Zoster Virus Abs, IgG and IgM",9.00
+50165,CMV IGG,"Cytomegalovirus Antibody, IgG",7.00
+50166,CMV PAN,"Cytomegalovirus Antibodies, IgG/ IgM",10.00
+50167,VZE,"Varicella-Zoster Virus Ab, IgG",2.00
+50170,COCCI,Coccidioides Antibody by CF,15.00
+50178,COCCI M,"Coccidioides Ab, IgM by ELISA",16.00
+50179,COCCI G,"Coccidioides Ab, IgG by ELISA",5.00
+50180,CRP,C-Reactive Protein,2.00
+50181,CRPN,"C-Reactive Protein, Neonatal",18.00
+50182,HSCRP,"CRP, High Sensitivity",11.00
+50183,COCCI-PPT,Coccidioides immitis Abs Immunodiffusion,10.00
+50184,META PF,"Metanephrines, Plasma (Free)",5.00
+50185,CRYGB,"Cryoglobulin, Qualitative",14.00
+50196,CRY BLD,"Cryptococcus Antigen by EIA, Serum",12.00
+50198,CH50,"Complement Activity, Total EIA",6.00
+50200,ALB CSF,"Albumin, CSF",1.00
+50202,IA-2,IA-2 Antibody,20.00
+50203,ALB/CRT,"Microalbumin, Urine",6.00
+50206,VDRL CSF,"VDRL with Reflex to Titer, CSF",9.00
+50215,DNA,"dsDNA Ab, IgG w/ Reflex to IFA Titer",2.00
+50216,LYME EIA,"Borrelia burgdorferi Abs, Total by ELISA",19.00
+50220,DNSB,DNase-B Ab,13.00
+50227,ERYTH,Erythropoietin,11.00
+50229,WNILE PCR,West Nile Virus RNA by RT-PCR,18.00
+50238,WNIL IGG,"West Nile Virus Ab IgG, CSF",20.00
+50239,WNIL IGM,"West Nile Virus Ab IgM, CSF",14.00
+50240,EBV M,"EBV Ab to Viral Capsid Ag, IgM",2.00
+50243,BILL ANCAT,ANCA Titer Bill,14.00
+50245,EBV NA,Epstein-Barr Virus Ab Nuclear Antigen,10.00
+50246,EBVPCR,Epstein-Barr Virus by PCR,19.00
+50249,EV PCR,Enterovirus Detection by PCR,7.00
+50250,ECHINO IGG,"Echinococcus Ab, IgG",16.00
+50254,LYME WB,"Lyme Abs, IgG and IgM by Western Blot",15.00
+50267,LYME ACUTE,Lyme Disease Acute Reflexive Panel,7.00
+50280,HAPTO,Haptoglobin,7.00
+50291,HERP PAN,"HSV 1,2 Abs, IgG, IgM",11.00
+50292,HERP I,"HSV 1 Glycoprotein G Ab, IgG",4.00
+50293,HERPES,"HSV Type 1,2 Combined Ab, IgG",1.00
+50294,HERP II,"HSV 2 Glycoprotein G Ab, IgG",12.00
+50301,C1Q,C1Q Binding Assay,2.00
+50317,ANA REF,ANA Reflexive Profile,1.00
+50321,B2GPI PAN,"B2glycoprotein I Abs, IgG and IgM",2.00
+50331,BILL IMMR,Immunofix Electrophoresis Bill,15.00
+50338,BILL PSAFR,PSA Free Bill,17.00
+50340,IGA,Immunoglobulin A,19.00
+50345,IGE,Immunoglobulin E,18.00
+50350,IGG,Immunoglobulin G,7.00
+50355,IGM,Immunoglobulin M,1.00
+50364,HERPRCSF,"HSV 1/2 Ab, IgG, IgM Reflex, CSF",4.00
+50367,LYSO,"Lysozyme, Serum or Body Fluid",17.00
+50375,MEASLE PAN,"Measles (Rubeola) Abs, IgG and IgM",13.00
+50380,MEASLES G,"Measles (Rubeola) Antibody, IgG",5.00
+50385,INF MONO,"Heterophile Ab (Inf. Mono) LA, Qual",12.00
+50390,MUMPS,"Mumps Virus Ab, IgG",7.00
+50399,MYCO PAN,"Mycoplasma pneumoniae Abs, G/M",5.00
+50408,HSVMCCSF,"HSV 1,2 Ab IgM, CSF",17.00
+50435,PREALB,"Prealbumin, Serum",12.00
+50441,REG11 PAN,"Allergen, Region 11 Respiratory Panel",12.00
+50462,"Q-F 1,2","Q-Fever Ab IgG, Phase I & II",2.00
+50465,RA,Rheumatoid Factor,1.00
+50467,RBP,Retinol Binding Protein,15.00
+50470,RNP,"Ribonucleic Protein (ENA) Antibody, IgG",15.00
+50471,RPRT,RPR with Reflex to Titer,12.00
+50475,RPRT,RPR with Reflex to Titer,14.00
+50477,FTA,"T. pallidum Ab (FTA-ABS), Serum, IgG",1.00
+50478,RPR PAN,RPR with Reflex to Titer and TP-PA Conf,7.00
+50520,SCKL,"Hemoglobin S, Evaluation",15.00
+50521,TOXO PAN,"Toxoplasma Antibodies, IgG and IgM",6.00
+50526,MPO-AB,"Myeloperox Abs, IgG",1.00
+50527,PR3,"Serine Protease3, IgG",7.00
+50528,HB CASCADE,Hemoglobin Evaluation Reflexive Cascade,1.00
+50564,SC PAN,"Saccharomyces cerevisiae Abs, IgG, IgA",16.00
+50570,TRNSF,"Transferrin, Serum",3.00
+50571,IGG1,Immunoglobulin G Subclass 1,13.00
+50572,IGG2,Immunoglobulin G Subclass 2,9.00
+50573,IGG3,Immunoglobulin G Subclass 3,17.00
+50576,IGG4,Immunoglobulin G Subclass 4,14.00
+50577,IGG SUB,"Immunoglobulin G Subclasses (1, 2, 3, 4)",9.00
+50588,COCCI PAN,"Coccidioides Abs Panel, Serum, By ELISA",2.00
+50599,SCLER,"Scleroderma (Scl-70) (ENA) Antibody, IgG",16.00
+50600,EBV PAN,Epstein-Barr Virus Antibody Panel 1,2.00
+50602,EBV PAN 2,Epstein-Barr Virus Antibody Panel 2,18.00
+50610,HGBEL,Hemoglobin Evaluation,11.00
+50615,IFE,"Monoclonal Protein Detection Quant, Ser",7.00
+50618,BJ QUANT,Kappa/Lambda Free Light Chains Quant Urn,8.00
+50622,CMV PAN,"Cytomegalovirus Antibodies, IgG/ IgM",3.00
+50625,HISTO,Histoplasma Antibodies by CF,19.00
+50627,HISTO PAN,Histoplasma Abs by CF and ID,4.00
+50630,QNTIG,"Immunoglobulins (IgG, IgA, IgM), Quantit",8.00
+50631,QNTIG CSF,"Immunoglobulins, CSF Quantitative",10.00
+50639,ANA-IFA,"ANA by IFA, IgG",2.00
+50640,SPEP,"Protein Electrophoresis, Serum",1.00
+50641,HSV MC,"HSV 1 and/or 2 Abs, IgM by ELISA",20.00
+50645,THYRO,Thyroid Antibodies,2.00
+50653,ENA ABS5,Extractable Nuclear Ag Abs 5,2.00
+50670,IGG CSF,"Immunoglobulin G, CSF",17.00
+50676,IGG SYN,"Immunoglobulin G, CSF Index",9.00
+50680,IGG/ALB,"Immunoglobulin G/Albumin Ratio, CSF",16.00
+50691,SSA,"SSA (Ro) (ENA) Ab, IgG",20.00
+50692,SSB,"SSB (La) (ENA) Ab, IgG",15.00
+50697,MYCO PAN,"Mycoplasma pneumoniae Abs, G/M",20.00
+50707,MPO/PR3,MPO/PR-3 (ANCA) Antibodies,5.00
+50710,COCCI CSF,"Coccidioides Abs Panel, CSF, By ELISA",4.00
+50714,ANTICENT,"Centromere Ab, IgG",14.00
+50725,PNEUMO AB,"Pneumococcal Abs, IgG",16.00
+50734,EMA R,"Tissue Trans. Ab, IgA with Reflex",18.00
+50736,EMAR TITER,"Endomysial Antibody, IgA by IFA",5.00
+50750,FUNG CSF,"Fungal Abs by CF, CSF",19.00
+50757,DNA EXT,DNA Extraction and Storage,19.00
+50771,RUBEIGG,"Rubella Antibody, IgG",4.00
+50777,MHA,Treponema pallidum Ab by TP-PA,12.00
+50787,TRICH,Trichinella Antibody by ELISA,18.00
+50791,SSA/SSB,"SSA and SSB Abs, IgG",12.00
+50811,ANCA IFA,"Anti-Neutrophil Cyto Ab, IgG",12.00
+50916,HERPR PAN,"HSV 1/2 Ab, IgG, IgM Reflex",5.00
+50994,PYLORI PAN,"Helicobacter pylori Abs, IgG and IgA",7.00
+50995,A PYLORI,"Helicobacter Pylori Ab, IgA",11.00
+51000,GBM-G ELIS,"GBM Ab, IgG by Multiplex Bead Assay",10.00
+51033,GM1 COMBI,"Ganglioside Antibodies, Combined IgG/IgM",11.00
+51065,CELIAC REF,Celiac Disease Reflexive Cascade,8.00
+51076,CHAGAS G,"Trypanosoma cruzi Ab, IgG",2.00
+51154,HIV 1 SCRN,HIV-1 Antibody by CIA w/ Reflex,13.00
+51160,"HIV1,2 SCR","HIV-1,2 Antibodies by CIA w/ Reflex",4.00
+51162,CARD PAN,"Cardiolipin Antibodies, IgA, IgG, IgM",18.00
+51174,SMA R,"F-Actin Ab, IgG EIA with Rflx to ASM IFA",11.00
+51249,PLT HAT R,Hep-Ind Thrombocytopenia Abs PF4 Reflex,17.00
+51256,A1A GENO,A1A Genotype with Reflex to Phenotype,8.00
+51281,NORO PCR,Norovirus Group 1 and 2 Detection by RT-,16.00
+51286,MTHFR PCR,MTHFR 2 Mutations,8.00
+51298,RF PAN,"Rheumatoid Factors, IgA, IgG, IgM ELISA",3.00
+51352,EBV QNT,Epstein-Barr Virus by Quantitative PCR,6.00
+51353,EBV QNT WB,"Epstein-Barr Virus by Quant PCR, WB",1.00
+51357,GLIADPEP A,"Gliadin Peptide Antibody, IgA",20.00
+51358,GLIAD PAN,"Gliadin Peptide Antibodies, IgA and IgG",13.00
+51359,GLIADPEP G,"Gliadin Peptide Antibody, IgG",8.00
+51531,IFNG DO,Interferon gamma,10.00
+51555,FRAG X PCR,Fragile X (FMR1) w/Reflex to Methylation,20.00
+51600,PHOS PAN,Cardiolipin/Non-Criteria APS Abs Panel,19.00
+51668,CONN,Connective Tissue Diseases Profile,7.00
+51724,ACTIN IGA,"F-Actin (Smooth Muscle) Antibody, IgA",14.00
+51729,QFTG-TB IT,Quantiferon TB Gold In-Tube,10.00
+51811,HCVRNA BC,Hepatitis C Virus RNA Quantitative bDNA,7.00
+51813,CMV QNT,Cytomegalovirus DNA Quantitation by PCR,3.00
+51831,MIXEDNUTS,"Allergen, Food, Mixed Nuts",15.00
+51835,SHELLFISH,"Allergen, Food, Shell Fish Profile",12.00
+54444,VZECSF,VZV Antibody IgG CSF,14.00
+54445,VZMCSF,"Varicella Zoster Virus Ab, IgM, CSF",2.00
+55002,BELL,"Allergen, Food, Pepper C. annuum IgE",18.00
+55013,EGG,"Allergen, Food, Egg White",3.00
+55020,MILK,"Allergen, Food, Milk (Cow's)",7.00
+55024,PEANUT,"Allergen, Food, Peanut",16.00
+55031,SOY,"Allergen, Food, Soybean",8.00
+55041,RAST,"RAST, Immunocap Score",6.00
+55096,BEEF,"Allergen, Food, Beef",5.00
+55100,FOOD PAN,"Allergen, Food, Comprehensive Profile 1",1.00
+55105,BEE PAN,"Allergen, Hymenoptera, Bee Venom Profile",13.00
+55167,KAP/LAM F,Kappa-Lambda Quant FLC with Ratio,10.00
+55213,ASCARIS,"Allergen, Parasite, Ascaris",1.00
+55235,SLA,"Soluble Liver Antigen Antibody, IgG",17.00
+55241,LKM1 IGG,"Liver-Kidney Microsome-1 Ab, IgG",13.00
+55248,ACTIN IGG,"F-Actin (Smooth Muscle) Antibody, IgG",7.00
+55256,CCP IGG,"Cyclic Citrullinated Peptide Ab, IgG",18.00
+55301,FOOD 13,"Allergen, Food, Profile 13",11.00
+55428,CHILI PEP,"Allergen, Food, Pepper C. frutescens IgE",7.00
+55567,T CELL-F,T-Cell Clonality Screening by PCR,10.00
+55568,T CELL-F,T-Cell Clonality Screening by PCR,10.00
+55592,BCELL SCRN,B-Cell Clonality Screening (IgH and IgK),3.00
+55593,HEPCGENO,HCV Genotype by PCR and Sequencing,13.00
+55598,HIVPCRQ,HIV-1 RNA Qnt By Real-Time PCR,2.00
+55631,T CELL-F,T-Cell Clonality Screening by PCR,4.00
+55655,MTHFR PCR,MTHFR 2 Mutations,19.00
+55662,B12 MMA,Vit B12/Rflx MMA - Vit B12 Status,18.00
+55665,BILL MMAR,MMA Quant Bill,6.00
+56005,CF PAN,Cystic Fibrosis (CFTR) 32 Mutations,8.00
+56009,TTG G,"Tissue Transglutaminase Antibody, IgG",13.00
+56025,HBVUPCR,Hepatitis B Virus DNA Quant RT- PCR,15.00
+56060,PT PCR,Prothrombin (F2) G20210A Mutation,5.00
+56105,LEGIONPCR,Legionella Species by Qualitative PCR,20.00
+58002,CAMPY,Campylobacter Antigen,17.00
+58902,C2CYA,"Cyclosporine A, 2-Hr Post(C2) HPLC-MS/MS",13.00
+60031,CMVPCR B,"Cytomegalovirus by PCR, Whole Bld/Bn Mrw",4.00
+60040,CMVPCR,Cytomegalovirus by Qualitative PCR,12.00
+60041,HSVPCR,Herpes Simplex Virus By PCR,8.00
+60042,VZVPCR,Varicella-Zoster Virus by PCR,17.00
+60043,PARVPCR,"Parvovirus B19, by PCR",16.00
+60045,CRYSPOR,Cryptosporidium Antigen by EIA,2.00
+60047,ECSLT AG,E Coli Shiga-Like Toxin by EIA,15.00
+60048,GLAM,Giardia Antigen by EIA,17.00
+60052,PNEUMST,Pneumocystis Jirovecii by DFA,1.00
+60054,POLIO,Poliovirus Antibodies,16.00
+60068,ASPERAG,Aspergillus Galactomannan Antigen,9.00
+60071,HHV6PCR,"Herpesvirus 6 (HHV6) (A&B), Quant by PCR",3.00
+60091,STAT GRAM,Stat Gram Stain,19.00
+60224,CGAMD,C. trachomatis & N. gonorrhoeae by TMA,5.00
+60228,SPN AG,"Streptococcus pneumoniae Ag, Urine",17.00
+60241,CGAMD,C. trachomatis & N. gonorrhoeae by TMA,2.00
+60243,CTAMD,Chlamydia trachomatis by TMA,16.00
+60256,MPNEUMOPCR,Mycoplasma pneumoniae by PCR,17.00
+60280,HSVFAC,HSV by DFA w/Reflex to HSV Culture,20.00
+60281,RSPFAC,Resp Viruses DFA w/Rflx to Viral Culture,1.00
+60283,VZV HSVFAC,VZV/HSV DFA w/Reflex to VZV/HSV Culture,15.00
+60288,RSV,Respiratory Syncytial Virus DFA,7.00
+60289,RSPFA,Respiratory Viruses DFA,14.00
+60291,CSFGRAM,"Gram Stain, CSF",13.00
+60705,GBS PCR,Streptococcus Group B by PCR,19.00
+60715,CPNEUMOPCR,Chlamydia pneumoniae by PCR,9.00
+60744,SP HPV-HI,"HPV High Risk, Hybrid Capture, SurePath",5.00
+60750,TP HPVHI,"HPV High Risk, Hybrid Capture, ThinPrep",1.00
+60764,RESPMINI,Respiratory Virus Mini Panel by PCR,18.00
+60774,CTNG M4,"CT/NG by TMA, M4/UTM",9.00
+60841,ML TICAR,"Antibiotic Level, Ticarcillin",2.00
+60844,ML MERO,"Antibiotic Level, Meropenem",1.00
+60845,ML AZTREO,"Antibiotic Level, Aztreonam",9.00
+60847,HSVT,Herpes Simplex Virus Typing,14.00
+60851,CDIFTX,C. difficile cytotoxin assay,5.00
+61164,FECLACTO,"Lactoferrin, Fecal by ELISA",11.00
+65059,CTAMD,Chlamydia trachomatis by TMA,17.00
+65067,ROTAD,"Rotavirus and Adenovirus 40-41 Ags, EIA",4.00
+65078,BPERT,"Bordetella Pertussis, PCR",12.00
+65080,BORD PCR,"Bordetella pertussis/parapertussis, PCR",16.00
+65100,V CHLM PAN,"Chlamydia Ab Panel, IgG/IgM by IFA",13.00
+65109,PARVO,"Parvovirus B19 Abs, IgG and IgM",8.00
+65120,PARVO,"Parvovirus B19 Abs, IgG and IgM",15.00
+65146,CDIFF,Clostridium difficile Toxins (A/B) EIA,11.00
+65147,PYLORI AG,"Helicobacter pylori Ag, Fecal by EIA",1.00
+65153,VAGP,Vaginal Pathogen Panel by DNA Probe,8.00
+70005,OHPRGSTON,"17-Hydroxyprogesterone Qnt, HPLC-MS/MS",17.00
+70010,ACTH,Adrenocorticotropic Hormone,6.00
+70025,BHCG QNT,"Beta-hCG, Serum Quantitative",1.00
+70029,BHCG TM,"Beta-hCG, Serum Quant Tumor Marker",5.00
+70030,CORTISOL,"Cortisol, Serum or Plasma",18.00
+70035,CYA,Cyclosporine A by HPLC-MS/MS,10.00
+70037,HIST-WB,"Histamine, Whole Blood",4.00
+70040,DHEAS,"DHEA Sulfate, Serum",5.00
+70045,ESTRA,"Estradiol, Adult Premenopausal Female",4.00
+70053,BSAP,Bone Specific Alkaline Phosphatase,7.00
+70055,FSH,Follicle Stimulating Hormone,4.00
+70063,INSULIN FT,"Insulin, Fasting",13.00
+70065,FERITN,Ferritin,18.00
+70070,FOL,"Folate, Serum",16.00
+70073,A/RA,Aldosterone Renin ACT Ratio,15.00
+70075,GAST,Gastrin Level,1.00
+70080,HGH,Growth Hormone,14.00
+70093,LH,"Luteinizing Hormone, Serum",4.00
+70102,BIO T,"Testosterone, Bio and SHBG, Adult Male",20.00
+70103,C PEP,"C-Peptide, Serum or Plasma",8.00
+70105,RENIN,Renin Activity,8.00
+70107,INSULIN R,"Insulin, Random",4.00
+70109,FREE T,"Testosterone Free and Total, Adult Male",8.00
+70111,FREE T2,"Testosterone Free, Adult Male",11.00
+70112,PROINS,"Proinsulin, Intact",5.00
+70115,PROLAC,Prolactin,18.00
+70120,PAP,Prostatic Acid Phosphatase,12.00
+70121,PSA,Prostate Specific Antigen,19.00
+70125,IGF-1,IGF-1 (Insulin-Like Growth Factor I),2.00
+70130,TESTOS,"Testosterone, Adult Male",13.00
+70133,FT3,"Triiodothyronine, Free (Free T3)",11.00
+70138,FT4,Thyroxine Free,6.00
+70140,T4,Thyroxine,1.00
+70141,T7,Thyroid Panel,3.00
+70145,TSH,Thyroid Stimulating Hormone,6.00
+70150,B12,Vitamin B12,7.00
+70155,INS F&T,"Insulin, Free And Total",11.00
+70160,B12/FOL,Vitamin B12 & Folate,2.00
+70172,PTHI,"Parathyroid Hormone, Intact with Calcium",11.00
+70189,BILE AC,"Bile Acids, Total",19.00
+70193,LH/FSH,Luteinizing Hormone/Follicle Stim Horm,16.00
+70225,TSH 3,TSH 3rd Generation,7.00
+70236,PINP,Procollagen I Intact N-Terminal Propep,1.00
+70322,LEGAG-U,"Legionella Pneumophila Antigen, Urine",1.00
+70346,PTH-INT,Parathyroid Hormone Intact,5.00
+70385,RBCFOLATE,"Folate, RBC",3.00
+70390,TOPIR,Topiramate,13.00
+70413,INHIBINB,Inhibin B,13.00
+70416,CTX,"C-Telopeptide, Beta-Cross-Linked, Serum",5.00
+70421,THYROGRFX,"Thyroglobulin, Serum or Plasma Reflex",16.00
+70426,HBA1C,Hemoglobin A1C,12.00
+70474,T3 TOTAL,"Triiodothyronine, Total (Total T3)",17.00
+70480,ALDO U,"Aldosterone, Urine",2.00
+70500,NTX SERUM,"N-Telopeptide, Cross-Linked, Serum",2.00
+80001,ACE,"Angiotensin Converting Enzyme, Serum",16.00
+80009,ACHRBIN,Acetylcholine Binding Ab,6.00
+80045,B-OH,Beta-Hydroxybutyric Acid,10.00
+80053,B2M S,"Beta-2-Microglobulin, Serum or Plasma",3.00
+80065,CARN,"Carnitine, Free",13.00
+80068,CARN F&T,Carnitine Free and Total,18.00
+80080,CEA,Carcinoembryonic Antigen,17.00
+80103,ALA U,"Aminolevulinic Acid (ALA), Urine",4.00
+80108,AFP MS3,"Maternal Serum Screen AFP, hCG, Estriol",13.00
+80111,VIT B6,Vitamin B6 (Pyridoxal 5-Phosphate),6.00
+80135,G6PD,Glucose-6-Phosphate Dehydrogenase,8.00
+80206,PSA FP,PSA Total with Free PSA,17.00
+80235,5NUCL,5' Nucleotidase,3.00
+80260,PBGQT,Porphobilinogen Quantitative Urine,20.00
+80264,TPSAR,Total PSA With Free PSA Reflex,14.00
+80269,AFP MS4,"Maternal Serum Screen AFP, hCG, EST, INH",18.00
+80342,PYD & DPD,Pyridinoline and Deoxypyridin,10.00
+80379,VIT D 25,"Vitamin D, 25-Hydroxy",8.00
+80385,"VIT D 1,25","Vitamin D, 1,25-Dihydroxy",13.00
+80388,VIT B1 WB,"Vitamin B1 (Thiamine), Whole Blood",13.00
+80389,VIT B1 P,"Vitamin B1 (Thiamine), Plasma",8.00
+80392,CA27.29,Cancer Antigen 27.29,1.00
+80395,SEROT-WB,"Serotonin, Whole Blood",4.00
+80407,CATE UF,"Catecholamines Fractionated, Urine Free",17.00
+80413,HOMOCYS-U,"Homocystine Quantitative, Urine",1.00
+80420,HIAA,"5-Hydroxyindoleacetic Acid (HIAA), Urine",13.00
+80428,AFP TM,Alpha Fetoprotein Tumor Marker,16.00
+80434,MS ONLY,"Maternal Serum Screen, AFP, Only",15.00
+80436,META URINE,"Metanephrines Fractionated, Urine",19.00
+80440,OLIGO,Oligoclonal Band Profile,14.00
+80461,CA-GI,Cancer Antigen-GI (CA 19-9),6.00
+80462,CA125,Cancer Antigen 125,18.00
+80464,CA-BREAST,"CA 15-3, Cancer Antigen - Breast",17.00
+80469,CGA SERUM,Chromogranin A,5.00
+80480,CK MB,"Creatine Kinase, MB",3.00
+80500,A1A PHENO,Alpha-1-Antitrypsin Phenotype,7.00
+80515,MBP,"Myelin Basic Protein, CSF",18.00
+80521,VIT E,"Vitamin E, Serum or Plasma",7.00
+80525,VIT A,"Vitamin A (Retinol), Serum or Plasma",3.00
+80526,PAN-ELAST,"Pancreatic Elastase , Fecal",14.00
+81055,PLAC,Lipoprotein-Associated Phospholipase A(2,1.00
+81056,TESTOS F&T,"Testosterone Free/Total, Female/Child",2.00
+81057,BIO T MASS,"Testosterone, Bio w/SHBG, Female/Child",2.00
+81058,TESTOS MAS,"Testosterone, LC-MS/MS",9.00
+81059,TESTOS FR,Testosterone Free by LC-MS/MS,15.00
+81062,MS INT-1,"Maternal Screening, INT-1",1.00
+81064,MS INT-2,"Maternal Screening, INT-2",10.00
+81117,CORT SAL,"Cortisol, Saliva",13.00
+81135,OLIGOB,Oligoclonal Bands in CSF and Serum,15.00
+81150,MS FT,"Maternal Serum, First Trimester",9.00
+81208,AFP L3,"Alpha Fetoprotein, Total & L3 Percent",4.00
+81293,MS SEQ-1,"Maternal Screening, Sequential, Spec 1",15.00
+81294,MS SEQ-2,"Maternal Screening, Sequential, Spec 2",18.00
+81301,FAX CONF,Fax Confirmation Tracking Test,1.00
+81332,HB CASCADE,Hemoglobin Evaluation Reflexive Cascade,3.00
+82024,FFN,Fetal Fibronectin,1.00
+85034,ADD TT,Add Tracking Test,18.00
+85042,ADD TT2,Add Tracking Test 2,15.00
+90001,ACET,Acetaminophen Level,2.00
+90080,DIG,Digoxin,18.00
+90090,DIL,Phenytoin,1.00
+90110,ETG,Ethylene Glycol,6.00
+90120,ETOH,"Ethanol, Serum or Plasma - Medical",11.00
+90130,GENT,"Gentamicin, Random Level",20.00
+90141,FDIL,"Phenytoin, Free And Total",18.00
+90144,ISOP,Isopropanol (Includes Acetone),18.00
+90155,LIDO,Lidocaine,11.00
+90165,METHANOL,Methanol,6.00
+90177,LAMOT,Lamotrigine,7.00
+90213,MPA MET,Mycophenolic Acid and Metabolites,19.00
+90230,PHNO,Phenobarbital,4.00
+90251,SALIC,Salicylate Assay,20.00
+90260,TEG,"Carbamazepine, Total",19.00
+90265,THEO,Theophylline,1.00
+90285,VAN,"Vancomycin, Random Level",7.00
+90290,VPA,Valproic Acid,14.00
+90302,U AMP,Stimulant Amines Detection,5.00
+90305,GENTP,"Gentamicin, Peak Level",7.00
+90306,U COC,Cocaine and Metabolites Detection,12.00
+90307,S TAD,Tricyclic Antidepressant Detection,7.00
+90310,GENTT,"Gentamicin, Trough Level",3.00
+90311,METREXSN,"Methotrexate, Sensitive",5.00
+90312,U OPI,"Opiates, Detection",11.00
+90315,TOBRAP,"Tobramycin, Peak Level",1.00
+90316,TRAZO,Trazodone,1.00
+90325,VANP,"Vancomycin, Peak Level",16.00
+90330,VANT,"Vancomycin, Trough Level",20.00
+90357,CDCO BARB,"Drug Confirmation, Barbiturates, Urine",16.00
+90358,CDCO BENZO,Benzodiazepines-Confirmation/Quantitatio,19.00
+90359,CDCO COCA,"Drug Confirmation, Cocaine, Urine",3.00
+90362,CDCO METH,"Methadone and Metabolite, Urine",9.00
+90364,CDCO OPI,"Opiates, Urine",20.00
+90367,S BNZ,Benzodiazepines Detection,14.00
+90369,CDCO THC,"Drug Confirmation, Cannabinoids, Urine",6.00
+90439,CDCO AMPS,"Drug Confirmation, Amphetamines, Urine",20.00
+90448,CDTI7,"Drug Panel 7, Screen Only, Urine",2.00
+90453,CDTI9,"Drug Panel 9, Screen Only, Urine",9.00
+90454,CDTI9A,"Drug Panel 9A, Screen Only, Urine",13.00
+90491,CDTI9,"Drug Panel 9, Screen Only, Urine",7.00
+90492,CDTI9A,"Drug Panel 9A, Screen Only, Urine",15.00
+90499,BLD SCREEN,"Drug Screen (Nonforensic), Serum",20.00
+90500,URN SCREEN,"Drug Screen (Nonforensic), Urine",14.00
+90601,ANTIDEP,"Antidepressant Panel Quant, Ser or Plas",17.00
+90612,TACRO,Tacrolimus by HPLC-MS/MS,16.00
+90613,TNI,Troponin I,15.00
+90676,CANNAB SP,"Drug Confirmation, Cannabinoids, Ser/Pla",19.00
+90699,METHADO SP,"Methadone & Metabolite, Serum or Plasma",6.00
+91007,NOTEST F,Reason for testing not done F,19.00
+91008,NOTEST R,Reason for testing not done R,19.00
+91100,SULFON UR,"Sulfonylurea Hypoglycemics Panel, Urine",15.00
+91161,GHB U,"Gamma-Hydroxybutyric Acid, Urine",17.00
+91197,LIDOCAIN,"Lidocaine and Metabolite, Ser/Pla",20.00
+91265,GOLD SP,"Gold Quantitative, Serum or Plasma",16.00
+91434,TITANIU SP,"Titanium Quantitative, Serum or Plasma",16.00
+92066,TPMT RBC,"Thiopurine Methyltransferase, RBC",14.00
+92100,CORTURATIO,"Cortisol and Cortisone, Urine Free",11.00
+92101,HIV NAT,"HIV-1, HCV, HBV (Procleix Ultrio) NAT",15.00
+92118,EVEROLIMUS,Everolimus by HPLC-MS/MS,16.00
+92168,NIACIN B3,Niacin (Vitamin B3),12.00
+92182,CDASU 9,"Drug Panel 9, Urn, Scrn w/Rflx to Conf",8.00
+92184,CDASU 7,"Drug Panel 7, Urn, Scrn w/Rflx to Conf",2.00
+92186,CDASU 9,"Drug Panel 9, Urn, Scrn w/Rflx to Conf",18.00
+92280,CDASUALC,"Drug Screen and Conf, Alcohol, Urine",17.00
+92303,CALPRO,"Calprotectin, Fecal",3.00
+92332,OHPRGSTON,"17-Hydroxyprogesterone Qnt, HPLC-MS/MS",10.00
+92354,OPIS SP,"Opiates, Confirm/Quant, Serum/Plasma",10.00
+92361,NICOTINESP,"Nicotine and Metabolites, Ser/Pla",16.00
+92420,DRUG SCRSP,"Drug Pan 9, Ser/Pla, Scrn w/Rflx to Conf",2.00
+92516,MEC 9,"Drug Panel, Mec, Screen w/Rflx to Conf",15.00
+92522,HISTOAG S,"Histoplasma Antigen, Serum",5.00
+92534,TGONDI IGG,"Toxoplasma gondii Ab, IgG, CSF",15.00
+92580,LATEX RIA,"Allergen, Latex Specific IgE Panel RIA",9.00
+92628,VGCC AB,Voltage-Gated Calcium Channel (VGCC) Ab,14.00
+92660,VEG FACTOR,Vascular Endothelial Growth Factor,8.00
+93000,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",14.00
+93030,XCG PRELIM,Cytogenetics Preliminary Report,7.00
+93057,BART DNA,Bartonella species by PCR,3.00
+93067,FTA G/M,Treponema pallidum Ab Pan(FTA-ABS) IgG/M,16.00
+93093,VDRL SERU,"VDRL with Reflex to Titer, Serum",13.00
+93194,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",15.00
+93243,FT3 ED-TMS,Free T3 by Equil Dialysis-TMS,6.00
+93247,ESDIOL TMS,Estradiol by TMS,17.00
+93248,EST FR TMS,"Estrogens, Fractionated by TMS",3.00
+93300,BENZ SP,"Drug Conf, Benzodiazepines, Ser/Pla",16.00
+93310,NMDP PRO,NMDP Comprehensive Profile,20.00
+93357,PC FLOW,Plasma Cell Phenotyping,16.00
+93399,CTC COUNT,Circulating Tumor Cell Count,1.00
+93451,ADD UH,Additional Lab Test Request,20.00
+93452,RO TT,Recurring Order Tracking,10.00
+93456,BJP-U REFLEX,"Bence Jones Protein Assay, Reflx to uFLC",17.00
+93482,SEQ FSM,"Familial Mutation, Targeted Sequencing",20.00
+93900,HH TT,Histology/Hemepath Tracking Test,17.00
+94030,FELBAMA,Felbamate,2.00
+95018,CSF,Cell Count Cerebrospinal Fluid,9.00
+95019,FLD,"Cell Count, Body Fluid",3.00
+95044,PRENATAL A,Prenatal Reflexive Panel,7.00
+95229,CYSTAT C,Cystatin C,7.00
+95243,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",3.00
+95244,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",17.00
+95263,VAP CHOL,"VAP Cholesterol, Serum",11.00
+95798,LYMPHPRO,Lymphocyte Transplantation Profile,16.00
+95840,HLAB27,HLA-B27,2.00
+95853,ABS,"Lymphocyte Subset 3, CD4 and CD8",9.00
+95854,ABS4,"Lymphocyte Subset 1, CD4 Absolute Count",6.00
+95885,CD4,"Lymphocyte Subset 2, CD4 Pct. and Absl",17.00
+95892,TIMMUNPAN,"Lymphocyte Subset 5, Total Enumeration",3.00
+95899,PIP,"Lymphocyte Subset 7, Congenital Immun.",18.00
+96299,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",7.00
+97030,IRL,Immunohematology Tracking Test,18.00
+97040,SPEC TT,UUHSC Specimen Tracking,15.00
+97050,CYTOGEN TT,Cytogenetics (Tracking Test),9.00
+97065,HLA TT,HLA Tracking Test,6.00
+97066,UHSC TT,UHSC Tracking Test,6.00
+97070,AP TT,Anatomic Pathology Tracking Test,5.00
+97078,ASP TT,Aspirate Smear Tracking Test,6.00
+97083,F EXCEPT,Frozen Except Storage,7.00
+97084,R EXCEPT,Refrigerated Except Storage,20.00
+97085,EXCEPT,Exception Handling Procedure,17.00
+97138,CHANGE,Change Test,8.00
+97169,RELEASE,Released Specimens,17.00
+97170,EXTRA SPEC,Extra Sample,6.00
+97180,TURNBACK,Turnback,19.00
+97222,CORT UF,"Cortisol, Urine Free by LC-MS/MS",17.00
+97505,EXCEPT2,Exception Handling Procedure 2,12.00
+97709,TTG,"Tissue Transglutaminase Antibody, IgA",4.00
+97720,FACV,Factor V Leiden (F5) R506Q Mutation,5.00
+97738,REDRAW,UEH Specimen Redraw,8.00
+97908,ZONI,Zonisamide Quantitative,9.00
+97909,R RT,Refrigerated Referral Testing,17.00
+98264,HEPCQNT,Hepatitis C Virus RNA Quant RT-PCR,14.00
+98268,HEPCQNT,Hepatitis C Virus RNA Quant RT-PCR,16.00
+98389,ORG AC,"Organic Acids, Urine",6.00
+98391,FCORTS,"Cortisol, Free",15.00
+98392,M PYLORI,"Helicobacter Pylori Ab, IgM",10.00
+98457,CHYLO FL,"Chylomicron Screen, Body Fluid",14.00
+98467,RAPAMUNE,Sirolimus by HPLC-MS/MS,20.00
+98581,PSA ULTRA,PSA Ultra Sensitive,7.00
+98627,KEPPRA,Keppra  (Levetiracetam),12.00
+98655,HEV IGG,"Hepatitis E Virus Ab, IgG by ELISA",11.00
+98656,HEV IGM,"Hepatitis E Virus Ab, IgM by ELISA",20.00
+98793,NBP,Newborn Screen (PKU T4 Glyco),6.00
+98796,NBP2,Newborn Screen #2 (Bill Only),12.00
+98830,CR S,"Chromium, Serum",5.00
+98834,OXCARB,Oxcarbazepine Metabolite,6.00
+98879,ENT PANEL,Enterovirus Panel,16.00
+98894,PRO S FREE,"Protein S Ag, Free",6.00
+98930,CLOZAPINE,Clozapine,11.00
+98974,ACE CSF,"Angiotensin Converting Enzyme, CSF",4.00
+99012,FRUCTOSAM,Fructosamine,6.00
+99045,ARS B,"Arsenic, Blood",5.00
+99090,TOXOCARA,Toxocara Antibody IgG by ELISA,11.00
+99169,JC VIRUS,JC Virus by PCR,18.00
+99173,TRYPT,Tryptase,7.00
+99174,LIPO A,Lipoprotein (a),17.00
+99184,BUPRO,"Bupropion, Serum or Plasma",7.00
+99228,ANTI-INS,Insulin Antibody,7.00
+99265,MANG,"Manganese, Serum",18.00
+99270,LIVER-KID,"Liver-Kidney Microsome Abs, IgG",4.00
+99305,HG B,"Mercury, Blood",20.00
+99310,VPA-F,"Valproic Acid, Free",2.00
+99344,ANTI-CARD,"Cardiolipin Antibodies, IgG/IgM",13.00
+99359,G PYLORI,"Helicobacter pylori Antibody, IgG",2.00
+99375,SHBG,Sex Hormone Binding Globulin,16.00
+99411,SCHIS,"Schistosoma Antibody, IgG",19.00
+99430,TSI,Thyroid Stimulating Immunoglobulins,20.00
+99431,MMA QNT-P,"MMA Serum/Plasma, Vitamin B12 Status",20.00
+99436,PAN POLY,Pancreatic Polypeptide,12.00
+99440,CALCULI,Calculi (STONE) Analysis,3.00
+99460,CALCULI,Calculi (STONE) Analysis,1.00
+99474,ONION,"Allergen, Food, Onion",7.00
+99479,GARLIC,"Allergen, Food, Garlic",7.00
+99483,LYME CSF,"B. burgdorferi Abs, by ELISA, CSF",10.00
+99521,ACHRMOD,Acetylcholine Receptor Modulating Ab,5.00
+99529,LISTERIA,"Listeria Antibody, Serum by CF",12.00
+99564,STRONGY,"Strongyloides Ab, IgG by ELISA",2.00
+99580,ACHRBLO,Acetylcholine Blocking Ab,17.00
+99598,FILARIASIS,Filaria IgG4 Antibody,11.00
+99614,LATEX,"Allergen, Occupational, Latex IgE Enhanc",1.00
+99728,ANTI-T4,Thyroxine Antibody,8.00
+99869,HOMOCY-QNT,"Homocysteine, Total",6.00
+2000046,P-FYA,Fy (a)  Pt Antigen Typing,14.00
+2000047,P-FYB,Fy (b) Pt Antigen Typing,11.00
+2000048,P-JKA,Jk (a)  Pt Antigen Typing,19.00
+2000049,P-JKB,Jk (b) Pt Antigen Typing,18.00
+2000050,P-K,K Pt Antigen Typing,7.00
+2000057,P-S,S Pt Antigen Typing,5.00
+2000058,P-LIT S,S Pt Antigen Typing,19.00
+2000071,ABORHWD,ABORH Resolution,1.00
+2000203,RBC REQ,RBC Product  Request,12.00
+2000206,CRYO REQ,Cryoprecipitate Product  Request,4.00
+2000207,FFP REQ,Fresh Frozen Plasma Product Request,12.00
+2000208,PLT REQ,Platelet  Product Request,9.00
+2000218,RBC DV REQ,RBC Div Product Request,19.00
+2000220,PLT DV REQ,Platelet  Div Product Request,6.00
+2001577,FLT3 MUTAT,FLT3 Mutation Detection by PCR,13.00
+2001627,QFTG-TB IT,Quantiferon TB Gold In-Tube,3.00
+2001638,ANDRO TMS,Androstenedione by TMS,15.00
+2001640,DHEA TMS,Dehydroepiandrosterone by TMS,15.00
+2001737,VORICON AF,"Voriconazole, Quantitation by LC-MS/MS",15.00
+2001739,POSACON AF,"Posaconazole, Quantitative by LC-MS/MS",5.00
+2001771,GAD-AB,Glutamic Acid Decarboxylase Antibody,5.00
+2001774,BORDPAN2,"B. pertussis Abs, IgG, IgA w/Reflex",6.00
+2001930,AQP4,Aquaporin-4 Receptor Antibody,15.00
+2001932,KRAS RFLX,KRAS Mutation Detection with BRAF Reflex,3.00
+2001933,CF PAN,Cystic Fibrosis (CFTR) 32 Mutations,1.00
+2001946,FRAG X PCR,Fragile X (FMR1) w/Reflex to Methylation,20.00
+2001961,SEQ FSM,"Familial Mutation, Targeted Sequencing",7.00
+2001999,PCA3 TMA,PCA3 by TMA,1.00
+2002022,UIAT,Urticaria-Inducing Activity with Thyroid,12.00
+2002026,CELIAC SCRN,Celiac Disease Screen,2.00
+2002063,CRYGB QNT,Cryoglobulin Qualitative with Rflx,12.00
+2002068,ANCA PN,Anti-Neutrophil Cytoplasmic Ab,8.00
+2002088,ADENOPCR,Adenovirus by Qualitative PCR,16.00
+2002093,T WHIPPLEI,Tropheryma whipplei DNA,1.00
+2002109,SPEP REFLEX,Serum Protein Electrophoresis Reflex,12.00
+2002125,QNTIG CRYO,"Immunoglobulins, Serum Cryoprecipitins",19.00
+2002173,MPA MET,Mycophenolic Acid and Metabolites,5.00
+2002181,PORUFPBGU,Porphyrins and Porphobilinogen,2.00
+2002257,OSM FRG,Osmotic Fragility Erythrocyte,15.00
+2002272,OPFEC,"Ova and Parasite Exam, Fecal.",19.00
+2002277,OPBF,"Ova and Parasite Exam, Body Fluids or Ur",11.00
+2002310,BK QNT URN,"BK Virus Detection by PCR, Urine",7.00
+2002343,CRTN URINE,Creatine Urine,18.00
+2002350,FECQ FAT,"Fecal Fat, Quantitative",14.00
+2002434,BDGLUCAN,"(1,3)-Beta-D-Glucan (Fungitell)",1.00
+2002437,KIT AML,KIT Mutations in AML,19.00
+2002440,EGFR PCR,EGFR by Pyrosequencing,12.00
+2002464,BJP-U REFLEX,"Bence Jones Protein Assay, Reflx to uFLC",4.00
+2002483,HCV AB,Hepatitis C Virus Antibody by CIA,1.00
+2002488,P2Y12,P2Y12 Platelet Function Assay,17.00
+2002529,EXTRA LAV,Extra Specimen Lavender,8.00
+2002531,EXTRA FLD,Extra Specimen Fluid,16.00
+2002533,EXTRA CSF,Extra Specimen CSF,1.00
+2002535,EXTRA BLUE,Extra Specimen Blue,7.00
+2002537,EXTRA URN,Extra Specimen Urine,19.00
+2002539,EXTRA UGRY,Extra Specimen Urine Gray,11.00
+2002541,EXTRA SST,Extra Specimen SST,5.00
+2002543,EXTRA RED,Extra Specimen Red,14.00
+2002545,EXTRA PST,Extra Specimen PST,15.00
+2002550,INHIBINB,Inhibin B,14.00
+2002552,CDIFF AB,C. difficile Cytotoxin Antibody,2.00
+2002569,B2GPI PAN3,"B2glycoprotein 1 Abs, IgG, IgM, IgA",10.00
+2002575,THIOP MET,Thiopurine Metabolites,11.00
+2002582,A/DR,"Aldosterone & Renin, Direct with Ratio",13.00
+2002656,AMH,Anti-Mullerian Hormone,6.00
+2002693,DNA IFA,dsDNA (Crithidia luciliae) Ab IgG by IFA,12.00
+2002734,TR AB,Thyroid Stimulating Hormone Receptor Ab,11.00
+2002749,BUPREN UR,"Buprenorphine and Metabolites, Urine",3.00
+2002764,TRAMAD SP,"Tramadol and Metabolites, Serum/Plasma",4.00
+2002793,EXCEPT SP,Except SP,3.00
+2002838,CDIFF PCR,"C. difficile toxin B gene (tcdB), RT-PCR",20.00
+2002841,EXCEPT TT,Exception Tracking Test,9.00
+2002860,BB ADD SAM,BB Add Sample,15.00
+2002862,GADINS ABS,Gad65 and Anti-Ins Ab w/ Rflx to IA-2 Ab,18.00
+2002939,NATAL ABS,Natalizumab Antibodies,6.00
+2002958,TOBRAED,"Tobramycin, Random Level, EID",20.00
+2002960,TOBRPED,"Tobramycin, Peak Level, EID",6.00
+2003012,IRL-ABIDO,"Antibody ID, RBC (Obstetric Panel Only)",17.00
+2003036,AQP4,Aquaporin-4 Receptor Antibody,2.00
+2003123,NRAS,"NRAS Mutation Detection, Pyrosequencing",15.00
+2003150,ASPERAGB,"Aspergillus Galactomannan EIA, Broncho",7.00
+2003180,COMP 4A,Complement Component 4A,13.00
+2003182,LACOSA SP,"Lacosamide, Serum or Plasma",14.00
+2003189,ETG SCR,"Ethyl Gluc Scrn w/Rflx to Conf, Urine",8.00
+2003191,CDCO ETG/S,"Ethyl Glucuronide/Sulfate Confrm, Urn",18.00
+2003222,PHOS SYN,Antiphospholipid Syndrome Panel,4.00
+2003234,GENOSURE,HIV GenoSure MG,13.00
+2003246,FREE T TMS,Testos Free Adult Male ED/LC-MS/MS,10.00
+2003254,TOF SCR SP,"Drug Screen, Targeted, Serum or Plasma",6.00
+2003259,ENT PANEL,Enterovirus Panel,5.00
+2003277,RA PAN,Rheumatoid Arthritis Panel,5.00
+2003302,CITALO,"Citalopram, Serum or Plasma",6.00
+2003332,DA POC RFX,Drug Screen POC with Reflex Confirmation,3.00
+2003345,DA POC SR,Drug of Abuse Screen only Point of Care,14.00
+2003386,PROT C/S R,"Protein C, Reflex and Protein S, Reflex",1.00
+2003387,VW PANEL R,"von Willebrand Panel, Multimeric Reflex",9.00
+2003439,ALK1 IHC,ALK1 by IHC,4.00
+2003475,C4D IHC,C4D by IHC,6.00
+2003508,CD3 IHC,CD3 by IHC,3.00
+2003511,CD4 IHC,CD4 by IHC,19.00
+2003520,CD8 IHC,CD8 by IHC,11.00
+2003532,CD20 IHC,"CD20, L26 by IHC",6.00
+2003547,CD30 IHC,CD30 (Ki-1) by IHC,7.00
+2003917,HBSAG IHC,Hepatitis B Surface Antigen by IHC,7.00
+2003996,MELANA IHC,Melan A by IHC,1.00
+2004175,VEGFC IHC,VEGF-C by IHC,6.00
+2004221,NMDA IGG,"N-methyl-D-Aspartate Rcptr Ab, IgG, Ser",10.00
+2004246,TE F&T ED,"Testosterone F and T by ED/LC-MS/MS, Mal",13.00
+2004247,CEBPA MUT,CEBPA Mutation Detection,12.00
+2004250,VLCFA,Very Long/Branched-Chain Fatty Acids,11.00
+2004331,GENOSURE,HIV GenoSure MG,15.00
+2004403,HIVRAPID,"HIV 1/2 Antibody Test, Rapid",5.00
+2004519,MIB1 IHC,"Ki-67, MIB-1 by IHC",11.00
+2004589,CWP-KOH,"Stain, Fungal KOH with Calcofluor White",8.00
+2004745,FIBRO V,FibroMeter Virus,12.00
+2004857,EGFR PCR,EGFR by Pyrosequencing,2.00
+2004886,ML CEFTAZ,"Antibiotic Level, Ceftazadime",9.00
+2004890,VGKC AB,Voltage-Gated Potassium Channel (VGKC)Ab,4.00
+2004959,BILLPATH15,HemFlow 9 to 15 Markers Bill,18.00
+2005006,PNH PAN,"PNH Panel (RBC, WBC)",11.00
+2005081,PPLRIC,"PPLR IRR Product, CMV Neg",12.00
+2005083,RBCLRC,"Red Cell Product, Leukoreduced, CMV Neg",4.00
+2005085,RBCLRIC,"RBC LR IRR Product, CMV Neg",8.00
+2005091,CDCO OPI,"Opiates, Urine",16.00
+2005097,CDCO OPI,"Opiates, Urine",5.00
+2005103,OXY SCR UR,"Oxycodone/Oxymorphone Screen Only, Urine",7.00
+2005129,BBHOLD ADD,Additional BB Test Request to Hold Clot,3.00
+2005164,NMDA G CSF,"N-methyl-D-Aspartate Receptor Ab, CSF",5.00
+2005169,EXTRA STOOL,Extra Specimen Stool,11.00
+2005176,MYOSIT PAN,Myositis-Specific Panel (15 Antibodies),9.00
+2005255,MMA METD,"MMA Serum/Plasma, Metabolic Disorder",9.00
+2005287,CHROMATIN,"Chromatin Antibody, IgG",14.00
+2005375,HIV 1 SCRN,HIV-1 Antibody by CIA w/ Reflex,16.00
+2005377,"HIV1,2 SCR","HIV-1,2 Antibodies by CIA w/ Reflex",5.00
+2005383,FLT3 MUTAT,FLT3 Mutation Detection by PCR,6.00
+2005386,APS PAN,Non-Criteria APS Antibody Panel,7.00
+2005400,FLT3 MUTAT,FLT3 Mutation Detection by PCR,2.00
+2005405,METREXSN,"Methotrexate, Sensitive",8.00
+2005415,UIAT,Urticaria-Inducing Activity with Thyroid,11.00
+2005416,UIBA,Urticaria-Induced Basophil Activation,9.00
+2005506,TVAG AMD,Trichomonas vaginalis by TMA,6.00
+2005545,MPL,"MPL codon 515 Mutation Detection, Quant",19.00
+2005593,NATAL ABS,Natalizumab Antibodies,4.00
+2005631,SRA UFH,"SRA, Unfractionated Heparin",8.00
+2005661,FIBRO V,FibroMeter Virus,6.00
+2005713,RSV RAPID,Respiratory Syncytial Virus Rapid Test,19.00
+2005715,CBCDIFF3,CBC with Differential - Three part,16.00
+2005762,POC REFLEX,Chromosome Analysis POC w/Rflx to Array,6.00
+2005792,HB CASCADE,Hemoglobin Evaluation Reflexive Cascade,19.00
+2005972,MUCI SS,"Stain, Mucicarmine",7.00
+2006030,EGFR PCR,EGFR by Pyrosequencing,19.00
+2006035,ESR,"Sedimentation Rate, Westergren Modified",11.00
+2006039,REG11 PAN,"Allergen, Region 11 Respiratory Panel",11.00
+2006096,ADA PLEURA,"Adenosine Deaminase, Pleural Fluid",5.00
+2006102,ALK GENE,ALK Gene Rearrangements in NSCL by FISH,10.00
+2006108,TSHREFLEX,Thyroid Stim. Hormone w/Rflx to Free T4,1.00
+2006110,HISTOGM U,"Histoplasma Galactomannan Ag Quant, Urn",3.00
+2006143,A1C POC,Hemoglobin A1c Point of Care,7.00
+2006193,BCELL SCRN,B-Cell Clonality Screening (IgH and IgK),14.00
+2006196,ZNT8 AB,Zinc Transporter 8 Antibody,18.00
+2006254,PCP PCR,Pnuemocystis jirovecii detection by PCR,2.00
+2006283,BCELL SCRN,B-Cell Clonality Screening (IgH and IgK),8.00
+2006284,T CELL-F,T-Cell Clonality Screening by PCR,13.00
+2006289,ALPHA-SUB,"Alpha Subunit, Pit. Glycoprotein Horm.",13.00
+2006332,EXOME SEQ,Exome Sequencing Symptom-Guided Analysis,20.00
+2006340,TRACKEXADD,"Exome Sequencing, Familial Control",8.00
+2006410,APBLOCKSEL,Selection of Retrieved Archived Tissue,18.00
+2006462,SCLER PAN,Scleroderma Antibodies Panel,20.00
+2006480,ANCA PRO,ANCA Vasculitis Profile w/Rflx to Titer,7.00
+2006526,HIV AGAB,"HIV-1,2 Combo Ag/Ab EIA w/Reflex",3.00
+2006550,THYROG MS,"Thyroglobulin by LC-MS/MS, Serum/Plasma",13.00
+2006685,THYROGRFX,"Thyroglobulin, Serum or Plasma Reflex",12.00
+2006885,U BAR,"Barbiturates Detection, Urine",16.00
+2006898,HCV CORE,Hepatitis C High Resolution Genotyping,10.00
+2007127,REG11U PAN,"Allergens, Respiratory Panel IgE, Utah",3.00
+2007140,HIT AB,"HIT Antibody, PF4 IgG",13.00
+2007145,HIT ABS AM,"HIT Antibodies, PF4 IgA/IgM",9.00
+2007163,G6PD FGS,G6PD Deficiency (G6PD) Sequencing,12.00
+2007190,FOB IA,Fecal Occult Blood by Immunoassay,17.00
+2007192,ADENO QNT,"Adenovirus, Quantitative PCR",13.00
+2007209,ACTIN/M2 R,"F-Actin & M2 Abs, IgG w/ Reflex to SMA",9.00
+2007211,PEANUT COM,"Allergen, Peanut Cmpnts (uKnow) IgE",15.00
+2007220,ECHINO IGG,"Echinococcus Ab, IgG",14.00
+2007324,ALKD5F3 IP,ALK (D5F3) with Interpretation by IHC,4.00
+2007335,LYMECSFR,Lyme Disease Reflexive Panel (CSF),1.00
+2007443,RPR REV,RPR Reverse w/Rflx to Titer or TP-PA,5.00
+2007473,ADENOPCR,Adenovirus by Qualitative PCR,8.00
+2007479,PAIN HYB U,"Pain Mgt Drug Panel, High Res/EMIT, UR",20.00
+2007486,SEND CULT,SEND CULTURE,18.00
+2007508,UA REFLEX,Urinalysis with Reflex to Culture,11.00
+2007573,HBSAG PN,"Hepatitis B Surface Ag w/Rflx, Prenatal",17.00
+2007609,PHOS EXT,Antiphospholipid Abs Extended Panel,1.00
+2007805,RVP PCR,Respiratory Virus Panel by PCR,15.00
+2007820,OMECONTROL,Genomics Patient Control,8.00
+2007880,ALPHA-SUB,"Alpha Subunit, Pit. Glycoprotein Horm.",18.00
+2007893,HPV TMA,"HPV High Risk by TMA, ThinPrep",16.00
+2007909,CDCO ETG/S,"Ethyl Glucuronide/Sulfate Confrm, Urn",6.00
+2007912,ETG SCR,"Ethyl Gluc Scrn w/Rflx to Conf, Urine",20.00
+2007935,LP RATIO,Lactate/Pyruvate Ratio,3.00
+2007961,PCCA/ANNA,Paraneoplastic Abs (PCCA/ANNA) Rflx Scrn,12.00
+2007980,HIVAGABMS,"HIV-1,2 Combo Ag/Ab EIA w/Reflx",8.00
+2007991,SOLID NGS,Solid Tumor Mutation Panel by NGS,20.00
+2007996,META URINE,"Metanephrines Fractionated, Urine",6.00
+2008003,L/L PANEL,"Leuk/Lymph Phenotyping, Flow Cytometry",10.00
+2008114,CELIAC REF,Celiac Disease Reflexive Cascade,7.00
+2008291,CDCO BENZO,Benzodiazepines-Confirmation/Quantitatio,6.00
+2008320,IFX NAB,Infliximab Activity and Neutralizing Ab,4.00
+2008342,NMDP PRO,NMDP Comprehensive Profile,20.00
+2008356,EMPL S TT,Infectious Disease Baseline Sera Storage,9.00
+2008404,TP HPVHI,"HPV High Risk, Hybrid Capture, ThinPrep",6.00
+2008438,GS PRIME,HIV-1 Drug Resistance (GenoSURE PRIme),5.00
+2008509,PGSN,"Progesterone Quant, Serum/Plasma",8.00
+2008650,BATH SALTS,"Bath Salts Panel, Urine",6.00
+2008708,CRA,"Calculi Risk Assessment Panel, Urine",19.00
+2008771,SUPERSAT,"Supersaturation Profile, Urine",6.00
+2008868,NASH FS,NASH FibroSURE,8.00
+2009033,FRAG X PCR,Fragile X (FMR1) w/Reflex to Methylation,9.00
+2009035,TOX SCN ST,Urine Toxicology Screen,20.00
+2009127,GUAIAC GI,"Guaiac, Acute GI Bleed",16.00
+2009255,HCV REFLEX,"HCV Genotype w/Rflx to HCV HighRes, Seq",9.00
+2009288,PAIN HYB 2,"Pain Mgt Pan, High Res/EMIT, Ur, Interp",10.00
+2009310,MGMT,MGMT Methylation Detection by PCR,8.00
+2009337,HHT PANEL,"HHT Panel, Seq and Del/Dup, 5 Genes",18.00
+2009380,C3 NEP,Complement C3 Nephritic Factor,16.00
+2009389,AA QNT P,"Amino Acids Quant by LC-MS/MS, Plasma",1.00
+2009416,FACT H,Complement Factor H (B1H),4.00
+2009418,HISTOGM U,"Histoplasma Galactomannan Ag Quant, Urn",19.00
+2009600,TISSUE P,Permanent/Fixed Tissue Diagnosis,17.00
+2009601,TISSUE F,Frozen Tissue Diagnosis,15.00
+2009965,PSA HCH,Total Serum PSA - for HCH Only,13.00
+2010095,HSVTYPEPCR,HSV-1 and HSV-2 Subtype by PCR,2.00
+2010102,PCA3 TMA,PCA3 by TMA,13.00
+2010125,LEGIONPCR,Legionella Species by Qualitative PCR,20.00
+2010151,HEV IGG,"Hepatitis E Virus Ab, IgG by ELISA",1.00
+2010156,HEV IGM,"Hepatitis E Virus Ab, IgM by ELISA",9.00
+2010357,BUPRO,"Bupropion, Serum or Plasma",14.00
+2010359,MPA MET,Mycophenolic Acid and Metabolites,3.00
+2010673,CALR,CALR (Calreticulin) Exon 9 Mut. Analys.,4.00
+8200060,CYTOL TT,Cytology Tracking Test,19.00

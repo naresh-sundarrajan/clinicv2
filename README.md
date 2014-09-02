@@ -28,14 +28,29 @@ Directory Structure
 Installing Development Environment
 ==================================
 
+
+Create virtual env.
+
     pip install virtualenv
     virtualenv venv
     source venv/bin/activate
-    pip install –r reqs.txt (This will install all requirements for this project)
-    python manage.py syncdb (create master password for your project)
+
+Install Dependcies
+
+    pip install –r reqs.txt 
+
+Set master password
+
+    python manage.py syncdb 
+
+
     python manage.py collectstatic
     python manage.py runserver
-    python -m smtpd -n -c DebuggingServer localhost:1025 (Current version needs your own email server running to authenticate/two-factor authentication)
+
+    
+Email server needed for two factor Auth
+
+    python -m smtpd -n -c DebuggingServer localhost:1025 
 
 
 
